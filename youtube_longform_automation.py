@@ -78,7 +78,7 @@ CATEGORIES_FILIPINO = {
 }
 
 # Edge TTS voices
-ENGLISH_VOICE = "en-US-AndrewNeural"
+ENGLISH_VOICE = "en-US-GuyNeural"
 LANG_VOICE = "fil-PH-BlessicaNeural"
 
 # Phrase history file
