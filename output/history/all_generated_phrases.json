@@ -1,1 +1,725 @@
-﻿{"phrases": [], "last_updated": null}
+{
+  "phrases": [
+    {
+      "english": "Hello, family, how are you?",
+      "filipino": "Kumusta, pamilya, kamusta kayo?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292034"
+    },
+    {
+      "english": "Mom, can I help?",
+      "filipino": "Nanay, pwede po akong tumulong?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292048"
+    },
+    {
+      "english": "Dad, where are you going?",
+      "filipino": "Tatay, saan po kayo pupunta?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292051"
+    },
+    {
+      "english": "Let's eat, everyone.",
+      "filipino": "Kain na tayo, lahat.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292054"
+    },
+    {
+      "english": "This is delicious, Mom.",
+      "filipino": "Masarap ito, Nanay.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292058"
+    },
+    {
+      "english": "I'm home, I'm home!",
+      "filipino": "Nandito na ako, nandito na!",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292061"
+    },
+    {
+      "english": "Clean your room, please.",
+      "filipino": "Ayusin mo ang kwarto mo, please.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292064"
+    },
+    {
+      "english": "Did you finish your homework?",
+      "filipino": "Tapos mo na ba ang homework?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292071"
+    },
+    {
+      "english": "Don't forget to lock the door.",
+      "filipino": "Huwag kalimutang isara ang pinto.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292074"
+    },
+    {
+      "english": "The house is messy.",
+      "filipino": "Magulo ang bahay.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292076"
+    },
+    {
+      "english": "Let's watch TV together.",
+      "filipino": "Manood tayo ng TV nang magkasama.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292079"
+    },
+    {
+      "english": "Turn off the lights, please.",
+      "filipino": "Patayin ang ilaw, please.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292081"
+    },
+    {
+      "english": "I need to rest now.",
+      "filipino": "Kailangan ko nang magpahinga.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292084"
+    },
+    {
+      "english": "Is dinner ready yet?",
+      "filipino": "Handa na ba ang hapunan?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292086"
+    },
+    {
+      "english": "Sweet dreams, my child.",
+      "filipino": "Matulog ka nang mahimbing, anak.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292088"
+    },
+    {
+      "english": "Wake up, it's morning!",
+      "filipino": "Gising na, umaga na!",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292091"
+    },
+    {
+      "english": "Who is at the door?",
+      "filipino": "Sino ang nasa pinto?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292093"
+    },
+    {
+      "english": "Let's go out, family.",
+      "filipino": "Lumabas tayo, pamilya.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292106"
+    },
+    {
+      "english": "I miss you all.",
+      "filipino": "Miss ko kayong lahat.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292110"
+    },
+    {
+      "english": "Thank you for the meal.",
+      "filipino": "Salamat sa pagkain.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292112"
+    },
+    {
+      "english": "Please pass the salt.",
+      "filipino": "Pakisuyo, pakiabot ng asin.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292114"
+    },
+    {
+      "english": "It's too hot in here.",
+      "filipino": "Mainit dito sa loob.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292117"
+    },
+    {
+      "english": "Can you close the window?",
+      "filipino": "Paki-sara ng bintana, please.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292119"
+    },
+    {
+      "english": "I'm tired, I'll sleep.",
+      "filipino": "Pagod na ako, matutulog na.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292121"
+    },
+    {
+      "english": "Good morning, everyone.",
+      "filipino": "Magandang umaga, lahat.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292125"
+    },
+    {
+      "english": "Good evening, family.",
+      "filipino": "Magandang gabi, pamilya.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292127"
+    },
+    {
+      "english": "I love my home.",
+      "filipino": "Mahal ko ang aking tahanan.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292130"
+    },
+    {
+      "english": "Let's clean the house.",
+      "filipino": "Linisin natin ang bahay.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292132"
+    },
+    {
+      "english": "Where is my phone?",
+      "filipino": "Nasaan ang cellphone ko?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292134"
+    },
+    {
+      "english": "Is everyone okay?",
+      "filipino": "Ayos lang ba lahat?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292136"
+    },
+    {
+      "english": "Whose turn is it, dear?",
+      "filipino": "Kaninong turno na ba, mahal?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292139"
+    },
+    {
+      "english": "What are you cooking, Auntie?",
+      "filipino": "Ano ang niluluto mo, Tita?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292141"
+    },
+    {
+      "english": "May I borrow that, Grandma?",
+      "filipino": "Pahiram naman niyan, Lola?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292144"
+    },
+    {
+      "english": "Should we repaint the living room?",
+      "filipino": "Ipinta na ba natin ang sala?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292147"
+    },
+    {
+      "english": "What do you need, little one?",
+      "filipino": "Anong kailangan mo, munting bata?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292151"
+    },
+    {
+      "english": "Did you see my glasses, honey?",
+      "filipino": "Nakita mo ba salamin ko, honey?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292154"
+    },
+    {
+      "english": "Who wants a bedtime story?",
+      "filipino": "Sino ang gustong magpabasa?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292156"
+    },
+    {
+      "english": "Can we visit them this weekend?",
+      "filipino": "Maaari ba natin silang dalawin ngayong Sabado't Linggo?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292159"
+    },
+    {
+      "english": "Is the laundry finished, dear?",
+      "filipino": "Tapos na ba ang labada, mahal?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292161"
+    },
+    {
+      "english": "What are your plans for today?",
+      "filipino": "Ano ang mga plano mo ngayong araw?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292163"
+    },
+    {
+      "english": "Can I have another slice, please?",
+      "filipino": "Maaari pa ba akong humingi ng isang hiwa?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292166"
+    },
+    {
+      "english": "When will the guests arrive, Mom?",
+      "filipino": "Kailan darating ang mga bisita, Nanay?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292169"
+    },
+    {
+      "english": "Do you need help with groceries?",
+      "filipino": "Kailangan mo ba ng tulong sa pamamalengke?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292171"
+    },
+    {
+      "english": "Is this the right way, Uncle?",
+      "filipino": "Ito ba ang tamang daan, Tito?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292174"
+    },
+    {
+      "english": "What's for dessert tonight?",
+      "filipino": "Ano ang panghimagas ngayong gabi?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292177"
+    },
+    {
+      "english": "Should we buy a new sofa?",
+      "filipino": "Bumili na ba tayo ng bagong sofa?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292180"
+    },
+    {
+      "english": "Did you lock all the windows?",
+      "filipino": "Na-lock mo ba lahat ng bintana?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292182"
+    },
+    {
+      "english": "What are you whispering about?",
+      "filipino": "Ano ang pinagbubulungan ninyo?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292184"
+    },
+    {
+      "english": "Can I borrow your charger, please?",
+      "filipino": "Pahiram naman ng charger mo, please?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292187"
+    },
+    {
+      "english": "Who is responsible for this mess?",
+      "filipino": "Sino ang may kagagawan nito?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292189"
+    },
+    {
+      "english": "What time should we leave, Dad?",
+      "filipino": "Anong oras tayo aalis, Tatay?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292191"
+    },
+    {
+      "english": "Is there anything else I can do?",
+      "filipino": "Mayroon pa ba akong magagawa?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292193"
+    },
+    {
+      "english": "Can you turn down the music?",
+      "filipino": "Paki-lakasan naman ang tugtog.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292196"
+    },
+    {
+      "english": "What is this new appliance?",
+      "filipino": "Ano itong bagong gamit sa kusina?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292198"
+    },
+    {
+      "english": "Did the kids finish their snacks?",
+      "filipino": "Naubos na ba ng mga bata ang meryenda?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292200"
+    },
+    {
+      "english": "May I have some water, please?",
+      "filipino": "Maaari bang humingi ng tubig?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292203"
+    },
+    {
+      "english": "What's the wifi password, darling?",
+      "filipino": "Ano ang wifi password, mahal?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292207"
+    },
+    {
+      "english": "Should we invite more relatives?",
+      "filipino": "Mag-imbita pa ba tayo ng mas maraming kamag-anak?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292210"
+    },
+    {
+      "english": "Who ate the last cookie?",
+      "filipino": "Sino ang kumain ng huling cookie?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292212"
+    },
+    {
+      "english": "How was your day, my love?",
+      "filipino": "Kumusta ang araw mo, aking mahal?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292214"
+    },
+    {
+      "english": "Home is where the heart is, you know.",
+      "filipino": "Bahay talaga, ang puso ng tahanan.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292217"
+    },
+    {
+      "english": "Family first, always remember that.",
+      "filipino": "Pamilya muna, 'yan ang tandaan.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292220"
+    },
+    {
+      "english": "Like father, like son, they say.",
+      "filipino": "Kung sino ang ama, siya ang anak.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292222"
+    },
+    {
+      "english": "A united family, is a strong family.",
+      "filipino": "Sama-samang pamilya, matibay talaga.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292225"
+    },
+    {
+      "english": "Let's just eat together, no matter what.",
+      "filipino": "Kain tayo lahat, kahit ano pa 'yan.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292227"
+    },
+    {
+      "english": "He's the black sheep of the family.",
+      "filipino": "Siya ang itim na tupa sa pamilya.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292232"
+    },
+    {
+      "english": "We're just making ends meet, you know.",
+      "filipino": "Naghahanap-buhay lang kami, 'yan.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292235"
+    },
+    {
+      "english": "My parents, they sacrificed a lot.",
+      "filipino": "Mga magulang ko, malaki sakripisyo.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292237"
+    },
+    {
+      "english": "He takes after his mother's side.",
+      "filipino": "Kamukha niya ang angkan ng nanay.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292239"
+    },
+    {
+      "english": "It's a small world, isn't it?",
+      "filipino": "Maliit lang pala ang mundo, 'no?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292242"
+    },
+    {
+      "english": "Blood is thicker than water, always.",
+      "filipino": "Dugo'y mas matibay, kaysa tubig.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292244"
+    },
+    {
+      "english": "We treat everyone like family here.",
+      "filipino": "Lahat itinuturing naming pamilya.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292247"
+    },
+    {
+      "english": "He's the apple of his father's eye.",
+      "filipino": "Siya ang paborito ng tatay.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292249"
+    },
+    {
+      "english": "Let's keep the peace at home.",
+      "filipino": "Panatilihin ang payapa sa bahay.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292251"
+    },
+    {
+      "english": "They're always bickering, those two.",
+      "filipino": "Lagi silang nagbabangayan, dalawa.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292254"
+    },
+    {
+      "english": "You can always count on your siblings.",
+      "filipino": "Makakaasa ka lagi sa kapatid.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292256"
+    },
+    {
+      "english": "This house, it has so many memories.",
+      "filipino": "Bahay na 'to, puno ng alaala.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292261"
+    },
+    {
+      "english": "We're a noisy bunch, but happy.",
+      "filipino": "Maingay kami, pero masaya.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292265"
+    },
+    {
+      "english": "Home is where you can be yourself.",
+      "filipino": "Dito ka, maging totoo sa sarili.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292267"
+    },
+    {
+      "english": "Respect your elders, always taught.",
+      "filipino": "Galang sa nakatatanda, laging tinuro.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292271"
+    },
+    {
+      "english": "She's the glue that holds us together.",
+      "filipino": "Siya ang nagbubuklod sa lahat.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292274"
+    },
+    {
+      "english": "My brother, he's a handful, honestly.",
+      "filipino": "Kapatid ko, mahirap i-handle, totoo.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292277"
+    },
+    {
+      "english": "We always eat together, Sunday nights.",
+      "filipino": "Kain kami lagi, Linggo gabi.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292279"
+    },
+    {
+      "english": "This is our sanctuary, our safe place.",
+      "filipino": "Ito ang santuwaryo, ligtas na lugar.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292281"
+    },
+    {
+      "english": "He's the black sheep, unfortunately.",
+      "filipino": "Siya ang itim na tupa, sayang.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292284"
+    },
+    {
+      "english": "Family is everything, truly.",
+      "filipino": "Pamilya ang lahat, tunay.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292286"
+    },
+    {
+      "english": "We need to stick together, you see.",
+      "filipino": "Kailangan magkadikit tayo, kita mo.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292289"
+    },
+    {
+      "english": "My mother, she's the backbone here.",
+      "filipino": "Nanay ko, ang pundasyon dito.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292293"
+    },
+    {
+      "english": "We're all cut from the same cloth.",
+      "filipino": "Pare-pareho lang kami, talaga.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292295"
+    },
+    {
+      "english": "Home is where the wifi connects automatically.",
+      "filipino": "Bahay, kung saan 'di na mag-login.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292297"
+    },
+    {
+      "english": "My heart feels full, here at home.",
+      "filipino": "Salu-salo ang puso ko, dito sa amin.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292300"
+    },
+    {
+      "english": "This house holds many precious memories.",
+      "filipino": "Ang tahanan na ito, puno ng alaala.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292302"
+    },
+    {
+      "english": "I feel truly at peace, when I'm with you.",
+      "filipino": "Tahimik ang diwa ko, kapag kasama ka.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292305"
+    },
+    {
+      "english": "Let's be patient with each other, always.",
+      "filipino": "Magpasensyahan tayo, lagi dapat.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292308"
+    },
+    {
+      "english": "This is more than just a house, it's a haven.",
+      "filipino": "Hindi lang ito bahay, ito'y kanlungan.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292311"
+    },
+    {
+      "english": "Our bond is what truly matters, you know.",
+      "filipino": "Ang pagkakaisa natin, iyon ang mahalaga.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292313"
+    },
+    {
+      "english": "I'm so grateful for this family.",
+      "filipino": "Malaki ang pasasalamat ko sa pamilya.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292315"
+    },
+    {
+      "english": "Let's cherish these simple moments together.",
+      "filipino": "Mahalin natin ang mga sandaling ito.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292320"
+    },
+    {
+      "english": "Home is where my worries disappear.",
+      "filipino": "Dito sa bahay, nawawala ang lungkot.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292322"
+    },
+    {
+      "english": "I feel so understood, by all of you.",
+      "filipino": "Nauunawaan talaga ako, niyong lahat.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292324"
+    },
+    {
+      "english": "Our love for each other, keeps us strong.",
+      "filipino": "Pagmamahal natin, ang lakas natin.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292326"
+    },
+    {
+      "english": "This place brings me so much joy.",
+      "filipino": "Nagbibigay saya ang lugar na ito.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292328"
+    },
+    {
+      "english": "I'm reflecting on how far we've come.",
+      "filipino": "Iniisp ko na tayo, saan na tayo.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292331"
+    },
+    {
+      "english": "We support each other, no matter what.",
+      "filipino": "Suportado natin ang isa't isa, lagi.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292333"
+    },
+    {
+      "english": "It feels good to be home again.",
+      "filipino": "Masarap na ulit, nasa bahay.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292336"
+    },
+    {
+      "english": "My thoughts are with you, always.",
+      "filipino": "Nasa isip kita, palagi.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292338"
+    },
+    {
+      "english": "This home is built on love.",
+      "filipino": "Sa pag-ibig, itinayo ang bahay.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292340"
+    },
+    {
+      "english": "I treasure our family discussions.",
+      "filipino": "Pinapahalagahan ko usapan natin.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292342"
+    },
+    {
+      "english": "We find strength in our unity.",
+      "filipino": "Lakas natin, ay nagmumula sa pagkakaisa.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292344"
+    },
+    {
+      "english": "This is where my true self emerges.",
+      "filipino": "Dito lumalabas ang tunay na ako.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292348"
+    },
+    {
+      "english": "We accept each other, flaws and all.",
+      "filipino": "Tanggap natin ang bawat isa, anuman.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292350"
+    },
+    {
+      "english": "My heart feels safe, within these walls.",
+      "filipino": "Ligtas ang puso ko, dito sa loob.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292352"
+    },
+    {
+      "english": "Let's keep our home filled with kindness.",
+      "filipino": "Puspusin natin ng kabutihan ang tahanan.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292354"
+    },
+    {
+      "english": "I feel a deep connection to this place.",
+      "filipino": "May malalim na koneksyon ako dito.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292357"
+    },
+    {
+      "english": "We grow together, as a family.",
+      "filipino": "Sama-sama tayong lumalago.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292359"
+    },
+    {
+      "english": "This is our peaceful sanctuary.",
+      "filipino": "Ito ang tahimik nating lugar.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292361"
+    },
+    {
+      "english": "Our laughter echoes through this home.",
+      "filipino": "Ang tawanan natin, bumabati sa bahay.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292363"
+    },
+    {
+      "english": "I cherish the simple routines we share.",
+      "filipino": "Mahal ko ang mga routine natin.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292365"
+    },
+    {
+      "english": "This home represents our shared journey.",
+      "filipino": "Ang bahay na ito, ang ating paglalakbay.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292369"
+    },
+    {
+      "english": "We are a family, through thick and thin.",
+      "filipino": "Pamilya tayo, sa hirap at ginhawa.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:25:11.292372"
+    }
+  ],
+  "last_updated": "2026-10-17T07:25:11.292374"
+}
