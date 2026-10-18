@@ -719,7 +719,727 @@
       "filipino": "Pamilya tayo, sa hirap at ginhawa.",
       "category": "Family & Home",
       "generated_at": "2026-10-17T07:25:11.292372"
+    },
+    {
+      "english": "Thank you, very much.",
+      "filipino": "Maraming salamat, talaga.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303177"
+    },
+    {
+      "english": "I appreciate, this a lot.",
+      "filipino": "Nagpapasalamat ako, dito talaga.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303192"
+    },
+    {
+      "english": "You're a lifesaver, thank you.",
+      "filipino": "Sagip buhay ka, salamat.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303196"
+    },
+    {
+      "english": "Wow, thank you, so kind.",
+      "filipino": "Wow, salamat, ang bait.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303200"
+    },
+    {
+      "english": "I'm so grateful, for you.",
+      "filipino": "Sobrang thankful ako, sa iyo.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303204"
+    },
+    {
+      "english": "This is helpful, thanks.",
+      "filipino": "Nakakatulong ito, salamat.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303207"
+    },
+    {
+      "english": "You didn't have to, but thank you.",
+      "filipino": "Hindi mo kailangan, pero salamat.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303211"
+    },
+    {
+      "english": "I owe you one, thanks.",
+      "filipino": "Utang ko ito, salamat.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303217"
+    },
+    {
+      "english": "All good, thank you.",
+      "filipino": "Ayos lang, salamat.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303222"
+    },
+    {
+      "english": "Bless you, truly.",
+      "filipino": "Pagpalain ka, talaga.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303229"
+    },
+    {
+      "english": "Happy to help, you're welcome.",
+      "filipino": "Masaya akong tumulong, walang anuman.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303233"
+    },
+    {
+      "english": "Consider it done, thanks.",
+      "filipino": "Asahan mo, salamat.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303237"
+    },
+    {
+      "english": "Your help means, a lot.",
+      "filipino": "Malaking bagay ang tulong mo.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303240"
+    },
+    {
+      "english": "So thoughtful, of you.",
+      "filipino": "Napakabait mo talaga.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303243"
+    },
+    {
+      "english": "I'm truly thankful, for this.",
+      "filipino": "Lubos akong nagpapasalamat, dito.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303247"
+    },
+    {
+      "english": "Can't thank you, enough.",
+      "filipino": "Hindi ko kayang sukatin, pasasalamat ko.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303258"
+    },
+    {
+      "english": "That's so sweet, thank you.",
+      "filipino": "Ang tamis naman niyan, salamat.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303262"
+    },
+    {
+      "english": "I appreciate the gesture, thanks.",
+      "filipino": "Pinapahalagahan ko ang ginawa mo, salamat.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303265"
+    },
+    {
+      "english": "You're the best, seriously.",
+      "filipino": "Ikaw na ang pinakamagaling, seryoso.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303269"
+    },
+    {
+      "english": "Thanks for everything, always.",
+      "filipino": "Salamat sa lahat, lagi.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303272"
+    },
+    {
+      "english": "This is unexpected, thank you.",
+      "filipino": "Hindi ko ito inaasahan, salamat.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303275"
+    },
+    {
+      "english": "I'm so thankful, for your time.",
+      "filipino": "Nagpapasalamat ako, sa iyong oras.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303279"
+    },
+    {
+      "english": "You really helped, me out.",
+      "filipino": "Nakatulong ka talaga, sa akin.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303282"
+    },
+    {
+      "english": "What a nice surprise, thanks.",
+      "filipino": "Ang ganda naman ng sorpresa, salamat.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303285"
+    },
+    {
+      "english": "I'm speechless, thank you.",
+      "filipino": "Hindi ako makapagsalita, salamat.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303288"
+    },
+    {
+      "english": "You're too generous, thank you.",
+      "filipino": "Sobrang mapagbigay ka, salamat.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303291"
+    },
+    {
+      "english": "This made my day, thanks.",
+      "filipino": "Pinaganda nito ang araw ko, salamat.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303297"
+    },
+    {
+      "english": "I won't forget, this.",
+      "filipino": "Hindi ko ito malilimutan.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303301"
+    },
+    {
+      "english": "My heartfelt thanks, to you.",
+      "filipino": "Taos-puso ang pasasalamat ko, sa iyo.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303304"
+    },
+    {
+      "english": "So kind of you, to do that.",
+      "filipino": "Napakabait mo, na gawin iyan.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303309"
+    },
+    {
+      "english": "May I ask, for your help?",
+      "filipino": "Maaari po bang humingi, ng tulong?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303312"
+    },
+    {
+      "english": "Is it okay, to ask a question?",
+      "filipino": "Pwede po bang magtanong, ng isa?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303316"
+    },
+    {
+      "english": "Could you explain, this please?",
+      "filipino": "Maaari niyo bang ipaliwanag, ito?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303319"
+    },
+    {
+      "english": "What do you think, about this?",
+      "filipino": "Ano po ang masasabi niyo, dito?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303323"
+    },
+    {
+      "english": "Can you give me, advice?",
+      "filipino": "Maaari mo ba akong bigyan, ng payo?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303326"
+    },
+    {
+      "english": "How can I help, you better?",
+      "filipino": "Paano ko pa kayo matutulungan, ng mas maayos?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303330"
+    },
+    {
+      "english": "What are your thoughts, on this?",
+      "filipino": "Ano po ang inyong opinyon, dito?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303333"
+    },
+    {
+      "english": "May I share, my experience?",
+      "filipino": "Maaari ko bang ibahagi, ang aking karanasan?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303336"
+    },
+    {
+      "english": "Is there anything, I missed?",
+      "filipino": "Mayroon pa ba akong nakaligtaan?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303340"
+    },
+    {
+      "english": "Can we talk, about this later?",
+      "filipino": "Maaari ba nating pag-usapan, ito mamaya?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303343"
+    },
+    {
+      "english": "Your opinion matters, to me.",
+      "filipino": "Mahalaga sa akin, ang inyong opinyon.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303346"
+    },
+    {
+      "english": "What is the best way, to do this?",
+      "filipino": "Ano ang pinakamahusay na paraan, para gawin ito?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303393"
+    },
+    {
+      "english": "Can you teach me, something new?",
+      "filipino": "Maaari mo ba akong turuan, ng bago?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303399"
+    },
+    {
+      "english": "I'm curious, about your culture.",
+      "filipino": "Interesado ako, sa inyong kultura.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303403"
+    },
+    {
+      "english": "Do you have suggestions, for me?",
+      "filipino": "Mayroon ka bang mga mungkahi, para sa akin?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303407"
+    },
+    {
+      "english": "Tell me more, please.",
+      "filipino": "Maaari mo pa akong bigyan, ng detalye?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303410"
+    },
+    {
+      "english": "What’s your favorite, part?",
+      "filipino": "Ano ang paborito mong, bahagi?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303417"
+    },
+    {
+      "english": "Is there a better, approach?",
+      "filipino": "Mayroon pa bang mas magandang, paraan?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303421"
+    },
+    {
+      "english": "Can we discuss, this further?",
+      "filipino": "Maaari ba nating pag-usapan, ito ng mas malalim?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303425"
+    },
+    {
+      "english": "What’s your perspective, on this?",
+      "filipino": "Ano ang iyong pananaw, dito?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303430"
+    },
+    {
+      "english": "I want to learn, from you.",
+      "filipino": "Gusto kong matuto, mula sa inyo.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303434"
+    },
+    {
+      "english": "Can you show me, how?",
+      "filipino": "Maaari mo ba akong turuan, kung paano?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303441"
+    },
+    {
+      "english": "What else, should I know?",
+      "filipino": "Ano pa ang dapat kong, malaman?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303444"
+    },
+    {
+      "english": "Your guidance, is valuable.",
+      "filipino": "Ang inyong gabay, ay mahalaga.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303448"
+    },
+    {
+      "english": "Can we brainstorm, together?",
+      "filipino": "Maaari ba tayong mag-isip, nang sabay?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303452"
+    },
+    {
+      "english": "How do you handle, this?",
+      "filipino": "Paano mo hinahawakan, ang ganito?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303455"
+    },
+    {
+      "english": "What’s the local, way?",
+      "filipino": "Ano ang lokal, na paraan?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303460"
+    },
+    {
+      "english": "Can you share, your insights?",
+      "filipino": "Maaari mo bang ibahagi, ang iyong mga pananaw?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303463"
+    },
+    {
+      "english": "Your patience, is appreciated.",
+      "filipino": "Ang iyong pasensya, ay pinasasalamatan.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303466"
+    },
+    {
+      "english": "Believe in yourself, always.",
+      "filipino": "Manalig ka sa sarili, lagi.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303469"
+    },
+    {
+      "english": "Keep a positive mind, friend.",
+      "filipino": "Isip ay positibo, kaibigan.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303473"
+    },
+    {
+      "english": "You're doing great, really.",
+      "filipino": "Galing mo talaga, promise.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303477"
+    },
+    {
+      "english": "Proud of you, so much.",
+      "filipino": "Proud ako sa iyo, sobra.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303480"
+    },
+    {
+      "english": "Keep up the good work.",
+      "filipino": "Tuloy mo lang 'yan.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303483"
+    },
+    {
+      "english": "You've got this, I know.",
+      "filipino": "Kaya mo 'yan, alam ko.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303487"
+    },
+    {
+      "english": "Never give up, okay?",
+      "filipino": "Huwag susuko, ha?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303491"
+    },
+    {
+      "english": "Embrace the journey, now.",
+      "filipino": "Yakapin ang paglalakbay, ngayon.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303494"
+    },
+    {
+      "english": "Your effort is seen.",
+      "filipino": "Nakikita ang pagsisikap mo.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303497"
+    },
+    {
+      "english": "Keep shining, brightly.",
+      "filipino": "Patuloy kang magniningning.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303499"
+    },
+    {
+      "english": "Focus on progress, not perfection.",
+      "filipino": "Pokus sa pag-unlad, hindi perpekto.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303502"
+    },
+    {
+      "english": "You inspire me, truly.",
+      "filipino": "Nagbibigay inspirasyon ka, sa akin.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303505"
+    },
+    {
+      "english": "What a great attitude!",
+      "filipino": "Ang ganda ng ugali mo!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303507"
+    },
+    {
+      "english": "Your potential is huge.",
+      "filipino": "Malaki ang potensyal mo.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303510"
+    },
+    {
+      "english": "Stay strong, always.",
+      "filipino": "Manatiling matatag, lagi.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303514"
+    },
+    {
+      "english": "Give your best, always.",
+      "filipino": "Ibigay ang lahat, palagi.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303517"
+    },
+    {
+      "english": "You can achieve anything.",
+      "filipino": "Kaya mong abutin lahat.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303520"
+    },
+    {
+      "english": "Your growth is amazing.",
+      "filipino": "Nakakamangha paglago mo.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303524"
+    },
+    {
+      "english": "Think big, dream bigger.",
+      "filipino": "Isip malaki, pangarap mas malaki.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303527"
+    },
+    {
+      "english": "Find joy in small things.",
+      "filipino": "Hanapin saya sa maliliit.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303529"
+    },
+    {
+      "english": "Your kindness is a gift.",
+      "filipino": "Bait mo, biyaya.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303532"
+    },
+    {
+      "english": "Let go of doubts.",
+      "filipino": "Bitawan ang pagdududa.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303535"
+    },
+    {
+      "english": "Embrace new challenges.",
+      "filipino": "Tanggapin bagong hamon.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303538"
+    },
+    {
+      "english": "You have a good heart.",
+      "filipino": "Mabuti kang tao.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303542"
+    },
+    {
+      "english": "Keep learning, evolving.",
+      "filipino": "Patuloy matuto, magbago.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303544"
+    },
+    {
+      "english": "Your presence is a blessing.",
+      "filipino": "Pagdating mo, swerte.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303547"
+    },
+    {
+      "english": "Face fears, head on.",
+      "filipino": "Harapin takot, direkta.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303549"
+    },
+    {
+      "english": "See the good, always.",
+      "filipino": "Tingnan ang mabuti, lagi.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303552"
+    },
+    {
+      "english": "You are capable, very.",
+      "filipino": "May kakayahan ka, talaga.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303554"
+    },
+    {
+      "english": "Gratitude opens doors.",
+      "filipino": "Pasasalamat, magbubukas ng pinto.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303557"
+    },
+    {
+      "english": "I truly appreciate, your understanding.",
+      "filipino": "Lubos kong pinahahalagahan, ang iyong pag-unawa.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303560"
+    },
+    {
+      "english": "This means a lot, to me.",
+      "filipino": "Malaki ang ibig sabihin nito, sa akin.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303562"
+    },
+    {
+      "english": "I feel so much better, now.",
+      "filipino": "Mas magaan na ang pakiramdam ko, ngayon.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303565"
+    },
+    {
+      "english": "Your support, gives me strength.",
+      "filipino": "Ang suporta mo, nagbibigay lakas sa akin.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303568"
+    },
+    {
+      "english": "It's good to reflect, sometimes.",
+      "filipino": "Mabuti rin magmuni-muni, kung minsan.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303571"
+    },
+    {
+      "english": "I'm learning to be patient, with myself.",
+      "filipino": "Natututo akong maging pasensyoso, sa sarili ko.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303574"
+    },
+    {
+      "english": "What a wise perspective, friend.",
+      "filipino": "Ang talinong pananaw, kaibigan.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303576"
+    },
+    {
+      "english": "I feel a deeper connection, now.",
+      "filipino": "Mas malalim ang koneksyon ko, ngayon.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303579"
+    },
+    {
+      "english": "Thank you for your honest feelings.",
+      "filipino": "Salamat sa iyong tapat na damdamin.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303581"
+    },
+    {
+      "english": "This experience taught me, much.",
+      "filipino": "Marami akong natutunan sa karanasang ito.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303584"
+    },
+    {
+      "english": "I'm grateful for your presence, always.",
+      "filipino": "Nagpapasalamat ako sa presensya mo, palagi.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303587"
+    },
+    {
+      "english": "It's okay to feel this way.",
+      "filipino": "Okay lang na maramdaman ito.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303589"
+    },
+    {
+      "english": "Your empathy, means the world.",
+      "filipino": "Ang iyong pakikiramay, ay napakahalaga.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303592"
+    },
+    {
+      "english": "I'm reflecting on my journey, today.",
+      "filipino": "Pinagninilayan ko ang aking paglalakbay, ngayon.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303595"
+    },
+    {
+      "english": "Thank you for listening, deeply.",
+      "filipino": "Salamat sa pakikinig mo, nang malalim.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303598"
+    },
+    {
+      "english": "I value your sincerity, greatly.",
+      "filipino": "Malaki ang halaga ng iyong katapatan.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303602"
+    },
+    {
+      "english": "This is a moment, of growth.",
+      "filipino": "Ito ay isang sandali, ng paglago.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303608"
+    },
+    {
+      "english": "I'm thankful for your honesty, always.",
+      "filipino": "Pasasalamat ko ang iyong katapatan, palagi.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303611"
+    },
+    {
+      "english": "Your understanding helps, a lot.",
+      "filipino": "Ang iyong pag-unawa, malaking tulong.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303613"
+    },
+    {
+      "english": "Let's be open, with each other.",
+      "filipino": "Maging bukas tayo, sa isa't isa.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303616"
+    },
+    {
+      "english": "I feel a sense of peace, now.",
+      "filipino": "May kapayapaan akong nararamdaman, ngayon.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303619"
+    },
+    {
+      "english": "Thank you for your perspective, friend.",
+      "filipino": "Salamat sa iyong pananaw, kaibigan.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303622"
+    },
+    {
+      "english": "I'm grateful for this wisdom shared.",
+      "filipino": "Nagpapasalamat ako sa karunungang ibinahagi.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303624"
+    },
+    {
+      "english": "This is a valuable lesson, learned.",
+      "filipino": "Ito ay isang mahalagang aral, na natutunan.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303627"
+    },
+    {
+      "english": "I'm feeling more hopeful, today.",
+      "filipino": "Mas umaasa ako, ngayon.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303631"
+    },
+    {
+      "english": "Thank you for your gentle spirit.",
+      "filipino": "Salamat sa iyong mahinahong diwa.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303633"
+    },
+    {
+      "english": "I can be vulnerable, with you.",
+      "filipino": "Maaari akong maging mahina, sa iyo.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303636"
+    },
+    {
+      "english": "Your kindness makes a difference, truly.",
+      "filipino": "Malaki ang nagagawa ng iyong kabaitan, talaga.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303638"
+    },
+    {
+      "english": "I'm finding my own voice, now.",
+      "filipino": "Natatagpuan ko ang sarili kong boses, ngayon.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303641"
+    },
+    {
+      "english": "Share your blessings, often.",
+      "filipino": "Ibahagi ang biyaya, madalas.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303644"
+    },
+    {
+      "english": "Notice good deeds, around you.",
+      "filipino": "Pansinin ang kabutihan, sa paligid.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T07:40:13.303646"
     }
   ],
-  "last_updated": "2026-10-17T07:25:11.292374"
+  "last_updated": "2026-10-18T07:40:13.303648"
 }
