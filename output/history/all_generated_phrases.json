@@ -1439,7 +1439,727 @@
       "filipino": "Pansinin ang kabutihan, sa paligid.",
       "category": "Gratitude",
       "generated_at": "2026-10-18T07:40:13.303646"
+    },
+    {
+      "english": "Be brave, my friend.",
+      "filipino": "Maging matapang, kaibigan ko.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858071"
+    },
+    {
+      "english": "You have courage, believe it.",
+      "filipino": "May tapang ka, paniwalaan mo.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858085"
+    },
+    {
+      "english": "Don't be afraid, try it.",
+      "filipino": "Huwag matakot, subukan mo.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858090"
+    },
+    {
+      "english": "Show your strength, now.",
+      "filipino": "Ipakita ang lakas mo, ngayon.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858095"
+    },
+    {
+      "english": "It takes guts, truly.",
+      "filipino": "Kailangan ng loob, talaga.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858098"
+    },
+    {
+      "english": "Are you feeling bold?",
+      "filipino": "Matapang ba ang pakiramdam mo?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858102"
+    },
+    {
+      "english": "Let's be daring, together.",
+      "filipino": "Maging malakas ang loob, tayo.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858106"
+    },
+    {
+      "english": "This is your moment, shine.",
+      "filipino": "Ito na ang oras mo, kuminang.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858113"
+    },
+    {
+      "english": "Push your limits, go.",
+      "filipino": "Itulak ang hangganan mo, sige.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858118"
+    },
+    {
+      "english": "You're stronger than you think.",
+      "filipino": "Mas malakas ka pa sa iniisip mo.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858122"
+    },
+    {
+      "english": "Take a leap of faith.",
+      "filipino": "Sumabak ka, manalig ka.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858128"
+    },
+    {
+      "english": "Stand up, for yourself.",
+      "filipino": "Tumayo ka, para sa sarili mo.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858132"
+    },
+    {
+      "english": "Be fearless, always.",
+      "filipino": "Walang takot, lagi.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858136"
+    },
+    {
+      "english": "Did you find your courage?",
+      "filipino": "Nahanap mo na ba ang tapang mo?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858139"
+    },
+    {
+      "english": "It's okay to be scared.",
+      "filipino": "Okay lang matakot.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858143"
+    },
+    {
+      "english": "Brave hearts win, always.",
+      "filipino": "Laging nananalo ang matatapang.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858147"
+    },
+    {
+      "english": "Embrace the challenge, friend.",
+      "filipino": "Yakapin ang hamon, kaibigan.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858151"
+    },
+    {
+      "english": "You can do this, I know.",
+      "filipino": "Kaya mo 'to, alam ko.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858155"
+    },
+    {
+      "english": "Inner strength is key.",
+      "filipino": "Lakas ng loob ang susi.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858158"
+    },
+    {
+      "english": "Don't back down, fight.",
+      "filipino": "Huwag umatras, lumaban.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858162"
+    },
+    {
+      "english": "What a courageous move!",
+      "filipino": "Ang tapang naman niyan!",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858166"
+    },
+    {
+      "english": "Are you ready to be bold?",
+      "filipino": "Handa ka na bang maging matapang?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858169"
+    },
+    {
+      "english": "Let your spirit soar high.",
+      "filipino": "Paliparin ang iyong diwa.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858172"
+    },
+    {
+      "english": "It's time to be a hero.",
+      "filipino": "Oras na para maging bayani.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858176"
+    },
+    {
+      "english": "Show them what you've got.",
+      "filipino": "Ipakita mo ang kaya mo.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858182"
+    },
+    {
+      "english": "Be bold, be you.",
+      "filipino": "Maging matapang, maging ikaw.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858186"
+    },
+    {
+      "english": "Courage is contagious, spread it.",
+      "filipino": "Nakakahawa ang tapang, ikalat mo.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858190"
+    },
+    {
+      "english": "Who needs courage more?",
+      "filipino": "Sino pa ang kailangan ng tapang?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858195"
+    },
+    {
+      "english": "Let's face it, bravely.",
+      "filipino": "Hharapin natin ito, nang may tapang.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858199"
+    },
+    {
+      "english": "What's stopping you, really?",
+      "filipino": "Ano'ng pumipigil sa'yo, talaga?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858203"
+    },
+    {
+      "english": "Can you help me try?",
+      "filipino": "Maaari mo ba akong tulungang sumubok?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858206"
+    },
+    {
+      "english": "What if we fail, though?",
+      "filipino": "Pa'no kung mabigo tayo, di ba?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858209"
+    },
+    {
+      "english": "Do you need encouragement, friend?",
+      "filipino": "Kailangan mo ba ng lakas ng loob, kaibigan?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858212"
+    },
+    {
+      "english": "How did you overcome that fear?",
+      "filipino": "Pa'no mo nalampasan ang takot na iyon?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858215"
+    },
+    {
+      "english": "Is it worth the risk, do you think?",
+      "filipino": "Sulit ba ang panganib, sa tingin mo?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858218"
+    },
+    {
+      "english": "Should I speak up, or stay quiet?",
+      "filipino": "Dapat ba akong magsalita, o manahimik?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858220"
+    },
+    {
+      "english": "Are you sure about this decision?",
+      "filipino": "Sigurado ka ba tungkol dito sa desisyon?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858223"
+    },
+    {
+      "english": "What do you think I should do?",
+      "filipino": "Sa tingin mo, ano ang dapat kong gawin?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858285"
+    },
+    {
+      "english": "Is it hard to be brave?",
+      "filipino": "Mahirap ba maging matapang?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858288"
+    },
+    {
+      "english": "How do you stay motivated?",
+      "filipino": "Pa'no ka nananatiling may gana?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858291"
+    },
+    {
+      "english": "Did you consider the consequences?",
+      "filipino": "Naisip mo ba ang mga kahihinatnan?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858293"
+    },
+    {
+      "english": "What if someone gets hurt?",
+      "filipino": "Pa'no kung may masaktan?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858296"
+    },
+    {
+      "english": "Can we trust them, maybe?",
+      "filipino": "Maaari ba natin silang pagkatiwalaan, siguro?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858301"
+    },
+    {
+      "english": "Is it a good time to act?",
+      "filipino": "Magandang oras na ba para kumilos?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858304"
+    },
+    {
+      "english": "What's your strategy for this?",
+      "filipino": "Ano ang istratehiya mo para dito?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858321"
+    },
+    {
+      "english": "Are you prepared for anything?",
+      "filipino": "Handa ka na ba para sa anumang mangyari?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858324"
+    },
+    {
+      "english": "How do you deal with pressure?",
+      "filipino": "Pa'no mo hinaharap ang presyon?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858327"
+    },
+    {
+      "english": "Should we ask for more support?",
+      "filipino": "Hihingi ba tayo ng mas maraming suporta?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858330"
+    },
+    {
+      "english": "What's the biggest challenge here?",
+      "filipino": "Ano ang pinakamalaking hamon dito?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858333"
+    },
+    {
+      "english": "Do you believe in this idea?",
+      "filipino": "Naniniwala ka ba sa ideyang ito?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858335"
+    },
+    {
+      "english": "What's the best way forward?",
+      "filipino": "Ano ang pinakamahusay na paraan pasulong?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858338"
+    },
+    {
+      "english": "Can you offer some guidance?",
+      "filipino": "Maaari ka bang magbigay ng ilang gabay?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858341"
+    },
+    {
+      "english": "What if it doesn't work out?",
+      "filipino": "Pa'no kung hindi ito magtagumpay?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858343"
+    },
+    {
+      "english": "Are you willing to take a chance?",
+      "filipino": "Gusto mo bang sumugal, kaibigan?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858346"
+    },
+    {
+      "english": "How do we face opposition?",
+      "filipino": "Pa'no natin haharapin ang oposisyon?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858349"
+    },
+    {
+      "english": "What's your gut feeling about this?",
+      "filipino": "Ano ang kutob mo tungkol dito?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858352"
+    },
+    {
+      "english": "Should we proceed with caution?",
+      "filipino": "Magpatuloy ba tayo nang may pag-iingat?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858357"
+    },
+    {
+      "english": "What can we learn from this?",
+      "filipino": "Ano ang matututunan natin dito?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858359"
+    },
+    {
+      "english": "Your strength is amazing.",
+      "filipino": "Nakakamangha ang iyong lakas.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858362"
+    },
+    {
+      "english": "You've got this, don't worry.",
+      "filipino": "Kaya mo 'yan, huwag kang mag-alala.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858365"
+    },
+    {
+      "english": "Keep pushing forward, never stop.",
+      "filipino": "Patuloy lang ang pag-abante, huwag tumigil.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858368"
+    },
+    {
+      "english": "That was a brave choice.",
+      "filipino": "Matapang na desisyon 'yan.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858371"
+    },
+    {
+      "english": "Your courage inspires others.",
+      "filipino": "Nagbibigay inspirasyon sa iba ang tapang mo.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858374"
+    },
+    {
+      "english": "Take a deep breath, you can.",
+      "filipino": "Humiga ka ng malalim, kaya mo.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858376"
+    },
+    {
+      "english": "Stand tall, be proud.",
+      "filipino": "Tumayo kang tuwid, maging proud ka.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858379"
+    },
+    {
+      "english": "Your spirit is unbreakable.",
+      "filipino": "Hindi mababasag ang iyong diwa.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858382"
+    },
+    {
+      "english": "Let your bravery shine through.",
+      "filipino": "Hayaan mong mamukadkad ang iyong tapang.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858388"
+    },
+    {
+      "english": "This is your moment, seize it.",
+      "filipino": "Ito ang sandali mo, abutin mo.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858391"
+    },
+    {
+      "english": "Don't let fear hold you back.",
+      "filipino": "Huwag mong hayaang pigilan ka ng takot.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858394"
+    },
+    {
+      "english": "You're doing great, keep going.",
+      "filipino": "Mahusay ang ginagawa mo, tuloy lang.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858398"
+    },
+    {
+      "english": "Your determination is admirable.",
+      "filipino": "Kapuri-puri ang iyong determinasyon.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858401"
+    },
+    {
+      "english": "Face it with a brave heart.",
+      "filipino": "Harapin mo ito ng may matapang na puso.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858403"
+    },
+    {
+      "english": "You have the power within.",
+      "filipino": "Nasa iyo ang kapangyarihan sa loob.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858406"
+    },
+    {
+      "english": "Be courageous, be resilient.",
+      "filipino": "Maging matapang, maging matatag.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858409"
+    },
+    {
+      "english": "I believe in your potential.",
+      "filipino": "Naniniwala ako sa iyong potensyal.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858413"
+    },
+    {
+      "english": "Every step forward counts.",
+      "filipino": "Bawat hakbang paabante ay mahalaga.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858416"
+    },
+    {
+      "english": "You are capable of great things.",
+      "filipino": "Magagawa mo ang mga dakilang bagay.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858419"
+    },
+    {
+      "english": "Don't give up on your dreams.",
+      "filipino": "Huwag sumuko sa iyong mga pangarap.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858422"
+    },
+    {
+      "english": "Your perseverance is inspiring.",
+      "filipino": "Nakaka-inspire ang iyong pagpupursige.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858424"
+    },
+    {
+      "english": "Find your inner courage now.",
+      "filipino": "Hanapin mo na ang tapang sa loob mo.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858427"
+    },
+    {
+      "english": "You are braver than you think.",
+      "filipino": "Mas matapang ka kaysa sa inaakala mo.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858429"
+    },
+    {
+      "english": "Let courage guide your actions.",
+      "filipino": "Hayaan mong gabayan ng tapang ang iyong kilos.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858434"
+    },
+    {
+      "english": "Rise above the difficulties.",
+      "filipino": "Bumangon ka sa mga pagsubok.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858437"
+    },
+    {
+      "english": "You possess remarkable fortitude.",
+      "filipino": "Taglay mo ang kahanga-hangang katatagan.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858440"
+    },
+    {
+      "english": "Dare to be extraordinary today.",
+      "filipino": "Maglakas-loob na maging kakaiba ngayon.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858442"
+    },
+    {
+      "english": "It takes patience, to be brave.",
+      "filipino": "Kailangan ng pasensya, para maging matapang.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858445"
+    },
+    {
+      "english": "Sometimes, honesty requires courage.",
+      "filipino": "Minsan, kailangan ng tapang, ang pagiging totoo.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858448"
+    },
+    {
+      "english": "Reflect deeply, before you speak.",
+      "filipino": "Magnilay ka nang malalim, bago ka magsalita.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858456"
+    },
+    {
+      "english": "True courage, is quiet strength.",
+      "filipino": "Ang tunay na tapang, ay tahimik na lakas.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858459"
+    },
+    {
+      "english": "Acknowledge your fears, then move.",
+      "filipino": "Kilalanin mo ang takot, saka ka kumilos.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858462"
+    },
+    {
+      "english": "Emotional honesty, needs bravery.",
+      "filipino": "Ang damdaming tapat, ay nangangailangan ng tapang.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858465"
+    },
+    {
+      "english": "What lessons, did this teach you?",
+      "filipino": "Anong mga aral, ang itinuro nito sa iyo?",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858468"
+    },
+    {
+      "english": "Be patient with yourself, always.",
+      "filipino": "Maging mahinahon ka sa sarili, palagi.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858471"
+    },
+    {
+      "english": "Your vulnerability, is also strength.",
+      "filipino": "Ang iyong kahinaan, ay lakas din.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858474"
+    },
+    {
+      "english": "Dare to feel, everything honestly.",
+      "filipino": "Maglakas-loob kang makaramdam, ng lahat nang totoo.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858476"
+    },
+    {
+      "english": "Acceptance takes a brave heart.",
+      "filipino": "Ang pagtanggap, ay nangangailangan ng matapang na puso.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858479"
+    },
+    {
+      "english": "Express your truth, with kindness.",
+      "filipino": "Sabihin ang iyong totoo, nang may kabaitan.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858482"
+    },
+    {
+      "english": "Growth happens, outside comfort zones.",
+      "filipino": "Ang paglago ay nangyayari, sa labas ng kumportable.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858485"
+    },
+    {
+      "english": "Forgiveness, is a courageous act.",
+      "filipino": "Ang pagpapatawad, ay isang matapang na gawa.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858488"
+    },
+    {
+      "english": "Listen to your inner voice.",
+      "filipino": "Makinig ka sa iyong kalooban.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858490"
+    },
+    {
+      "english": "Difficult feelings, can be shared.",
+      "filipino": "Ang mahihirap na damdamin, ay maaaring ibahagi.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858493"
+    },
+    {
+      "english": "Embrace change, with open arms.",
+      "filipino": "Yakapin ang pagbabago, nang buong puso.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858496"
+    },
+    {
+      "english": "Self-compassion, fuels resilience.",
+      "filipino": "Ang pagmamalasakit sa sarili, nagpapatatag.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858499"
+    },
+    {
+      "english": "Stand firm, in your convictions.",
+      "filipino": "Tumayo ka nang matatag, sa iyong mga paniniwala.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858502"
+    },
+    {
+      "english": "Seek understanding, not judgment.",
+      "filipino": "Maghanap ng pag-unawa, hindi paghusga.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858505"
+    },
+    {
+      "english": "Quiet strength, speaks volumes.",
+      "filipino": "Ang tahimik na lakas, ay malakas magsalita.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858509"
+    },
+    {
+      "english": "Rebuild, after every fall.",
+      "filipino": "Muling bumangon, pagkatapos ng bawat pagbagsak.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858512"
+    },
+    {
+      "english": "Trust the process, bravely.",
+      "filipino": "Magtiwala ka sa proseso, nang buong tapang.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858515"
+    },
+    {
+      "english": "Humility, makes you stronger.",
+      "filipino": "Ang pagpapakumbaba, ay nagpapalakas sa iyo.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858518"
+    },
+    {
+      "english": "Your inner peace, is vital.",
+      "filipino": "Ang iyong kapayapaan sa loob, ay mahalaga.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858520"
+    },
+    {
+      "english": "Let go, of what no longer serves.",
+      "filipino": "Bitawan mo, ang hindi na naglilingkod.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858523"
+    },
+    {
+      "english": "Real courage, is being authentic.",
+      "filipino": "Ang tunay na tapang, ay pagiging totoo sa sarili.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858528"
+    },
+    {
+      "english": "Speak your heart, clearly.",
+      "filipino": "Sabihin mo ang iyong puso, nang malinaw.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858531"
+    },
+    {
+      "english": "Try new things, don't be afraid.",
+      "filipino": "Subok ng bago, 'wag matakot.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858534"
+    },
+    {
+      "english": "Ask for help, it's okay.",
+      "filipino": "Humingi ng tulong, 'okay lang.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858537"
+    },
+    {
+      "english": "Speak up, if something's wrong.",
+      "filipino": "Magsalita ka, kung mali.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858540"
+    },
+    {
+      "english": "Face your fears, one step.",
+      "filipino": "Harapin ang takot, isang hakbang.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858543"
+    },
+    {
+      "english": "Be honest, even when hard.",
+      "filipino": "Maging tapat, kahit mahirap.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858546"
+    },
+    {
+      "english": "Take a chance, see what happens.",
+      "filipino": "Sumugal ka, tingnan natin.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858549"
+    },
+    {
+      "english": "Stand by your beliefs, always.",
+      "filipino": "Manindigan sa paniniwala, lagi.",
+      "category": "Courage",
+      "generated_at": "2026-10-19T08:22:17.858551"
     }
   ],
-  "last_updated": "2026-10-18T07:40:13.303648"
+  "last_updated": "2026-10-19T08:22:17.858553"
 }
