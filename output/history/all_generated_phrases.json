@@ -2159,7 +2159,727 @@
       "filipino": "Manindigan sa paniniwala, lagi.",
       "category": "Courage",
       "generated_at": "2026-10-19T08:22:17.858551"
+    },
+    {
+      "english": "What's the main goal?",
+      "filipino": "Ano ang pangunahing layunin?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531757"
+    },
+    {
+      "english": "Why did you do that?",
+      "filipino": "Bakit mo ginawa 'yan?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531770"
+    },
+    {
+      "english": "For what reason?",
+      "filipino": "Para saan ba?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531774"
+    },
+    {
+      "english": "What's your intention?",
+      "filipino": "Ano ang intensyon mo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531777"
+    },
+    {
+      "english": "It's for a good cause.",
+      "filipino": "Para sa mabuting layunin 'yan.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531780"
+    },
+    {
+      "english": "What's the purpose?",
+      "filipino": "Ano ang purpose?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531782"
+    },
+    {
+      "english": "I have a mission.",
+      "filipino": "May misyon ako.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531785"
+    },
+    {
+      "english": "What are you aiming for?",
+      "filipino": "Ano ang target mo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531791"
+    },
+    {
+      "english": "This is my calling.",
+      "filipino": "Ito ang aking calling.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531796"
+    },
+    {
+      "english": "What's the point of this?",
+      "filipino": "Ano ang point nito?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531799"
+    },
+    {
+      "english": "We have a goal.",
+      "filipino": "Mayroon tayong goal.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531802"
+    },
+    {
+      "english": "What's your objective?",
+      "filipino": "Ano ang objective mo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531804"
+    },
+    {
+      "english": "It's for learning.",
+      "filipino": "Para matuto.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531807"
+    },
+    {
+      "english": "What's the reason behind it?",
+      "filipino": "Ano ang dahilan niyan?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531810"
+    },
+    {
+      "english": "My purpose is clear.",
+      "filipino": "Malinaw ang purpose ko.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531812"
+    },
+    {
+      "english": "What's your motive?",
+      "filipino": "Ano ang motibo mo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531815"
+    },
+    {
+      "english": "It's for a purpose.",
+      "filipino": "May purpose 'yan.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531817"
+    },
+    {
+      "english": "What's this for?",
+      "filipino": "Para saan 'to?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531820"
+    },
+    {
+      "english": "I'm doing this for you.",
+      "filipino": "Ginagawa ko 'to para sa'yo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531822"
+    },
+    {
+      "english": "What is your aim?",
+      "filipino": "Ano ang layon mo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531825"
+    },
+    {
+      "english": "This has a meaning.",
+      "filipino": "May kahulugan 'to.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531827"
+    },
+    {
+      "english": "What's the objective here?",
+      "filipino": "Ano ang objective dito?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531829"
+    },
+    {
+      "english": "It's for progress.",
+      "filipino": "Para umunlad.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531832"
+    },
+    {
+      "english": "My mission is clear.",
+      "filipino": "Malinaw ang mission ko.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531834"
+    },
+    {
+      "english": "What's your vision?",
+      "filipino": "Ano ang vision mo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531837"
+    },
+    {
+      "english": "This is my destiny.",
+      "filipino": "Ito ang aking destiny.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531839"
+    },
+    {
+      "english": "For a better future.",
+      "filipino": "Para sa mas magandang kinabukasan.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531841"
+    },
+    {
+      "english": "What's your greatest desire?",
+      "filipino": "Ano ang pinakamalaki mong kagustuhan?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531844"
+    },
+    {
+      "english": "What's your reason, friend?",
+      "filipino": "Ano'ng dahilan mo, kaibigan?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531849"
+    },
+    {
+      "english": "Tell me, why this path?",
+      "filipino": "Sabihin mo, bakit ganito?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531852"
+    },
+    {
+      "english": "What drives you forward?",
+      "filipino": "Ano ang nagtutulak sa'yo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531854"
+    },
+    {
+      "english": "Is there a bigger plan?",
+      "filipino": "May mas malaki bang plano?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531857"
+    },
+    {
+      "english": "What are we working towards?",
+      "filipino": "Para saan ang ating ginagawa?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531859"
+    },
+    {
+      "english": "Help me understand why.",
+      "filipino": "Tulungan mo akong maintindihan.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531862"
+    },
+    {
+      "english": "What's the ultimate aim?",
+      "filipino": "Ano ang pinakalayunin?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531866"
+    },
+    {
+      "english": "What's your heart's desire?",
+      "filipino": "Ano ang nais ng puso mo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531872"
+    },
+    {
+      "english": "Why this specific choice?",
+      "filipino": "Bakit itong partikular na desisyon?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531874"
+    },
+    {
+      "english": "What's the grand vision?",
+      "filipino": "Ano ang malaking pangitain?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531877"
+    },
+    {
+      "english": "Is this for a reason?",
+      "filipino": "Mayroon ba itong dahilan?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531880"
+    },
+    {
+      "english": "What's the main intention?",
+      "filipino": "Ano ang pangunahing intensyon?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531882"
+    },
+    {
+      "english": "Why embark on this journey?",
+      "filipino": "Bakit sasabak sa paglalakbay na ito?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531884"
+    },
+    {
+      "english": "What's the underlying cause?",
+      "filipino": "Ano ang ugat na sanhi?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531887"
+    },
+    {
+      "english": "What's guiding your actions?",
+      "filipino": "Ano ang gumagabay sa kilos mo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531890"
+    },
+    {
+      "english": "Can you share your purpose?",
+      "filipino": "Maaari mo bang ibahagi ang layunin mo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531893"
+    },
+    {
+      "english": "What's the desired outcome?",
+      "filipino": "Ano ang nais na resulta?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531896"
+    },
+    {
+      "english": "What sparked this endeavor?",
+      "filipino": "Ano ang nagpasimula nito?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531898"
+    },
+    {
+      "english": "What's the ultimate benefit?",
+      "filipino": "Ano ang pinakamalaking pakinabang?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531901"
+    },
+    {
+      "english": "What's the core motivation?",
+      "filipino": "Ano ang pinaka-motibasyon?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531904"
+    },
+    {
+      "english": "Why choose this direction?",
+      "filipino": "Bakit pinili ang direksyon na ito?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531906"
+    },
+    {
+      "english": "What are you building towards?",
+      "filipino": "Ano ang iyong binubuo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531908"
+    },
+    {
+      "english": "What's the underlying meaning?",
+      "filipino": "Ano ang malalim na kahulugan?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531911"
+    },
+    {
+      "english": "What do you hope to achieve?",
+      "filipino": "Ano ang inaasahan mong makamit?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531914"
+    },
+    {
+      "english": "What's the driving force?",
+      "filipino": "Ano ang nagpapatakbo nito?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531916"
+    },
+    {
+      "english": "Why this particular effort?",
+      "filipino": "Bakit itong partikular na pagsisikap?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531919"
+    },
+    {
+      "english": "What is your guiding star?",
+      "filipino": "Ano ang iyong gabay na bituin?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531921"
+    },
+    {
+      "english": "Believe in your why, always.",
+      "filipino": "Manalig ka sa iyong bakit, lagi.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531924"
+    },
+    {
+      "english": "Your purpose fuels your passion.",
+      "filipino": "Ang layunin mo, nagpapasiklab ng hilig mo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531927"
+    },
+    {
+      "english": "Keep pushing, for that higher goal.",
+      "filipino": "Tuloy lang ang pagtulak, para sa mas mataas na layunin.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531930"
+    },
+    {
+      "english": "You're doing great, keep it up!",
+      "filipino": "Magaling ka, ituloy mo lang 'yan!",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531933"
+    },
+    {
+      "english": "This effort matters, truly.",
+      "filipino": "Mahalaga itong pagsisikap, totoo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531936"
+    },
+    {
+      "english": "Your dedication is inspiring.",
+      "filipino": "Ang dedikasyon mo, nakaka-inspire.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531942"
+    },
+    {
+      "english": "Stay focused on your mission.",
+      "filipino": "Manatiling nakatuon sa iyong misyon.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531944"
+    },
+    {
+      "english": "Embrace your journey's meaning.",
+      "filipino": "Yakapin ang kahulugan ng iyong paglalakbay.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531947"
+    },
+    {
+      "english": "Your strength comes from within.",
+      "filipino": "Ang lakas mo, nagmumula sa loob.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531949"
+    },
+    {
+      "english": "You have a unique gift.",
+      "filipino": "Mayroon kang natatanging regalo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531952"
+    },
+    {
+      "english": "Every step brings you closer.",
+      "filipino": "Bawat hakbang, papalapit ka.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531954"
+    },
+    {
+      "english": "Find joy in the process.",
+      "filipino": "Hanapin ang saya sa proseso.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531957"
+    },
+    {
+      "english": "Your persistence pays off.",
+      "filipino": "Ang iyong tiyaga, may kapalit.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531960"
+    },
+    {
+      "english": "What's your life's purpose?",
+      "filipino": "Ano ang layunin ng buhay mo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531963"
+    },
+    {
+      "english": "Let your actions speak loudly.",
+      "filipino": "Hayaang sumigaw ang iyong mga gawa.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531966"
+    },
+    {
+      "english": "Believe you can achieve it.",
+      "filipino": "Maniwala kang magagawa mo 'yan.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531969"
+    },
+    {
+      "english": "You are capable of greatness.",
+      "filipino": "Kaya mong maging dakila.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531995"
+    },
+    {
+      "english": "Embrace challenges with courage.",
+      "filipino": "Salubungin ang hamon nang may tapang.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.531998"
+    },
+    {
+      "english": "Your effort is truly valued.",
+      "filipino": "Talagang pinahahalagahan ang pagsisikap mo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532000"
+    },
+    {
+      "english": "This path is for you.",
+      "filipino": "Para sa iyo ang landas na ito.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532003"
+    },
+    {
+      "english": "Focus on what truly matters.",
+      "filipino": "Ituon ang pansin sa mahalaga talaga.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532005"
+    },
+    {
+      "english": "You are stronger than you think.",
+      "filipino": "Mas malakas ka pa sa iniisip mo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532008"
+    },
+    {
+      "english": "Your vision will guide you.",
+      "filipino": "Ang iyong pananaw ang gagabay sa iyo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532010"
+    },
+    {
+      "english": "Keep shining your light.",
+      "filipino": "Patuloy mong ipasilaw ang ilaw mo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532013"
+    },
+    {
+      "english": "This journey has deep meaning.",
+      "filipino": "May malalim na kahulugan itong paglalakbay.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532015"
+    },
+    {
+      "english": "Your contribution is vital.",
+      "filipino": "Mahalaga ang iyong ambag.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532018"
+    },
+    {
+      "english": "You're making a difference.",
+      "filipino": "Nakakagawa ka ng pagbabago.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532021"
+    },
+    {
+      "english": "This purpose will elevate you.",
+      "filipino": "Ang layuning ito, magpapatatag sa iyo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532023"
+    },
+    {
+      "english": "Stay true to your heart.",
+      "filipino": "Manatiling tapat sa iyong puso.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532026"
+    },
+    {
+      "english": "What truly makes your heart sing?",
+      "filipino": "Ano ba talaga ang nagpapasaya sa puso mo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532029"
+    },
+    {
+      "english": "Reflect deeply, what do you feel?",
+      "filipino": "Magnilay ka nang malalim, ano nararamdaman mo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532031"
+    },
+    {
+      "english": "Patience, the seed will grow.",
+      "filipino": "Pasensya na, tutubo rin ang binhi.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532036"
+    },
+    {
+      "english": "Be honest with your inner voice.",
+      "filipino": "Maging tapat ka sa iyong sariling tinig.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532039"
+    },
+    {
+      "english": "This matters, deep down inside.",
+      "filipino": "Mahalaga ito, sa kaibuturan.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532042"
+    },
+    {
+      "english": "Listen to your gut feeling.",
+      "filipino": "Pakinggan mo ang kutob mo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532044"
+    },
+    {
+      "english": "Trust the process, little by little.",
+      "filipino": "Tiwala lang sa proseso, unti-unti.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532047"
+    },
+    {
+      "english": "What truly moves your spirit?",
+      "filipino": "Ano ba talaga ang gumuguhit sa kaluluwa mo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532050"
+    },
+    {
+      "english": "Feel it, don't suppress it.",
+      "filipino": "Damhin mo, huwag pigilan.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532055"
+    },
+    {
+      "english": "Your intuition knows the way.",
+      "filipino": "Alam ng kutob mo ang daan.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532057"
+    },
+    {
+      "english": "It's okay to feel unsure sometimes.",
+      "filipino": "Okay lang mag-alinlangan minsan.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532061"
+    },
+    {
+      "english": "Slow down, breathe, and understand.",
+      "filipino": "Bagalan mo, huminga, at intindihin.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532063"
+    },
+    {
+      "english": "What brings you genuine peace?",
+      "filipino": "Ano ang nagbibigay sa iyo ng tunay na kapayapaan?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532066"
+    },
+    {
+      "english": "Acknowledge your vulnerability, it's strength.",
+      "filipino": "Tanggapin mo ang kahinaan mo, lakas iyan.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532071"
+    },
+    {
+      "english": "Why does this resonate with you?",
+      "filipino": "Bakit ito tumutugma sa iyo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532074"
+    },
+    {
+      "english": "Be gentle with yourself always.",
+      "filipino": "Maging mabait ka sa sarili mo palagi.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532076"
+    },
+    {
+      "english": "Embrace the quiet reflections.",
+      "filipino": "Yakapin mo ang tahimik na pagmumuni.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532079"
+    },
+    {
+      "english": "What does your soul yearn for?",
+      "filipino": "Ano ang hinahanap ng kaluluwa mo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532081"
+    },
+    {
+      "english": "This feeling is valid, feel it.",
+      "filipino": "Tapat itong nararamdaman, damhin mo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532084"
+    },
+    {
+      "english": "Allow yourself time to heal.",
+      "filipino": "Bigyan mo ng oras ang sarili mo para gumaling.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532087"
+    },
+    {
+      "english": "What's the deeper truth you seek?",
+      "filipino": "Ano ang mas malalim na katotohanan ang hinahanap mo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532091"
+    },
+    {
+      "english": "Your inner compass will guide.",
+      "filipino": "Ang iyong panloob na kompas ang gagabay.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532093"
+    },
+    {
+      "english": "This path requires inner strength.",
+      "filipino": "Ang landas na ito, kailangan ng lakas ng loob.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532096"
+    },
+    {
+      "english": "What truly brings you contentment?",
+      "filipino": "Ano ang nagbibigay sa iyo ng tunay na kasiyahan?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532099"
+    },
+    {
+      "english": "Don't rush, let it unfold.",
+      "filipino": "Huwag kang magmadali, hayaan mong mangyari.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532102"
+    },
+    {
+      "english": "Your heart knows what it needs.",
+      "filipino": "Alam ng puso mo ang kailangan niya.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532104"
+    },
+    {
+      "english": "Authenticity is your greatest power.",
+      "filipino": "Ang pagiging totoo ang iyong pinakamalaking kapangyarihan.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532107"
+    },
+    {
+      "english": "Can you feel the shift happening?",
+      "filipino": "Nararamdaman mo ba ang pagbabago?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532109"
+    },
+    {
+      "english": "Be patient, growth takes time.",
+      "filipino": "Magpasensya ka, ang paglaki'y nangangailangan ng panahon.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532112"
+    },
+    {
+      "english": "What echoes in your soul?",
+      "filipino": "Ano ang umaalingawngaw sa kaluluwa mo?",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532114"
+    },
+    {
+      "english": "Ask yourself, 'Why this?', often.",
+      "filipino": "Madalas itanong, 'Bakit ito?'",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532118"
+    },
+    {
+      "english": "What helps others, truly matters.",
+      "filipino": "Ang nakakatulong sa iba, tunay na mahalaga.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532120"
+    },
+    {
+      "english": "Fix problems, one step, at a time.",
+      "filipino": "Ayusin ang problema, isang hakbang, kada sandali.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532123"
+    },
+    {
+      "english": "Help someone, without expecting anything.",
+      "filipino": "Tumulong ka, 'di umaasa ng kapalit.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532128"
+    },
+    {
+      "english": "Learn a new skill, for growth.",
+      "filipino": "Matuto ng bagong kasanayan, para lumago.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532131"
+    },
+    {
+      "english": "Share your knowledge, generously, always.",
+      "filipino": "Ibahagi ang kaalaman, buong puso, lagi.",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T08:06:34.532134"
     }
   ],
-  "last_updated": "2026-10-19T08:22:17.858553"
+  "last_updated": "2026-10-20T08:06:34.532136"
 }
