@@ -2879,7 +2879,727 @@
       "filipino": "Ibahagi ang kaalaman, buong puso, lagi.",
       "category": "Purpose",
       "generated_at": "2026-10-20T08:06:34.532134"
+    },
+    {
+      "english": "You're so charming, really.",
+      "filipino": "Ang galing mo talagang mang-akit, grabe.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015464"
+    },
+    {
+      "english": "I like you, a lot.",
+      "filipino": "Gusto kita, sobra.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015478"
+    },
+    {
+      "english": "Have you eaten yet?",
+      "filipino": "Kumain ka na ba?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015481"
+    },
+    {
+      "english": "What are you up to?",
+      "filipino": "Anong ginagawa mo?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015484"
+    },
+    {
+      "english": "Let's go out sometime.",
+      "filipino": "Lumabas tayo minsan.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015487"
+    },
+    {
+      "english": "I'm thinking of you.",
+      "filipino": "Ini-isip kita.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015489"
+    },
+    {
+      "english": "You're very beautiful.",
+      "filipino": "Ang ganda mo, talaga.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015492"
+    },
+    {
+      "english": "You look good today.",
+      "filipino": "Ang pogi mo ngayon.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015497"
+    },
+    {
+      "english": "I miss you so much.",
+      "filipino": "Miss na kita, sobra.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015503"
+    },
+    {
+      "english": "Can I have your number?",
+      "filipino": "Pwede ko makuha number mo?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015506"
+    },
+    {
+      "english": "Let's chat later.",
+      "filipino": "Mag-usap tayo mamaya.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015509"
+    },
+    {
+      "english": "Are you free tonight?",
+      "filipino": "Libre ka ba mamayang gabi?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015511"
+    },
+    {
+      "english": "This is so exciting!",
+      "filipino": "Nakaka-excite talaga!",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015514"
+    },
+    {
+      "english": "You make me smile.",
+      "filipino": "Napapangiti mo ako.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015516"
+    },
+    {
+      "english": "I'm a little nervous.",
+      "filipino": "Medyo kinakabahan ako.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015519"
+    },
+    {
+      "english": "What's your favorite color?",
+      "filipino": "Ano paborito mong kulay?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015522"
+    },
+    {
+      "english": "You're very kind.",
+      "filipino": "Mabait ka talaga.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015524"
+    },
+    {
+      "english": "I'm happy to see you.",
+      "filipino": "Masaya akong makita ka.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015527"
+    },
+    {
+      "english": "Let's grab coffee.",
+      "filipino": "Mag-kape tayo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015529"
+    },
+    {
+      "english": "I like your smile.",
+      "filipino": "Gusto ko ngiti mo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015605"
+    },
+    {
+      "english": "You're so sweet.",
+      "filipino": "Ang tamis mo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015608"
+    },
+    {
+      "english": "What are you doing later?",
+      "filipino": "Anong gagawin mo mamaya?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015610"
+    },
+    {
+      "english": "I feel butterflies.",
+      "filipino": "Parang may paru-paro sa tiyan ko.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015613"
+    },
+    {
+      "english": "You're really funny.",
+      "filipino": "Nakakatawa ka talaga.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015615"
+    },
+    {
+      "english": "I'm a little shy.",
+      "filipino": "Medyo mahiyain ako.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015618"
+    },
+    {
+      "english": "This is nice, isn't it?",
+      "filipino": "Ang sarap dito, 'di ba?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015621"
+    },
+    {
+      "english": "I'm excited for our date.",
+      "filipino": "Excited ako sa date natin.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015623"
+    },
+    {
+      "english": "You're easy to talk to.",
+      "filipino": "Madali kang kausap.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015626"
+    },
+    {
+      "english": "Let's get to know each other.",
+      "filipino": "Magkakilala tayo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015631"
+    },
+    {
+      "english": "I have a crush on you.",
+      "filipino": "May gusto ako sa'yo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015633"
+    },
+    {
+      "english": "Can we talk, for a bit?",
+      "filipino": "Pwede ba tayong mag-usap, sandali?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015636"
+    },
+    {
+      "english": "What are your hobbies, really?",
+      "filipino": "Ano ang mga hilig mo, talaga?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015639"
+    },
+    {
+      "english": "Do you believe in love at first sight?",
+      "filipino": "Naniniwala ka ba sa love at first sight?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015642"
+    },
+    {
+      "english": "What are your dreams, for the future?",
+      "filipino": "Ano ang mga pangarap mo, sa hinaharap?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015645"
+    },
+    {
+      "english": "How was your day, overall?",
+      "filipino": "Kumusta ang araw mo, sa kabuuan?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015647"
+    },
+    {
+      "english": "What kind of music do you like?",
+      "filipino": "Anong klaseng musika ang gusto mo?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015650"
+    },
+    {
+      "english": "Are you close with your family?",
+      "filipino": "Malapit ka ba sa pamilya mo?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015653"
+    },
+    {
+      "english": "What's your ideal first date?",
+      "filipino": "Ano ang ideal first date mo?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015666"
+    },
+    {
+      "english": "Do you prefer staying in, or going out?",
+      "filipino": "Mas gusto mo bang nasa bahay, o lumabas?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015670"
+    },
+    {
+      "english": "What's something that makes you happy?",
+      "filipino": "Ano ang isang bagay, na nagpapasaya sa'yo?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015673"
+    },
+    {
+      "english": "What are your pet peeves, usually?",
+      "filipino": "Ano ang mga ayaw mo, madalas?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015675"
+    },
+    {
+      "english": "Do you like dogs, or cats more?",
+      "filipino": "Mas gusto mo ba ang aso, o pusa?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015680"
+    },
+    {
+      "english": "What's your favorite food, to eat?",
+      "filipino": "Ano ang paborito mong pagkain, kainin?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015684"
+    },
+    {
+      "english": "Are you a morning person, or night owl?",
+      "filipino": "Mahilig ka ba sa umaga, o gabi?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015686"
+    },
+    {
+      "english": "What's a skill you'd like to learn?",
+      "filipino": "Ano ang isang kakayahan, na gusto mong matutunan?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015689"
+    },
+    {
+      "english": "What do you look for, in a partner?",
+      "filipino": "Ano ang hinahanap mo, sa isang partner?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015692"
+    },
+    {
+      "english": "How do you handle stress, usually?",
+      "filipino": "Paano mo hinahawakan ang stress, madalas?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015694"
+    },
+    {
+      "english": "Do you enjoy traveling, a lot?",
+      "filipino": "Mahilig ka ba mag-travel, nang marami?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015697"
+    },
+    {
+      "english": "What's your favorite movie genre?",
+      "filipino": "Ano ang paborito mong genre ng pelikula?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015700"
+    },
+    {
+      "english": "What's your opinion on long distance relationships?",
+      "filipino": "Ano ang opinyon mo sa long distance relationships?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015703"
+    },
+    {
+      "english": "Do you prefer tea, or coffee?",
+      "filipino": "Mas gusto mo ba ang tsaa, o kape?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015705"
+    },
+    {
+      "english": "What's your favorite season, of the year?",
+      "filipino": "Ano ang paborito mong season, sa taon?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015710"
+    },
+    {
+      "english": "What advice would you give, your younger self?",
+      "filipino": "Anong payo mo, sa nakabataan mong sarili?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015713"
+    },
+    {
+      "english": "What makes a relationship, strong?",
+      "filipino": "Ano ang nagpapatibay, sa relasyon?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015716"
+    },
+    {
+      "english": "Are you more of a planner, or spontaneous?",
+      "filipino": "Mas mahilig ka bang magplano, o spontaneous?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015718"
+    },
+    {
+      "english": "What's your favorite childhood memory?",
+      "filipino": "Ano ang paborito mong alaala, noong bata ka?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015721"
+    },
+    {
+      "english": "Do you believe in fate, or destiny?",
+      "filipino": "Naniniwala ka ba sa tadhana, o kapalaran?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015723"
+    },
+    {
+      "english": "What's your guilty pleasure, song?",
+      "filipino": "Ano ang guilty pleasure mong kanta?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015726"
+    },
+    {
+      "english": "What's your favorite way to relax?",
+      "filipino": "Ano ang paborito mong paraan, para mag-relax?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015729"
+    },
+    {
+      "english": "How important is humor, in a relationship?",
+      "filipino": "Gaano kahalaga ang humor, sa relasyon?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015731"
+    },
+    {
+      "english": "My heart skipped a beat, when I saw you.",
+      "filipino": "Nabitawan ko ang puso ko, nung nakita kita.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015736"
+    },
+    {
+      "english": "You're the missing piece, to my puzzle.",
+      "filipino": "Ikaw ang kulang na piraso, sa buhay ko.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015739"
+    },
+    {
+      "english": "Let's take it slow, okay?",
+      "filipino": "Dahan-dahan lang tayo, sige ba?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015742"
+    },
+    {
+      "english": "I'm drawn to you, irresistibly.",
+      "filipino": "Nasisilaw ako sa'yo, 'di mapigilan.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015745"
+    },
+    {
+      "english": "You make my world, brighter.",
+      "filipino": "Nagbibigay liwanag ka, sa mundo ko.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015748"
+    },
+    {
+      "english": "My feelings are growing, for you.",
+      "filipino": "Lumalaro na ang damdamin ko, sa'yo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015751"
+    },
+    {
+      "english": "We click, right?",
+      "filipino": "Bagay tayo, 'di ba?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015754"
+    },
+    {
+      "english": "I can't get enough, of you.",
+      "filipino": "Hindi ako nagsasawa, sa'yo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015757"
+    },
+    {
+      "english": "You're my answered prayer.",
+      "filipino": "Ikaw ang sagot, sa dasal ko.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015759"
+    },
+    {
+      "english": "My heart is yours, to keep.",
+      "filipino": "Pusong ko, sa'yo na.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015762"
+    },
+    {
+      "english": "Let's make memories, together.",
+      "filipino": "Gawa tayo ng alaala, magkasama.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015765"
+    },
+    {
+      "english": "You're my favorite person.",
+      "filipino": "Paborito kitang tao.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015773"
+    },
+    {
+      "english": "I think I'm falling, for you.",
+      "filipino": "Tila nahuhulog na ako, sa'yo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015776"
+    },
+    {
+      "english": "Let's give this a shot, maybe?",
+      "filipino": "Subukan natin, baka pwede?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015779"
+    },
+    {
+      "english": "You complete me, truly.",
+      "filipino": "Buo ako dahil sa'yo, talaga.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015782"
+    },
+    {
+      "english": "My world revolves, around you.",
+      "filipino": "Umiikot ang mundo ko, sa'yo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015785"
+    },
+    {
+      "english": "You make me feel, special.",
+      "filipino": "Pinaparamdam mo akong, espesyal.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015787"
+    },
+    {
+      "english": "Let's explore this, further.",
+      "filipino": "Palalimin natin 'to, pa.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015790"
+    },
+    {
+      "english": "My heart sings, when you're near.",
+      "filipino": "Kumakanta ang puso ko, pag malapit ka.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015794"
+    },
+    {
+      "english": "You're my one and only.",
+      "filipino": "Ikaw lang talaga, sa akin.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015796"
+    },
+    {
+      "english": "Let's take this leap, of faith.",
+      "filipino": "Isugal natin 'to, ng buo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015799"
+    },
+    {
+      "english": "You're my dream come true.",
+      "filipino": "Naging totoo ang pangarap ko, sa'yo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015802"
+    },
+    {
+      "english": "My heart is set, on you.",
+      "filipino": "Naka-set na ang puso ko, sa'yo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015804"
+    },
+    {
+      "english": "Let's build something, beautiful.",
+      "filipino": "Bumuo tayo ng maganda, pagsasama.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015807"
+    },
+    {
+      "english": "You're my happily ever after.",
+      "filipino": "Ikaw ang masaya kong wakas.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015810"
+    },
+    {
+      "english": "My heart beats, for you.",
+      "filipino": "Tumitibok ang puso ko, para sa'yo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015812"
+    },
+    {
+      "english": "Let's make this official, maybe?",
+      "filipino": "Gawin na nating opisyal, siguro?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015815"
+    },
+    {
+      "english": "You're the answer, to my prayers.",
+      "filipino": "Ikaw ang sagot, sa mga dasal ko.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015818"
+    },
+    {
+      "english": "My heart is yours, forever.",
+      "filipino": "Pusong ko, sa'yo magpakailanman.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015820"
+    },
+    {
+      "english": "Let's dive in, deep.",
+      "filipino": "Lububin natin 'to, malalim.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015823"
+    },
+    {
+      "english": "I'm really thinking, about us.",
+      "filipino": "Talaga, iniisip ko tayo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015826"
+    },
+    {
+      "english": "This feels, different now.",
+      "filipino": "Iba na, ang pakiramdam ngayon.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015828"
+    },
+    {
+      "english": "I appreciate your, honesty.",
+      "filipino": "Salamat sa, katapatan mo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015833"
+    },
+    {
+      "english": "Can we just, talk honestly?",
+      "filipino": "Pwede bang, mag-usap tayo nang totoo?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015835"
+    },
+    {
+      "english": "I need some time, alone.",
+      "filipino": "Kailangan ko lang, ng oras para sa sarili.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015838"
+    },
+    {
+      "english": "I'm being vulnerable, with you.",
+      "filipino": "Nagpapakita ako ng kahinaan, sa iyo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015841"
+    },
+    {
+      "english": "This journey, takes patience.",
+      "filipino": "Ang paglalakbay na ito, kailangan ng pasensya.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015843"
+    },
+    {
+      "english": "I'm learning, a lot about myself.",
+      "filipino": "Marami akong, natututunan tungkol sa sarili.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015848"
+    },
+    {
+      "english": "Let's be open, about everything.",
+      "filipino": "Maging bukas tayo, sa lahat.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015851"
+    },
+    {
+      "english": "My feelings, are genuine.",
+      "filipino": "Totoo ang, nararamdaman ko.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015853"
+    },
+    {
+      "english": "What are you, really feeling?",
+      "filipino": "Ano ba talaga, ang nararamdaman mo?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015856"
+    },
+    {
+      "english": "I value our, connection.",
+      "filipino": "Pinapahalagahan ko, ang koneksyon natin.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015859"
+    },
+    {
+      "english": "I'm trying, to understand.",
+      "filipino": "Sinusubukan ko, na maintindihan.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015861"
+    },
+    {
+      "english": "This is deeper, than I thought.",
+      "filipino": "Mas malalim pala, ito kaysa akala ko.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015864"
+    },
+    {
+      "english": "I'm reflecting, on our time.",
+      "filipino": "Pinagninilayan ko, ang ating mga sandali.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015867"
+    },
+    {
+      "english": "Your perspective, is important.",
+      "filipino": "Mahalaga ang, pananaw mo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015869"
+    },
+    {
+      "english": "I need reassurance, sometimes.",
+      "filipino": "Kailangan ko ng, katiyakan minsan.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015872"
+    },
+    {
+      "english": "This requires, real effort.",
+      "filipino": "Kailangan nito, ng totoong pagsisikap.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015874"
+    },
+    {
+      "english": "I'm feeling, hopeful now.",
+      "filipino": "Mas panatag na, ang loob ko.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015877"
+    },
+    {
+      "english": "My intentions, are pure.",
+      "filipino": "Dalisay ang, intensyon ko.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015879"
+    },
+    {
+      "english": "I'm taking this, seriously.",
+      "filipino": "Sineseryoso ko, ito.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015882"
+    },
+    {
+      "english": "Your happiness, matters to me.",
+      "filipino": "Kahit ang saya mo, mahalaga sa akin.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015885"
+    },
+    {
+      "english": "I'm considering, the future.",
+      "filipino": "Ini-isip ko, ang hinaharap.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015888"
+    },
+    {
+      "english": "Let's communicate, better.",
+      "filipino": "Mas maganda, tayong mag-usap.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015894"
+    },
+    {
+      "english": "I'm being truthful, with you.",
+      "filipino": "Tapat ako, sa iyo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015897"
+    },
+    {
+      "english": "This is, a new chapter.",
+      "filipino": "Ito ay, bagong kabanata.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015899"
+    },
+    {
+      "english": "I trust your, judgment.",
+      "filipino": "Tiwala ako sa, desisyon mo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015902"
+    },
+    {
+      "english": "My heart is open, to you.",
+      "filipino": "Bukas ang, puso ko sa iyo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015905"
+    },
+    {
+      "english": "Let's build, trust slowly.",
+      "filipino": "Dahan-dahan tayong, bumuo ng tiwala.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015907"
+    },
+    {
+      "english": "Let's just chill, maybe talk?",
+      "filipino": "Mag-relax lang tayo, usap tayo?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-21T08:12:05.015910"
     }
   ],
-  "last_updated": "2026-10-20T08:06:34.532136"
+  "last_updated": "2026-10-21T08:12:05.015912"
 }
