@@ -3599,7 +3599,727 @@
       "filipino": "Mag-relax lang tayo, usap tayo?",
       "category": "Dating & Romance",
       "generated_at": "2026-10-21T08:12:05.015910"
+    },
+    {
+      "english": "Just a little more, okay?",
+      "filipino": "Konti na lang, ha?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642376"
+    },
+    {
+      "english": "Wait for me, please.",
+      "filipino": "Hintayin mo ako, please.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642389"
+    },
+    {
+      "english": "Take your time, no rush.",
+      "filipino": "Huwag kang magmadali.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642393"
+    },
+    {
+      "english": "Let's be patient, love.",
+      "filipino": "Magpasensya tayo, mahal.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642397"
+    },
+    {
+      "english": "Almost there, hang on.",
+      "filipino": "Malapit na, tiis lang.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642400"
+    },
+    {
+      "english": "Can you wait a bit?",
+      "filipino": "Makakapaghintay ka ba?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642403"
+    },
+    {
+      "english": "It takes time, you know.",
+      "filipino": "Matagal talaga 'yan.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642407"
+    },
+    {
+      "english": "Don't be impatient, dear.",
+      "filipino": "Huwag mainip, mahal ko.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642413"
+    },
+    {
+      "english": "Just a moment, please.",
+      "filipino": "Sandali lang po.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642418"
+    },
+    {
+      "english": "I'm waiting, patiently.",
+      "filipino": "Naghihintay ako, matiyaga.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642421"
+    },
+    {
+      "english": "Let's give it more time.",
+      "filipino": "Bigyan pa natin ng oras.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642424"
+    },
+    {
+      "english": "Slowly but surely, right?",
+      "filipino": "Dahan-dahan lang, 'di ba?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642427"
+    },
+    {
+      "english": "We need to be calm.",
+      "filipino": "Kailangan nating maging mahinahon.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642430"
+    },
+    {
+      "english": "It's not easy, I know.",
+      "filipino": "Mahirap talaga, alam ko.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642433"
+    },
+    {
+      "english": "Hold on just a little longer.",
+      "filipino": "Kaya pa, konting tiis pa.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642436"
+    },
+    {
+      "english": "Breathe in, breathe out.",
+      "filipino": "Hinga muna, hinga.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642440"
+    },
+    {
+      "english": "This requires patience.",
+      "filipino": "Kailangan dito ng pasensya.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642444"
+    },
+    {
+      "english": "Are you still waiting?",
+      "filipino": "Naghihintay ka pa ba?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642447"
+    },
+    {
+      "english": "Let's be understanding.",
+      "filipino": "Unawain natin.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642450"
+    },
+    {
+      "english": "Almost done, hang in there.",
+      "filipino": "Malapit na matapos, kapit lang.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642453"
+    },
+    {
+      "english": "Don't get frustrated, love.",
+      "filipino": "Huwag kang mainis, mahal.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642456"
+    },
+    {
+      "english": "I'm trying my best.",
+      "filipino": "Pinipilit ko talaga.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642459"
+    },
+    {
+      "english": "It's worth the wait.",
+      "filipino": "Sulit ang paghihintay.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642464"
+    },
+    {
+      "english": "Let's stay positive.",
+      "filipino": "Manatiling positibo.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642467"
+    },
+    {
+      "english": "Give me a little time.",
+      "filipino": "Bigyan mo ako ng kaunti.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642470"
+    },
+    {
+      "english": "I'm still working on it.",
+      "filipino": "Ginagawa ko pa.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642473"
+    },
+    {
+      "english": "Patience is a virtue.",
+      "filipino": "Pasensya ang puhunan.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642476"
+    },
+    {
+      "english": "We'll get there soon.",
+      "filipino": "Malapit na tayo.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642480"
+    },
+    {
+      "english": "Just keep waiting.",
+      "filipino": "Maghintay ka lang.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642483"
+    },
+    {
+      "english": "What's taking so long, friend?",
+      "filipino": "Bakit ang tagal, kaibigan?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642487"
+    },
+    {
+      "english": "How much longer do we wait?",
+      "filipino": "Gaano pa katagal tayong maghihintay?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642490"
+    },
+    {
+      "english": "Is there another way, perhaps?",
+      "filipino": "May iba pa bang paraan, siguro?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642493"
+    },
+    {
+      "english": "What's your advice on this?",
+      "filipino": "Ano ang payo mo dito?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642496"
+    },
+    {
+      "english": "Should I keep trying, or stop?",
+      "filipino": "Ituloy ko ba, o itigil?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642499"
+    },
+    {
+      "english": "When will this be finished?",
+      "filipino": "Kailan ito matatapos?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642502"
+    },
+    {
+      "english": "Can you help me understand, please?",
+      "filipino": "Maaari mo bang ipaintindi sa akin, pakiusap?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642505"
+    },
+    {
+      "english": "Let's discuss our options, okay?",
+      "filipino": "Pag-usapan natin ang mga pagpipilian, sige?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642509"
+    },
+    {
+      "english": "How do you manage stress, really?",
+      "filipino": "Paano mo hinahawakan ang stress, talaga?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642512"
+    },
+    {
+      "english": "Tell me your thoughts on this.",
+      "filipino": "Sabihin mo ang iyong saloobin dito.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642515"
+    },
+    {
+      "english": "We need a new strategy, right?",
+      "filipino": "Kailangan natin ng bagong istratehiya, di ba?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642519"
+    },
+    {
+      "english": "What's the next step forward?",
+      "filipino": "Ano ang susunod na hakbang?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642522"
+    },
+    {
+      "english": "Can we find a compromise, perhaps?",
+      "filipino": "Makakahanap ba tayo ng kompromiso, siguro?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642525"
+    },
+    {
+      "english": "How long until we see results?",
+      "filipino": "Gaano katagal bago makakita ng resulta?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642528"
+    },
+    {
+      "english": "Should we ask for help, then?",
+      "filipino": "Hihingi na ba tayo ng tulong?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642532"
+    },
+    {
+      "english": "Is this the best we can do?",
+      "filipino": "Ito na ba ang pinakamahusay na magagawa natin?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642535"
+    },
+    {
+      "english": "Can we try a different angle?",
+      "filipino": "Maaari ba nating subukan ang ibang anggulo?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642537"
+    },
+    {
+      "english": "How do we move forward from here?",
+      "filipino": "Paano tayo uusad mula rito?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642540"
+    },
+    {
+      "english": "Should we reconsider this approach?",
+      "filipino": "Pag-isipan ba natin muli ang paraang ito?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642543"
+    },
+    {
+      "english": "What are the potential risks?",
+      "filipino": "Ano ang mga posibleng panganib?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642546"
+    },
+    {
+      "english": "Do you have any suggestions, please?",
+      "filipino": "Mayroon ka bang mga mungkahi, pakiusap?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642550"
+    },
+    {
+      "english": "When can we expect an update?",
+      "filipino": "Kailan tayo makakaasa ng balita?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642553"
+    },
+    {
+      "english": "Can you explain the situation again?",
+      "filipino": "Maaari mo bang ipaliwanag muli ang sitwasyon?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642556"
+    },
+    {
+      "english": "Little by little, we'll finish this.",
+      "filipino": "Paunti-unti, matatapos din natin.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642559"
+    },
+    {
+      "english": "Your effort is really showing.",
+      "filipino": "Talaga namang nakikita ang pagsisikap mo.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642562"
+    },
+    {
+      "english": "Don't give up, keep going.",
+      "filipino": "Huwag sumuko, dire-diretso lang.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642567"
+    },
+    {
+      "english": "Positive vibes only, okay?",
+      "filipino": "Positive vibes lang, ha?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642570"
+    },
+    {
+      "english": "You're making progress, see?",
+      "filipino": "Umayos ka na, kita mo?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642574"
+    },
+    {
+      "english": "Take it one step at a time.",
+      "filipino": "Isang hakbang lang muna.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642576"
+    },
+    {
+      "english": "We're almost there, stay strong.",
+      "filipino": "Malapit na tayo, lumaban lang.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642580"
+    },
+    {
+      "english": "Good job on that part!",
+      "filipino": "Ang galing mo diyan!",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642583"
+    },
+    {
+      "english": "Just trust the process, okay?",
+      "filipino": "Magtiwala ka lang sa proseso, sige?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642586"
+    },
+    {
+      "english": "You've got this, I believe.",
+      "filipino": "Kaya mo 'to, naniniwala ako.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642590"
+    },
+    {
+      "english": "This is a learning experience.",
+      "filipino": "Pagkatuto lang 'to.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642593"
+    },
+    {
+      "english": "Keep that spirit up!",
+      "filipino": "Panatilihing mataas ang espiritu!",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642595"
+    },
+    {
+      "english": "You're doing wonderfully well.",
+      "filipino": "Ang husay-husay mo talaga.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642599"
+    },
+    {
+      "english": "Every step counts, remember.",
+      "filipino": "Bawat hakbang, mahalaga, tandaan.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642602"
+    },
+    {
+      "english": "Focus on the goal, keep going.",
+      "filipino": "Sa layunin, tutok lang.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642605"
+    },
+    {
+      "english": "That's a great effort!",
+      "filipino": "Ang laki ng effort mo!",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642608"
+    },
+    {
+      "english": "Don't doubt your abilities.",
+      "filipino": "Huwag pagdudahan ang kaya mo.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642611"
+    },
+    {
+      "english": "We're on the right track.",
+      "filipino": "Nasa tamang daan tayo.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642614"
+    },
+    {
+      "english": "Keep that positive attitude.",
+      "filipino": "Panatilihin ang positibong ugali.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642617"
+    },
+    {
+      "english": "You're doing so well, really.",
+      "filipino": "Ang galing-galing mo, pramis.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642622"
+    },
+    {
+      "english": "Just keep your head up.",
+      "filipino": "Itaas mo lang ang iyong ulo.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642625"
+    },
+    {
+      "english": "Success takes time, right?",
+      "filipino": "Ang tagumpay, may panahon, di ba?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642630"
+    },
+    {
+      "english": "Your hard work will pay off.",
+      "filipino": "Magbubunga din ang pagod mo.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642633"
+    },
+    {
+      "english": "Keep aiming high, you can.",
+      "filipino": "Laging mataas ang pangarap, kaya mo.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642636"
+    },
+    {
+      "english": "That's a good start!",
+      "filipino": "Maganda 'yang simula!",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642639"
+    },
+    {
+      "english": "Stay focused, don't waver.",
+      "filipino": "Manatiling nakatutok, huwag magbago.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642643"
+    },
+    {
+      "english": "You're getting closer, see?",
+      "filipino": "Palapit ka na, o, kita mo?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642646"
+    },
+    {
+      "english": "Patience, like a seed, grows slowly, but yields fruit.",
+      "filipino": "Pasensya, parang buto, dahan-dahan tumutubo, pero namumunga.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642650"
+    },
+    {
+      "english": "Wait for the right moment, it will come.",
+      "filipino": "Hintayin ang tamang panahon, darating din 'yan.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642653"
+    },
+    {
+      "english": "Don't rush things, let them unfold naturally.",
+      "filipino": "Huwag madaliin, hayaan mong kusang mangyari.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642657"
+    },
+    {
+      "english": "True strength is in enduring, not just in fighting.",
+      "filipino": "Ang tunay na lakas, nasa pagtitiis, hindi lang sa paglaban.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642660"
+    },
+    {
+      "english": "Calmness is a powerful weapon; use it well.",
+      "filipino": "Ang mahinahong kalooban, malakas na sandata; gamitin mo.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642663"
+    },
+    {
+      "english": "Good things take time to bloom.",
+      "filipino": "Ang magagandang bagay, nangangailangan ng panahon para mamukadkad.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642666"
+    },
+    {
+      "english": "Be like the river, flowing steadily, reaching the sea.",
+      "filipino": "Maging tulad ng ilog, tuloy-tuloy ang agos, patungong dagat.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642670"
+    },
+    {
+      "english": "Patience is bitter, but its fruit is sweet.",
+      "filipino": "Mapait ang pasensya, ngunit matamis ang bunga.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642675"
+    },
+    {
+      "english": "Let go of impatience, embrace tranquility.",
+      "filipino": "Bitawan ang pagka-iritable, yakapin ang kapayapaan.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642678"
+    },
+    {
+      "english": "The storm will pass; hold on.",
+      "filipino": "Lilipas din ang bagyo; kapit lang.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642681"
+    },
+    {
+      "english": "Slow and steady wins the race.",
+      "filipino": "Dahan-dahan, pero siguradong panalo.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642684"
+    },
+    {
+      "english": "Every challenge has its season.",
+      "filipino": "Bawat pagsubok, may sariling panahon.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642687"
+    },
+    {
+      "english": "Endurance is the key to unlocking potential.",
+      "filipino": "Ang pagtitiis, susi sa pagbubukas ng potensyal.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642690"
+    },
+    {
+      "english": "Breathe deeply, let the worries fade.",
+      "filipino": "Huminga nang malalim, hayaang mawala ang alalahanin.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642695"
+    },
+    {
+      "english": "Wisdom comes with time and reflection.",
+      "filipino": "Ang karunungan, dumarating sa paglipas ng panahon.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642698"
+    },
+    {
+      "english": "Wait for the harvest after planting.",
+      "filipino": "Maghintay sa ani pagkatapos magtanim.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642701"
+    },
+    {
+      "english": "Stillness allows clarity to emerge.",
+      "filipino": "Ang katahimikan, nagpapalinaw ng isip.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642704"
+    },
+    {
+      "english": "Don't let frustration win; be patient.",
+      "filipino": "Huwag hayaang manalo ang pagkadismaya; maging matiyaga.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642707"
+    },
+    {
+      "english": "The best things are worth waiting for.",
+      "filipino": "Ang pinakamagagandang bagay, sulit hintayin.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642710"
+    },
+    {
+      "english": "Cultivate patience, it's a virtue.",
+      "filipino": "Linangin ang pasensya, ito'y isang birtud.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642714"
+    },
+    {
+      "english": "Your time will come, just keep believing.",
+      "filipino": "Darating din ang iyong panahon, patuloy lang manalig.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642717"
+    },
+    {
+      "english": "Let time be your ally, not your enemy.",
+      "filipino": "Gawing kakampi ang panahon, hindi kalaban.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642720"
+    },
+    {
+      "english": "Unwavering effort, eventually leads to success.",
+      "filipino": "Walang patid na pagsisikap, sa huli'y tagumpay.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642723"
+    },
+    {
+      "english": "Patience is the art of hoping.",
+      "filipino": "Ang paghihintay ay sining ng pag-asa.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642726"
+    },
+    {
+      "english": "See the forest, not just the trees.",
+      "filipino": "Tingnan ang kabuuan, hindi lang mga detalye.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642729"
+    },
+    {
+      "english": "Master your impulses, be calm.",
+      "filipino": "Kontrolin ang bugso, maging mahinahon.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642732"
+    },
+    {
+      "english": "A steady hand can steer through any storm.",
+      "filipino": "Ang matatag na kamay, kayang magpatakbo sa unos.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642735"
+    },
+    {
+      "english": "Let the pieces fall into place.",
+      "filipino": "Hayaan mong magkakatugma ang mga piraso.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642740"
+    },
+    {
+      "english": "The greatest victories are often won by waiting.",
+      "filipino": "Ang pinakamalaking tagumpay, madalas sa paghihintay.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642743"
+    },
+    {
+      "english": "Deep breaths, everyone, deep breaths.",
+      "filipino": "Malalim na hininga, lahat, malalim.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642747"
+    },
+    {
+      "english": "No need to panic, okay?",
+      "filipino": "Huwag mag-panic, ha?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642750"
+    },
+    {
+      "english": "It’s okay to not know everything yet.",
+      "filipino": "Okay lang 'di lahat alam.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642755"
+    },
+    {
+      "english": "Let's just observe for now.",
+      "filipino": "Mag-obserba muna tayo.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642758"
+    },
+    {
+      "english": "Don't force it, please.",
+      "filipino": "Huwag pilitin, 'lika.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642761"
+    },
+    {
+      "english": "What's the worst that can happen?",
+      "filipino": "Ano pinakamasama pwedeng mangyari?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642764"
+    },
+    {
+      "english": "Let's think clearly, no rush.",
+      "filipino": "Mag-isip tayong malinaw, 'wag magmadali.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642767"
+    },
+    {
+      "english": "Everything will be fine, eventually.",
+      "filipino": "Maayos din lahat, sa huli.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642771"
+    },
+    {
+      "english": "Just wait and see, okay?",
+      "filipino": "Antayin lang natin, 'di ba?",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642774"
+    },
+    {
+      "english": "This requires a steady hand.",
+      "filipino": "Ito'y kailangan ng matatag na kamay.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642777"
+    },
+    {
+      "english": "We'll get there, just have faith.",
+      "filipino": "Makakarating din tayo, tiwala lang.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642782"
+    },
+    {
+      "english": "No need to get upset now.",
+      "filipino": "Hindi kailangan magalit ngayon.",
+      "category": "Patience",
+      "generated_at": "2026-10-22T08:38:33.642785"
     }
   ],
-  "last_updated": "2026-10-21T08:12:05.015912"
+  "last_updated": "2026-10-22T08:38:33.642787"
 }
