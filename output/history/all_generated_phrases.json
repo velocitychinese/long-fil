@@ -4319,7 +4319,727 @@
       "filipino": "Hindi kailangan magalit ngayon.",
       "category": "Patience",
       "generated_at": "2026-10-22T08:38:33.642785"
+    },
+    {
+      "english": "Yes, I agree, totally.",
+      "filipino": "Oo, sang-ayon ako, talagang-talaga.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280183"
+    },
+    {
+      "english": "That's true, of course.",
+      "filipino": "Totoo 'yan, siyempre.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280197"
+    },
+    {
+      "english": "I see your point, but...",
+      "filipino": "Naiintindihan ko punto mo, pero...",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280200"
+    },
+    {
+      "english": "I think so too.",
+      "filipino": "Sa tingin ko rin.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280203"
+    },
+    {
+      "english": "I don't think so.",
+      "filipino": "Hindi ako naniniwala diyan.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280205"
+    },
+    {
+      "english": "You're right, absolutely.",
+      "filipino": "Tama ka, walang duda.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280207"
+    },
+    {
+      "english": "I'm not so sure.",
+      "filipino": "Hindi ako sigurado.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280210"
+    },
+    {
+      "english": "Exactly, that's it!",
+      "filipino": "Eksakto, 'yun na 'yun!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280214"
+    },
+    {
+      "english": "I beg to differ.",
+      "filipino": "Pasensya na, iba ang tingin ko.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280218"
+    },
+    {
+      "english": "I agree with you.",
+      "filipino": "Sumasang-ayon ako sa iyo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280220"
+    },
+    {
+      "english": "That makes sense.",
+      "filipino": "May punto ka diyan.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280222"
+    },
+    {
+      "english": "I disagree, sorry.",
+      "filipino": "Hindi ako sang-ayon, pasensya na.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280224"
+    },
+    {
+      "english": "Maybe, perhaps.",
+      "filipino": "Siguro, baka.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280226"
+    },
+    {
+      "english": "That's a good point.",
+      "filipino": "Magandang punto 'yan.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280228"
+    },
+    {
+      "english": "I can't agree more.",
+      "filipino": "Lubos akong sumasang-ayon.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280230"
+    },
+    {
+      "english": "Not necessarily.",
+      "filipino": "Hindi naman siguro.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280234"
+    },
+    {
+      "english": "I feel the same way.",
+      "filipino": "Ganoon din ang nararamdaman ko.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280236"
+    },
+    {
+      "english": "I'm not convinced.",
+      "filipino": "Hindi ako kumbinsido.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280240"
+    },
+    {
+      "english": "You've got a point.",
+      "filipino": "May sinasabi ka.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280242"
+    },
+    {
+      "english": "I understand, but...",
+      "filipino": "Naiintindihan ko, pero...",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280244"
+    },
+    {
+      "english": "Fair enough, I guess.",
+      "filipino": "Tama ka na rin siguro.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280246"
+    },
+    {
+      "english": "I'm on your side.",
+      "filipino": "Kakampi mo ako.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280248"
+    },
+    {
+      "english": "That's debatable.",
+      "filipino": "Maaaring pagtalunan 'yan.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280250"
+    },
+    {
+      "english": "We see eye to eye.",
+      "filipino": "Pareho tayo ng iniisip.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280252"
+    },
+    {
+      "english": "That's not quite right.",
+      "filipino": "Hindi ganyan 'yun.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280256"
+    },
+    {
+      "english": "I agree, wholeheartedly.",
+      "filipino": "Sang-ayon ako, buong puso.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280258"
+    },
+    {
+      "english": "I'm not so sure about that.",
+      "filipino": "Hindi ako sigurado diyan.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280260"
+    },
+    {
+      "english": "You can say that again.",
+      "filipino": "Tama ka, ulitin mo pa.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280262"
+    },
+    {
+      "english": "That's exactly my thought.",
+      "filipino": "Iyan mismo ang naisip ko.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280264"
+    },
+    {
+      "english": "I have a different opinion.",
+      "filipino": "May iba akong opinyon.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280267"
+    },
+    {
+      "english": "What do you think, friend?",
+      "filipino": "Ano sa tingin mo, kaibigan?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280269"
+    },
+    {
+      "english": "Tell me your honest opinion.",
+      "filipino": "Sabihin mo ang iyong tapat na opinyon.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280271"
+    },
+    {
+      "english": "Is that really your view?",
+      "filipino": "Talaga bang ganyan ang pananaw mo?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280274"
+    },
+    {
+      "english": "Do you have another idea?",
+      "filipino": "May iba ka pa bang naiisip?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280276"
+    },
+    {
+      "english": "Let's hear your perspective.",
+      "filipino": "Pakinggan natin ang iyong pananaw.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280278"
+    },
+    {
+      "english": "What's your take on this?",
+      "filipino": "Ano ang masasabi mo dito?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280280"
+    },
+    {
+      "english": "How do you feel about it?",
+      "filipino": "Ano ang nararamdaman mo tungkol diyan?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280282"
+    },
+    {
+      "english": "Can I ask your thoughts?",
+      "filipino": "Maaari ko bang itanong ang nasa isip mo?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280284"
+    },
+    {
+      "english": "Would you say the same?",
+      "filipino": "Sasabihin mo rin ba 'yun?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280287"
+    },
+    {
+      "english": "Do you see it differently?",
+      "filipino": "Iba ba ang nakikita mo?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280289"
+    },
+    {
+      "english": "What if we tried this?",
+      "filipino": "Paano kung ito ang sinubukan natin?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280291"
+    },
+    {
+      "english": "Are we on the same page?",
+      "filipino": "Pareho ba tayo ng iniisip?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280295"
+    },
+    {
+      "english": "Your idea, please tell me.",
+      "filipino": "Ang iyong ideya, sabihin mo sa akin.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280297"
+    },
+    {
+      "english": "Is that your final answer?",
+      "filipino": "Iyan na ba ang iyong huling sagot?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280299"
+    },
+    {
+      "english": "What's your personal take?",
+      "filipino": "Ano ang personal mong pananaw?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280301"
+    },
+    {
+      "english": "Could you explain that more?",
+      "filipino": "Maaari mo bang ipaliwanag 'yan nang higit pa?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280303"
+    },
+    {
+      "english": "What's your gut feeling?",
+      "filipino": "Ano ang kutob mo?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280305"
+    },
+    {
+      "english": "Do you have a counter-argument?",
+      "filipino": "May kontra ka bang argumento?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280307"
+    },
+    {
+      "english": "Tell me your reservations.",
+      "filipino": "Sabihin mo ang iyong mga pag-aalinlangan.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280311"
+    },
+    {
+      "english": "What's your honest reaction?",
+      "filipino": "Ano ang tapat mong reaksyon?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280315"
+    },
+    {
+      "english": "Can you elaborate on that?",
+      "filipino": "Maaari mo bang palawakin 'yan?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280317"
+    },
+    {
+      "english": "I'm curious about your thoughts.",
+      "filipino": "Interesado ako sa iyong mga saloobin.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280319"
+    },
+    {
+      "english": "What's your side of the story?",
+      "filipino": "Ano ang iyong panig sa kwento?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280321"
+    },
+    {
+      "english": "Do you agree with the premise?",
+      "filipino": "Sumasang-ayon ka ba sa ideya?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280323"
+    },
+    {
+      "english": "How do you interpret this?",
+      "filipino": "Paano mo ito binibigyang-kahulugan?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280325"
+    },
+    {
+      "english": "What's your unsolicited advice?",
+      "filipino": "Ano ang iyong hindi hinihinging payo?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280327"
+    },
+    {
+      "english": "What's your inclination?",
+      "filipino": "Ano ang iyong hilig?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280329"
+    },
+    {
+      "english": "Is this acceptable to you?",
+      "filipino": "Tanggap ba ito para sa iyo?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280331"
+    },
+    {
+      "english": "Can we find common ground?",
+      "filipino": "Makakahanap ba tayo ng pagkakaisa?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280333"
+    },
+    {
+      "english": "That's a brilliant idea, truly.",
+      "filipino": "Napakagaling na ideya, grabe.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280335"
+    },
+    {
+      "english": "Keep up the great work, friend.",
+      "filipino": "Galingan mo pa, kaibigan.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280338"
+    },
+    {
+      "english": "Your effort is inspiring, you know.",
+      "filipino": "Nakaka-inspire ang pagsisikap mo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280340"
+    },
+    {
+      "english": "Yes, I completely agree with you.",
+      "filipino": "Oo, sang-ayon ako sa iyo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280351"
+    },
+    {
+      "english": "That's a powerful affirmation, I like it.",
+      "filipino": "Malakas na kumpirmasyon 'yan, gusto ko.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280354"
+    },
+    {
+      "english": "You're on the right track, keep going.",
+      "filipino": "Nasa tamang landas ka, tuloy lang.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280356"
+    },
+    {
+      "english": "I see your point, and it's valid.",
+      "filipino": "Naiintindihan ko punto mo, at tama.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280358"
+    },
+    {
+      "english": "That's exactly the encouragement needed.",
+      "filipino": "Tama 'yun, 'yun ang kailangan.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280361"
+    },
+    {
+      "english": "Yes, let's think positively always.",
+      "filipino": "Oo, mag-isip tayo ng positibo lagi.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280363"
+    },
+    {
+      "english": "Your confidence is admirable, truly.",
+      "filipino": "Kahanga-hanga ang kumpiyansa mo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280365"
+    },
+    {
+      "english": "I agree, that's a great mindset.",
+      "filipino": "Sang-ayon, magandang mindset 'yan.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280368"
+    },
+    {
+      "english": "You articulated that perfectly, nice.",
+      "filipino": "Malinaw mong nasabi, magaling.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280370"
+    },
+    {
+      "english": "Absolutely, we should aim high.",
+      "filipino": "Syempre, mataas dapat ang layunin.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280372"
+    },
+    {
+      "english": "That's a valid concern, I agree.",
+      "filipino": "May punto 'yang concern mo, sang-ayon.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280374"
+    },
+    {
+      "english": "I agree, let's stay optimistic.",
+      "filipino": "Oo, manatili tayong positibo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280377"
+    },
+    {
+      "english": "That's a solid point, I concur.",
+      "filipino": "Matibay na punto 'yan, sumasang-ayon.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280381"
+    },
+    {
+      "english": "Your positive outlook is contagious.",
+      "filipino": "Nakakahawa ang positibo mong pananaw.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280383"
+    },
+    {
+      "english": "I agree, never give up on it.",
+      "filipino": "Tama, 'wag kang susuko diyan.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280385"
+    },
+    {
+      "english": "That perspective is truly valuable.",
+      "filipino": "Mahalaga ang perspektibong 'yan.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280387"
+    },
+    {
+      "english": "Yes, your belief is strong.",
+      "filipino": "Oo, matatag ang paniniwala mo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280390"
+    },
+    {
+      "english": "I agree, you're making progress.",
+      "filipino": "Sang-ayon, umaangat ka na.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280392"
+    },
+    {
+      "english": "That's a great way to think.",
+      "filipino": "Magandang paraan 'yan ng pag-iisip.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280397"
+    },
+    {
+      "english": "You are absolutely right, I agree.",
+      "filipino": "Talagang tama ka, oo nga.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280399"
+    },
+    {
+      "english": "Yes, embrace the challenges ahead.",
+      "filipino": "Oo, yakapin ang mga hamon.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280402"
+    },
+    {
+      "english": "I agree, you have a good spirit.",
+      "filipino": "Sang-ayon, mabuti ang iyong espiritu.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280404"
+    },
+    {
+      "english": "That's an excellent observation.",
+      "filipino": "Mahusay na obserbasyon 'yan.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280406"
+    },
+    {
+      "english": "Yes, keep that positive energy.",
+      "filipino": "Oo, panatilihin ang positibong enerhiya.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280408"
+    },
+    {
+      "english": "I agree, you are capable.",
+      "filipino": "Sang-ayon, kaya mo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280410"
+    },
+    {
+      "english": "I feel you, that's what matters.",
+      "filipino": "Nararamdaman ko 'yan, 'yun ang mahalaga.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280412"
+    },
+    {
+      "english": "My gut says, let's be patient.",
+      "filipino": "Sabi ng kutob ko, maging matiyaga tayo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280415"
+    },
+    {
+      "english": "Honestly, I'm not sure yet.",
+      "filipino": "Sa totoo lang, hindi pa ako sigurado.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280417"
+    },
+    {
+      "english": "It makes me think, deeply.",
+      "filipino": "Pinag-iisip ako nito, nang malalim.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280419"
+    },
+    {
+      "english": "I sense your hesitation.",
+      "filipino": "Nararamdaman ko ang pag-aalinlangan mo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280422"
+    },
+    {
+      "english": "Let's give it some thought.",
+      "filipino": "Bigyan natin ito ng pag-iisip.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280424"
+    },
+    {
+      "english": "My heart says, proceed with care.",
+      "filipino": "Sabi ng puso ko, magpatuloy nang maingat.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280426"
+    },
+    {
+      "english": "That resonates with me.",
+      "filipino": "Sumasang-ayon 'yan sa nararamdaman ko.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280428"
+    },
+    {
+      "english": "I'm reflecting on this.",
+      "filipino": "Pinagninilayan ko ito.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280430"
+    },
+    {
+      "english": "Your sincerity is clear.",
+      "filipino": "Malinaw ang katapatan mo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280433"
+    },
+    {
+      "english": "I understand your quiet doubt.",
+      "filipino": "Nauunawaan ko ang tahimik mong duda.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280435"
+    },
+    {
+      "english": "This requires careful consideration.",
+      "filipino": "Nangangailangan ito ng maingat na pagmumuni-muni.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280437"
+    },
+    {
+      "english": "My feeling is, we need time.",
+      "filipino": "Ang pakiramdam ko, kailangan natin ng oras.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280439"
+    },
+    {
+      "english": "I trust your inner voice.",
+      "filipino": "Nagkakatiwala ako sa tinig ng iyong kalooban.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280441"
+    },
+    {
+      "english": "This stirs something in me.",
+      "filipino": "May ginagalaw ito sa akin.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280443"
+    },
+    {
+      "english": "Let's listen to our hearts.",
+      "filipino": "Pakinggan natin ang ating mga puso.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280445"
+    },
+    {
+      "english": "I'm sensing a deeper meaning.",
+      "filipino": "May nakikita akong mas malalim na kahulugan.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280448"
+    },
+    {
+      "english": "Your honesty is refreshing.",
+      "filipino": "Nakakapresko ang iyong katapatan.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280450"
+    },
+    {
+      "english": "We must be understanding.",
+      "filipino": "Kailangan nating maging mapag-unawa.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280452"
+    },
+    {
+      "english": "My intuition says, be careful.",
+      "filipino": "Sabi ng kutob ko, mag-ingat.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280456"
+    },
+    {
+      "english": "That perspective is very true.",
+      "filipino": "Totoong-totoo ang pananaw na 'yan.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280458"
+    },
+    {
+      "english": "I feel a connection here.",
+      "filipino": "May nararamdaman akong koneksyon dito.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280460"
+    },
+    {
+      "english": "Let's honor our true feelings.",
+      "filipino": "Igalang natin ang ating tunay na damdamin.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280462"
+    },
+    {
+      "english": "It requires soul-searching.",
+      "filipino": "Nangangailangan ito ng pagbubulay ng kaluluwa.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280464"
+    },
+    {
+      "english": "I agree with that sentiment.",
+      "filipino": "Sang-ayon ako sa damdaming 'yan.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280466"
+    },
+    {
+      "english": "My heart leans towards this.",
+      "filipino": "Mas gusto ng puso ko ito.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280470"
+    },
+    {
+      "english": "We should be empathetic.",
+      "filipino": "Dapat tayong maging maunawain.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280472"
+    },
+    {
+      "english": "This is a thoughtful point.",
+      "filipino": "Makatutulong na punto ito.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280474"
+    },
+    {
+      "english": "I value your perspective.",
+      "filipino": "Pinapahalagahan ko ang iyong pananaw.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280476"
+    },
+    {
+      "english": "Let's proceed with sincerity.",
+      "filipino": "Magpatuloy tayo nang may katapatan.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280478"
+    },
+    {
+      "english": "Totally, that's the best approach.",
+      "filipino": "Oo nga, 'yan ang pinakamagaling.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280480"
+    },
+    {
+      "english": "I think so too, let's try it.",
+      "filipino": "Sa tingin ko rin, subukan natin.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280483"
+    },
+    {
+      "english": "Valid point, I hadn't considered that.",
+      "filipino": "May punto ka, hindi ko naisip 'yan.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T08:11:09.280485"
     }
   ],
-  "last_updated": "2026-10-22T08:38:33.642787"
+  "last_updated": "2026-10-23T08:11:09.280487"
 }
