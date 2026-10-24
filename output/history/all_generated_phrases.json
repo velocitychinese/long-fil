@@ -5039,7 +5039,727 @@
       "filipino": "May punto ka, hindi ko naisip 'yan.",
       "category": "Agreeing & Disagreeing",
       "generated_at": "2026-10-23T08:11:09.280485"
+    },
+    {
+      "english": "Where is the restroom, please?",
+      "filipino": "Nasaan po ang banyo?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403817"
+    },
+    {
+      "english": "I need help, please.",
+      "filipino": "Kailangan ko po ng tulong.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403830"
+    },
+    {
+      "english": "How much is this?",
+      "filipino": "Magkano po ito?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403833"
+    },
+    {
+      "english": "I don't understand.",
+      "filipino": "Hindi ko po maintindihan.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403837"
+    },
+    {
+      "english": "Can you repeat that?",
+      "filipino": "Pauulit po?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403839"
+    },
+    {
+      "english": "Excuse me, please.",
+      "filipino": "Makikiraan po.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403842"
+    },
+    {
+      "english": "Where is the gate?",
+      "filipino": "Nasaan po ang gate?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403845"
+    },
+    {
+      "english": "My flight is delayed.",
+      "filipino": "Naantala po ang flight ko.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403850"
+    },
+    {
+      "english": "Where can I get a taxi?",
+      "filipino": "Saan po ang sakayan ng taxi?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403854"
+    },
+    {
+      "english": "This is my luggage.",
+      "filipino": "Ito po ang dala-dala ko.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403856"
+    },
+    {
+      "english": "Do you speak English?",
+      "filipino": "Nagsasalita po ba kayo ng English?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403859"
+    },
+    {
+      "english": "I am looking for my hotel.",
+      "filipino": "Hinahanap ko po ang hotel ko.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403861"
+    },
+    {
+      "english": "What time is it?",
+      "filipino": "Anong oras na po?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403864"
+    },
+    {
+      "english": "Is this the correct line?",
+      "filipino": "Dito po ba ang pila?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403866"
+    },
+    {
+      "english": "I have a reservation.",
+      "filipino": "May reservation po ako.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403869"
+    },
+    {
+      "english": "Where is the check-in counter?",
+      "filipino": "Nasaan po ang check-in counter?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403872"
+    },
+    {
+      "english": "Enjoy your trip!",
+      "filipino": "Magandang biyahe po!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403874"
+    },
+    {
+      "english": "I need a boarding pass.",
+      "filipino": "Kailangan ko ng boarding pass.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403876"
+    },
+    {
+      "english": "Is my flight on time?",
+      "filipino": "Sakto po ba ang flight ko?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403879"
+    },
+    {
+      "english": "Can I have a window seat?",
+      "filipino": "Puwede po bang sa bintana?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403881"
+    },
+    {
+      "english": "Where is baggage claim?",
+      "filipino": "Nasaan po ang baggage claim?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403884"
+    },
+    {
+      "english": "I lost my passport.",
+      "filipino": "Nawala po ang passport ko.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403889"
+    },
+    {
+      "english": "Is there Wi-Fi here?",
+      "filipino": "May Wi-Fi po ba dito?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403892"
+    },
+    {
+      "english": "Let's go!",
+      "filipino": "Tara na!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403895"
+    },
+    {
+      "english": "Wow, it's beautiful!",
+      "filipino": "Wow, ang ganda!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403898"
+    },
+    {
+      "english": "I am tired.",
+      "filipino": "Pagod na ako.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403900"
+    },
+    {
+      "english": "I'm ready.",
+      "filipino": "Handa na ako.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403903"
+    },
+    {
+      "english": "May I ask a question, please?",
+      "filipino": "Pwede po bang magtanong?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403906"
+    },
+    {
+      "english": "Could you help me find it?",
+      "filipino": "Matutulungan niyo po ba akong hanapin?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403909"
+    },
+    {
+      "english": "Where is the nearest information desk?",
+      "filipino": "Nasaan po ang pinakamalapit na information desk?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403914"
+    },
+    {
+      "english": "What is this called in Filipino?",
+      "filipino": "Ano po ang tawag dito sa Filipino?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403917"
+    },
+    {
+      "english": "Can you recommend a good restaurant?",
+      "filipino": "Maaari po bang magrekomenda ng masarap na kainan?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403920"
+    },
+    {
+      "english": "Is this the right way to the city?",
+      "filipino": "Dito po ba ang tamang daan papuntang siyudad?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403923"
+    },
+    {
+      "english": "How do I get to the train station?",
+      "filipino": "Paano po makakarating sa istasyon ng tren?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403925"
+    },
+    {
+      "english": "Can I have a map, please?",
+      "filipino": "Maaari po bang humingi ng mapa?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403928"
+    },
+    {
+      "english": "What time does it open/close?",
+      "filipino": "Anong oras po ito nagbubukas/nagsasara?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403931"
+    },
+    {
+      "english": "Is it far from here?",
+      "filipino": "Malayo po ba ito dito?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403934"
+    },
+    {
+      "english": "Could you show me on the map?",
+      "filipino": "Pwede po bang ituro niyo sa mapa?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403936"
+    },
+    {
+      "english": "What is the local currency?",
+      "filipino": "Ano po ang lokal na pera?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403939"
+    },
+    {
+      "english": "Do you know where this is?",
+      "filipino": "Alam niyo po ba kung nasaan ito?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403941"
+    },
+    {
+      "english": "Is there a bus going there?",
+      "filipino": "Mayroon po bang bus na papunta doon?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403944"
+    },
+    {
+      "english": "What's the best way to travel?",
+      "filipino": "Ano po ang pinakamagandang paraan ng pagbiyahe?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403947"
+    },
+    {
+      "english": "Can I take a picture here?",
+      "filipino": "Pwede po bang kumuha ng litrato dito?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403949"
+    },
+    {
+      "english": "How long does it take to get there?",
+      "filipino": "Gaano po katagal bago makarating doon?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403952"
+    },
+    {
+      "english": "Could you write that down for me?",
+      "filipino": "Pwede po bang isulat niyo para sa akin?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403954"
+    },
+    {
+      "english": "Are there any good deals available?",
+      "filipino": "Mayroon po bang magagandang deal?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403957"
+    },
+    {
+      "english": "What time should I be there?",
+      "filipino": "Anong oras po ako dapat nandoon?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403960"
+    },
+    {
+      "english": "Where can I buy a ticket?",
+      "filipino": "Saan po ako makakabili ng ticket?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403962"
+    },
+    {
+      "english": "Is this seat taken?",
+      "filipino": "May nakaupo na po ba dito?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403965"
+    },
+    {
+      "english": "How much is the entrance fee?",
+      "filipino": "Magkano po ang entrance fee?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403967"
+    },
+    {
+      "english": "Can you speak slower, please?",
+      "filipino": "Maaari po bang mas mabagal kayo magsalita?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403970"
+    },
+    {
+      "english": "What is this place famous for?",
+      "filipino": "Sikat po ba ito sa ano?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403972"
+    },
+    {
+      "english": "Is it safe to walk around here?",
+      "filipino": "Ligtas po bang maglakad dito?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403977"
+    },
+    {
+      "english": "Where is the nearest ATM?",
+      "filipino": "Nasaan po ang pinakamalapit na ATM?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403979"
+    },
+    {
+      "english": "Can I pay with credit card?",
+      "filipino": "Pwede po bang magbayad gamit ang credit card?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403981"
+    },
+    {
+      "english": "What is there to do nearby?",
+      "filipino": "Ano po ang mga maaaring gawin dito?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403984"
+    },
+    {
+      "english": "Thank you for your help!",
+      "filipino": "Salamat po sa tulong ninyo!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403986"
+    },
+    {
+      "english": "Embrace the adventure, my friend.",
+      "filipino": "Yakapin mo ang adventure, kaibigan.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403989"
+    },
+    {
+      "english": "Every step is progress, keep going.",
+      "filipino": "Bawat hakbang, pag-unlad 'yan, tuloy lang.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403992"
+    },
+    {
+      "english": "Your journey is unfolding beautifully.",
+      "filipino": "Ang iyong paglalakbay, gumaganda.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.403995"
+    },
+    {
+      "english": "Trust the process, it's amazing.",
+      "filipino": "Tiwala lang sa proseso, nakakamangha.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404001"
+    },
+    {
+      "english": "You're doing great, truly.",
+      "filipino": "Mahusay ka, sobra.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404006"
+    },
+    {
+      "english": "This experience will be unforgettable.",
+      "filipino": "Di malilimutan 'tong karanasan.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404010"
+    },
+    {
+      "english": "Be open, wonderful things await.",
+      "filipino": "Maging bukas, magaganda naghihintay.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404012"
+    },
+    {
+      "english": "You are capable of anything.",
+      "filipino": "Kahit ano, kaya mo.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404015"
+    },
+    {
+      "english": "Let your curiosity lead you.",
+      "filipino": "Hayaan mong gabayan ka ng kuryosidad.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404018"
+    },
+    {
+      "english": "Enjoy the ride, it's part of it.",
+      "filipino": "I-enjoy mo ang biyahe, bahagi 'yan.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404021"
+    },
+    {
+      "english": "Adventure is calling, answer it!",
+      "filipino": "Tinatawag ang adventure, sagutin mo!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404023"
+    },
+    {
+      "english": "This moment is pure magic.",
+      "filipino": "Ang sandaling 'to, mahika.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404026"
+    },
+    {
+      "english": "You are glowing with excitement.",
+      "filipino": "Nagliliyab ka sa excitement.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404029"
+    },
+    {
+      "english": "Keep that smile, it's beautiful.",
+      "filipino": "Ituloy mo 'yang ngiti mo, maganda.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404032"
+    },
+    {
+      "english": "You're making memories, fantastic!",
+      "filipino": "Gumagawa ka ng memories, astig!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404035"
+    },
+    {
+      "english": "This journey is meant for you.",
+      "filipino": "Para sa iyo talaga 'tong biyahe.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404037"
+    },
+    {
+      "english": "Exceed your own expectations.",
+      "filipino": "Lampasan mo ang sarili mong inaasahan.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404040"
+    },
+    {
+      "english": "You're radiating positive vibes.",
+      "filipino": "Positive vibes ang binibigay mo.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404043"
+    },
+    {
+      "english": "Embrace the new, it's rewarding.",
+      "filipino": "Tanggapin ang bago, sulit 'yan.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404045"
+    },
+    {
+      "english": "You're more resilient than you know.",
+      "filipino": "Mas matatag ka pa kaysa alam mo.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404048"
+    },
+    {
+      "english": "Let the exploration begin!",
+      "filipino": "Simulan na ang exploration!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404050"
+    },
+    {
+      "english": "Your spirit is adventurous, I like it.",
+      "filipino": "Malakas ang adventure spirit mo, gusto ko.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404053"
+    },
+    {
+      "english": "This is your time to shine.",
+      "filipino": "Ito na ang oras mo, sumikat ka.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404057"
+    },
+    {
+      "english": "You're navigating this perfectly.",
+      "filipino": "Mahusay ang pag-navigate mo.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404060"
+    },
+    {
+      "english": "Adventure awaits, don't delay!",
+      "filipino": "Naghintay ang adventure, 'wag na magpatumpik-tumpik!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404063"
+    },
+    {
+      "english": "This experience is a gift.",
+      "filipino": "Regalo ang karanasang 'to.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404065"
+    },
+    {
+      "english": "Keep that spark alive!",
+      "filipino": "Panatilihin mo 'yang ningas!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404068"
+    },
+    {
+      "english": "You're creating your own story.",
+      "filipino": "Ginagawa mo ang sarili mong kwento.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404070"
+    },
+    {
+      "english": "I miss home already, a little.",
+      "filipino": "Nami-miss ko na agad ang bahay, kaunti.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404073"
+    },
+    {
+      "english": "This journey feels different, somehow.",
+      "filipino": "Iba ang pakiramdam ng biyaheng ito, parang.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404076"
+    },
+    {
+      "english": "I need more patience for this.",
+      "filipino": "Kailangan ko pa ng pasensya dito.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404078"
+    },
+    {
+      "english": "What is this feeling? So strange.",
+      "filipino": "Anong pakiramdam ba ito? Kakaiba talaga.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404081"
+    },
+    {
+      "english": "Deep down, I'm a little scared.",
+      "filipino": "Sa kaibuturan, medyo natatakot ako.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404084"
+    },
+    {
+      "english": "I hope this is worth it.",
+      "filipino": "Sana sulit itong paglalakbay.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404086"
+    },
+    {
+      "english": "It's a lot to take in, wow.",
+      "filipino": "Marami talagang dapat pag-isipan, wow.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404089"
+    },
+    {
+      "english": "I'm surprisingly calm right now.",
+      "filipino": "Nakakagulat, kalmado ako ngayon.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404094"
+    },
+    {
+      "english": "This reminds me of my childhood.",
+      "filipino": "Naaalala ko ang kabataan ko dito.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404096"
+    },
+    {
+      "english": "I feel a bit overwhelmed, honestly.",
+      "filipino": "Medyo nahihirapan ako, totoo lang.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404099"
+    },
+    {
+      "english": "Is this how it's supposed to feel?",
+      "filipino": "Ganito ba dapat ang pakiramdam?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404102"
+    },
+    {
+      "english": "I need a moment to reflect.",
+      "filipino": "Kailangan ko muna ng sandali para mag-isip.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404104"
+    },
+    {
+      "english": "This is more emotional than I thought.",
+      "filipino": "Mas nakakaantig ito kaysa akala ko.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404107"
+    },
+    {
+      "english": "I'm not sure what to expect next.",
+      "filipino": "Hindi ako sigurado sa susunod.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404109"
+    },
+    {
+      "english": "This quiet is so peaceful.",
+      "filipino": "Nakakarelax ang katahimikang ito.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404112"
+    },
+    {
+      "english": "Maybe I should wait a bit.",
+      "filipino": "Siguro maghihintay muna ako.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404114"
+    },
+    {
+      "english": "I'm trying to be understanding.",
+      "filipino": "Sinusubukan kong umunawa.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404117"
+    },
+    {
+      "english": "This feeling is quite profound.",
+      "filipino": "Malalim ang damdaming ito.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404119"
+    },
+    {
+      "english": "I wonder what happens now.",
+      "filipino": "Nagtataka ako, ano na kaya?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404122"
+    },
+    {
+      "english": "It's okay to feel uncertain.",
+      "filipino": "Okay lang na hindi ka sigurado.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404124"
+    },
+    {
+      "english": "I'm reflecting on past travels.",
+      "filipino": "Iniisip ko ang mga nakaraang biyahe.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404127"
+    },
+    {
+      "english": "This pause is much needed.",
+      "filipino": "Malaking tulong itong paghinto.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404129"
+    },
+    {
+      "english": "My mind is wandering a bit.",
+      "filipino": "Nalilito ang isip ko.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404133"
+    },
+    {
+      "english": "I feel a sense of nostalgia.",
+      "filipino": "May nararamdaman akong pangungulila.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404136"
+    },
+    {
+      "english": "Let's just go with the flow.",
+      "filipino": "Sabayan na lang natin ang agos.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404138"
+    },
+    {
+      "english": "This is a moment for myself.",
+      "filipino": "Para sa akin ang sandaling ito.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404141"
+    },
+    {
+      "english": "I'm learning to be flexible.",
+      "filipino": "Natututo akong maging madaling umangkop.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404143"
+    },
+    {
+      "english": "It’s okay not to have a plan.",
+      "filipino": "Okay lang na walang plano.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404147"
+    },
+    {
+      "english": "This is making me think deeply.",
+      "filipino": "Nagpapaisip ito sa akin nang malalim.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404150"
+    },
+    {
+      "english": "I appreciate the quiet time.",
+      "filipino": "Salamat sa tahimik na oras.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404152"
+    },
+    {
+      "english": "What's my gate number, I forgot.",
+      "filipino": "Ano pong gate number ko, nakalimutan ko.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404155"
+    },
+    {
+      "english": "My luggage is too heavy, what do I do?",
+      "filipino": "Masyado pong mabigat ang bag ko, paano?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404158"
+    },
+    {
+      "english": "I need to declare this item.",
+      "filipino": "Kailangan ko pong i-declare itong gamit.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404161"
+    },
+    {
+      "english": "Is my flight delayed, can you check?",
+      "filipino": "Delay po ba ang flight ko, pwede pakita?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404163"
+    },
+    {
+      "english": "Where can I find the nearest restroom?",
+      "filipino": "Saan po ang pinakamalapit na CR?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-24T07:50:01.404166"
     }
   ],
-  "last_updated": "2026-10-23T08:11:09.280487"
+  "last_updated": "2026-10-24T07:50:01.404168"
 }
