@@ -5759,7 +5759,727 @@
       "filipino": "Saan po ang pinakamalapit na CR?",
       "category": "Travel & Airport",
       "generated_at": "2026-10-24T07:50:01.404166"
+    },
+    {
+      "english": "Calm down, breathe deeply.",
+      "filipino": "Huminahon ka muna, huminga ng malalim.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647154"
+    },
+    {
+      "english": "Let's find some quiet time.",
+      "filipino": "Maghanap tayo ng tahimik na sandali.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647168"
+    },
+    {
+      "english": "It's okay, don't worry.",
+      "filipino": "Okay lang 'yan, huwag kang mag-alala.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647172"
+    },
+    {
+      "english": "Just be present now.",
+      "filipino": "Maging narito ka lang ngayon.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647174"
+    },
+    {
+      "english": "Let go of stress.",
+      "filipino": "Bitawan mo ang stress.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647177"
+    },
+    {
+      "english": "Find your inner peace.",
+      "filipino": "Hanapin mo ang kapayapaan mo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647180"
+    },
+    {
+      "english": "Take a moment to relax.",
+      "filipino": "Maglaan ka ng ilang sandali para magpahinga.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647183"
+    },
+    {
+      "english": "Everything will be alright.",
+      "filipino": "Lahat ay magiging maayos din.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647188"
+    },
+    {
+      "english": "Listen to your heart.",
+      "filipino": "Pakinggan mo ang iyong puso.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647191"
+    },
+    {
+      "english": "Slow down your thoughts.",
+      "filipino": "Pabagalin mo ang iyong isip.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647194"
+    },
+    {
+      "english": "Seek tranquility always.",
+      "filipino": "Laging hanapin ang katahimikan.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647197"
+    },
+    {
+      "english": "Find stillness within.",
+      "filipino": "Humanap ng katahimikan sa loob.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647214"
+    },
+    {
+      "english": "Let peace guide you.",
+      "filipino": "Hayaan mong ang kapayapaan ang gumabay sa iyo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647217"
+    },
+    {
+      "english": "Breathe in calm, breathe out worry.",
+      "filipino": "Huminga ng kapayapaan, ilabas ang alalahanin.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647222"
+    },
+    {
+      "english": "Center yourself now.",
+      "filipino": "Itayo mo ang sarili mo ngayon.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647224"
+    },
+    {
+      "english": "Embrace the quiet moments.",
+      "filipino": "Yakapin mo ang tahimik na mga sandali.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647227"
+    },
+    {
+      "english": "Your peace is important.",
+      "filipino": "Mahalaga ang iyong kapayapaan.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647232"
+    },
+    {
+      "english": "Cultivate inner calm.",
+      "filipino": "Linangin ang panloob na kahinahunan.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647235"
+    },
+    {
+      "english": "Release what burdens you.",
+      "filipino": "Bitawan ang bumibigat sa iyo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647237"
+    },
+    {
+      "english": "Find solace in stillness.",
+      "filipino": "Humanap ng kapanatagan sa katahimikan.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647240"
+    },
+    {
+      "english": "Just be, and let be.",
+      "filipino": "Maging ka lang, at hayaan.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647242"
+    },
+    {
+      "english": "Quiet the mind's noise.",
+      "filipino": "Patigilin ang ingay ng isip.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647245"
+    },
+    {
+      "english": "Seek serenity each day.",
+      "filipino": "Hanapin ang kapanatagan araw-araw.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647248"
+    },
+    {
+      "english": "Your inner world matters.",
+      "filipino": "Ang iyong panloob na mundo ay mahalaga.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647252"
+    },
+    {
+      "english": "Allow yourself to rest.",
+      "filipino": "Pahintulutan mo ang sarili mong magpahinga.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647255"
+    },
+    {
+      "english": "Find peace in simplicity.",
+      "filipino": "Hanapin ang kapayapaan sa kasimplehan.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647257"
+    },
+    {
+      "english": "Let go, and flow.",
+      "filipino": "Bitawan, at dumaloy.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647259"
+    },
+    {
+      "english": "Your spirit needs calm.",
+      "filipino": "Kailangan ng iyong espiritu ang kahinahunan.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647262"
+    },
+    {
+      "english": "Peace begins with you.",
+      "filipino": "Nagsisimula sa iyo ang kapayapaan.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647264"
+    },
+    {
+      "english": "How do you find calm, friend?",
+      "filipino": "Paano ka kumalma, kaibigan?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647267"
+    },
+    {
+      "english": "What helps you feel peaceful?",
+      "filipino": "Ano ang nakakapagpagaan ng loob mo?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647270"
+    },
+    {
+      "english": "Can you share a peaceful thought?",
+      "filipino": "Maaari mo bang ibahagi ang tahimik na kaisipan?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647273"
+    },
+    {
+      "english": "Where do you go for quiet?",
+      "filipino": "Saan ka nagpupunta para sa katahimikan?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647275"
+    },
+    {
+      "english": "Is it hard to be calm sometimes?",
+      "filipino": "Mahirap bang maging mahinahon minsan?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647278"
+    },
+    {
+      "english": "What makes your mind quiet?",
+      "filipino": "Ano ang nagpapatigil sa pag-iisip mo?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647281"
+    },
+    {
+      "english": "Do you meditate to relax?",
+      "filipino": "Nagme-meditate ka ba para mag-relax?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647283"
+    },
+    {
+      "english": "What brings you comfort, really?",
+      "filipino": "Ano talaga ang nagbibigay sa iyo ng kapanatagan?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647288"
+    },
+    {
+      "english": "Shall we take a break together?",
+      "filipino": "Magpahinga muna tayo?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647290"
+    },
+    {
+      "english": "Do you need to talk about it?",
+      "filipino": "Kailangan mo bang pag-usapan?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647293"
+    },
+    {
+      "english": "What is your peaceful place?",
+      "filipino": "Ano ang paborito mong lugar para sa kapayapaan?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647296"
+    },
+    {
+      "english": "Can we just sit in silence?",
+      "filipino": "Pwede ba tayong manahimik lang?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647298"
+    },
+    {
+      "english": "What is your best advice for peace?",
+      "filipino": "Ano ang pinakamahusay mong payo para sa kapayapaan?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647301"
+    },
+    {
+      "english": "How do you handle difficult feelings?",
+      "filipino": "Paano mo hinahawakan ang mahihirap na damdamin?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647303"
+    },
+    {
+      "english": "Is there something I can do?",
+      "filipino": "May magagawa ba ako para sa iyo?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647306"
+    },
+    {
+      "english": "What brings you joy, simply?",
+      "filipino": "Ano ang nagpapasaya sa iyo, simpleng-simple?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647310"
+    },
+    {
+      "english": "Can we share a quiet moment?",
+      "filipino": "Maaari ba tayong magkaroon ng tahimik na sandali?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647313"
+    },
+    {
+      "english": "What is your secret to peace?",
+      "filipino": "Ano ang sikreto mo sa kapayapaan?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647316"
+    },
+    {
+      "english": "Do you feel at ease now?",
+      "filipino": "Komportable ka na ba ngayon?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647318"
+    },
+    {
+      "english": "What calms your spirit down?",
+      "filipino": "Ano ang nagpapakalma sa iyong espiritu?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647321"
+    },
+    {
+      "english": "Shall we listen to nature sounds?",
+      "filipino": "Makinig ba tayo sa mga tunog ng kalikasan?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647323"
+    },
+    {
+      "english": "How do you maintain inner balance?",
+      "filipino": "Paano mo pinapanatili ang panloob na balanse?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647326"
+    },
+    {
+      "english": "Can you tell me something peaceful?",
+      "filipino": "Maaari mo bang sabihin sa akin ang isang payapang bagay?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647328"
+    },
+    {
+      "english": "What's your favorite calming activity?",
+      "filipino": "Ano ang paborito mong gawain para kumalma?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647331"
+    },
+    {
+      "english": "Are you feeling more serene?",
+      "filipino": "Mas payapa ka na ba?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647334"
+    },
+    {
+      "english": "What brings you peace of mind?",
+      "filipino": "Ano ang nagbibigay sa iyo ng kapayapaan ng isip?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647338"
+    },
+    {
+      "english": "Let's just breathe together, okay?",
+      "filipino": "Huminga tayo nang sabay, okay?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647341"
+    },
+    {
+      "english": "What helps you find your center?",
+      "filipino": "Ano ang tumutulong sa iyo na mahanap ang iyong sentro?",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647344"
+    },
+    {
+      "english": "Your efforts are truly appreciated.",
+      "filipino": "Talaga naming pahahalagahan ang pagsisikap mo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647346"
+    },
+    {
+      "english": "Believe in your own strength.",
+      "filipino": "Manalig ka sa sarili mong lakas.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647349"
+    },
+    {
+      "english": "Every step forward is progress.",
+      "filipino": "Bawat hakbang pasulong ay pag-unlad.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647352"
+    },
+    {
+      "english": "You have a beautiful spirit.",
+      "filipino": "Mayroon kang napakagandang diwa.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647355"
+    },
+    {
+      "english": "Your positive outlook is inspiring.",
+      "filipino": "Nakaka-inspire ang positibo mong pananaw.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647357"
+    },
+    {
+      "english": "Focus on what you can control.",
+      "filipino": "Ituon mo sa kaya mong kontrolin.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647360"
+    },
+    {
+      "english": "Your perspective is valuable.",
+      "filipino": "Mahalaga ang iyong pananaw.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647362"
+    },
+    {
+      "english": "Keep that hopeful heart beating.",
+      "filipino": "Patuloy mong patibukin ang pusong puno ng pag-asa.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647365"
+    },
+    {
+      "english": "Your journey is unique, embrace it.",
+      "filipino": "Natatangi ang iyong paglalakbay, yakapin mo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647368"
+    },
+    {
+      "english": "Your inner light shines brightly.",
+      "filipino": "Nagniningning ang iyong panloob na liwanag.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647370"
+    },
+    {
+      "english": "You are worthy of all good things.",
+      "filipino": "Nararapat ka sa lahat ng mabuti.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647373"
+    },
+    {
+      "english": "Positive thoughts bring positive results.",
+      "filipino": "Ang positibong kaisipan, positibong resulta.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647376"
+    },
+    {
+      "english": "You are growing, and that's beautiful.",
+      "filipino": "Nagbabago ka, at iyan ay maganda.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647379"
+    },
+    {
+      "english": "Trust the process, you'll get there.",
+      "filipino": "Magtiwala sa proseso, makakarating ka rin.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647382"
+    },
+    {
+      "english": "Your resilience is admirable.",
+      "filipino": "Kahanga-hanga ang iyong katatagan.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647384"
+    },
+    {
+      "english": "You are exactly where you need to be.",
+      "filipino": "Nasa tamang lugar ka ngayon.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647387"
+    },
+    {
+      "english": "Allow kindness to lead your way.",
+      "filipino": "Hayaan mong gabayan ka ng kabaitan.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647389"
+    },
+    {
+      "english": "Your spirit is strong and vibrant.",
+      "filipino": "Matatag at masigla ang iyong diwa.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647392"
+    },
+    {
+      "english": "You are enough, just as you are.",
+      "filipino": "Sapat ka na, kung sino ka man.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647394"
+    },
+    {
+      "english": "Your presence is a gift.",
+      "filipino": "Isang biyaya ang iyong presensya.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647399"
+    },
+    {
+      "english": "Embrace challenges as opportunities.",
+      "filipino": "Tanggapin ang hamon bilang pagkakataon.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647402"
+    },
+    {
+      "english": "You are capable of creating peace.",
+      "filipino": "May kakayahan kang lumikha ng kapayapaan.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647404"
+    },
+    {
+      "english": "Your inner strength will guide you.",
+      "filipino": "Gagabayan ka ng iyong panloob na lakas.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647407"
+    },
+    {
+      "english": "You are loved and supported.",
+      "filipino": "Minamahal at sinusuportahan ka.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647409"
+    },
+    {
+      "english": "Let gratitude fill your heart.",
+      "filipino": "Hayaan mong punuin ng pasasalamat ang puso mo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647412"
+    },
+    {
+      "english": "I feel calm, right now.",
+      "filipino": "Tahimik ang pakiramdam ko, ngayon.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647415"
+    },
+    {
+      "english": "My heart feels lighter.",
+      "filipino": "Mas magaan ang puso ko.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647417"
+    },
+    {
+      "english": "This moment is enough.",
+      "filipino": "Sapat na ang sandaling ito.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647420"
+    },
+    {
+      "english": "I accept what is.",
+      "filipino": "Tinanggap ko ang nangyayari.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647422"
+    },
+    {
+      "english": "Letting go feels good.",
+      "filipino": "Masarap sa pakiramdam ang bumitaw.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647426"
+    },
+    {
+      "english": "Peace starts within me.",
+      "filipino": "Nagsisimula sa akin ang kapayapaan.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647429"
+    },
+    {
+      "english": "I am at rest.",
+      "filipino": "Ako ay nagpapahinga.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647431"
+    },
+    {
+      "english": "My thoughts are quiet.",
+      "filipino": "Tahimik ang mga iniisip ko.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647434"
+    },
+    {
+      "english": "I choose stillness.",
+      "filipino": "Pinili ko ang katahimikan.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647437"
+    },
+    {
+      "english": "This feeling is temporary.",
+      "filipino": "Panandalian lang ang damdaming ito.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647439"
+    },
+    {
+      "english": "I breathe in peace.",
+      "filipino": "Huminga ako ng kapayapaan.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647442"
+    },
+    {
+      "english": "My mind is clear.",
+      "filipino": "Malinaw ang isip ko.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647444"
+    },
+    {
+      "english": "I am content.",
+      "filipino": "Kuntento na ako.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647446"
+    },
+    {
+      "english": "I honor my feelings.",
+      "filipino": "Iginagalang ko ang aking nararamdaman.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647449"
+    },
+    {
+      "english": "This is my sanctuary.",
+      "filipino": "Ito ang aking ligtas na lugar.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647451"
+    },
+    {
+      "english": "My spirit is calm.",
+      "filipino": "Kalmado ang aking espiritu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647456"
+    },
+    {
+      "english": "I let worries fade.",
+      "filipino": "Hayaan kong maglaho ang mga alalahanin.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647458"
+    },
+    {
+      "english": "My inner world is serene.",
+      "filipino": "Makatahimikan ang aking panloob na mundo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647461"
+    },
+    {
+      "english": "I am present.",
+      "filipino": "Nandito ako sa kasalukuyan.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647463"
+    },
+    {
+      "english": "This quiet feels right.",
+      "filipino": "Tama ang katahimikang ito.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647465"
+    },
+    {
+      "english": "My soul is at ease.",
+      "filipino": "Gumaan ang aking kaluluwa.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647468"
+    },
+    {
+      "english": "I release what's heavy.",
+      "filipino": "Binitawan ko ang mabigat.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647470"
+    },
+    {
+      "english": "True peace is here.",
+      "filipino": "Narito ang tunay na kapayapaan.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647473"
+    },
+    {
+      "english": "I breathe out tension.",
+      "filipino": "Inilalabas ko ang tensyon.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647486"
+    },
+    {
+      "english": "My heart is open.",
+      "filipino": "Bukas ang aking puso.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647489"
+    },
+    {
+      "english": "I find solace now.",
+      "filipino": "Natagpuan ko ang kapanatagan ngayon.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647491"
+    },
+    {
+      "english": "This stillness heals.",
+      "filipino": "Nagpapagaling ang katahimikang ito.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647494"
+    },
+    {
+      "english": "I am centered.",
+      "filipino": "Nasa gitna ako.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647496"
+    },
+    {
+      "english": "Start small, think big.",
+      "filipino": "Magsimula sa maliit, isipin ang malaki.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647499"
+    },
+    {
+      "english": "Listen more, speak less.",
+      "filipino": "Makinig ka muna, huwag magmadaling magsalita.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647501"
+    },
+    {
+      "english": "Small steps, big progress.",
+      "filipino": "Maliliit na hakbang, malaking pag-unlad.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647504"
+    },
+    {
+      "english": "Ask for help when needed.",
+      "filipino": "Humingi ka ng tulong kung kailangan.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647507"
+    },
+    {
+      "english": "Observe, don't judge.",
+      "filipino": "Pagmasdan mo, huwag kang humusga.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647510"
+    },
+    {
+      "english": "Take breaks, recharge often.",
+      "filipino": "Magpahinga ka, mag-recharge palagi.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647512"
+    },
+    {
+      "english": "Simplify your daily tasks.",
+      "filipino": "Pasimplehin mo ang mga gawain mo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647515"
+    },
+    {
+      "english": "Focus on one thing at a time.",
+      "filipino": "Isang bagay lang, unahin mo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647517"
+    },
+    {
+      "english": "Forgive quickly, live freely.",
+      "filipino": "Magpatawad agad, mamuhay ng malaya.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647522"
+    },
+    {
+      "english": "Connect with nature daily.",
+      "filipino": "Kumonekta sa kalikasan araw-araw.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-25T08:00:50.647524"
     }
   ],
-  "last_updated": "2026-10-24T07:50:01.404168"
+  "last_updated": "2026-10-25T08:00:50.647526"
 }
