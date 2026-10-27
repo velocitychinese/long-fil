@@ -7199,7 +7199,727 @@
       "filipino": "Magdala ng maliit, magandang regalo.",
       "category": "Celebrations & Parties",
       "generated_at": "2026-10-26T08:22:53.193000"
+    },
+    {
+      "english": "Hello there, how are you?",
+      "filipino": "Kumusta ka, kamusta?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442178"
+    },
+    {
+      "english": "Good morning, friend!",
+      "filipino": "Magandang umaga, kaibigan!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442192"
+    },
+    {
+      "english": "Nice to meet you, really!",
+      "filipino": "Natuwa akong makilala ka, talaga!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442194"
+    },
+    {
+      "english": "What's your name, please?",
+      "filipino": "Ano ang pangalan mo, pakiusap?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442196"
+    },
+    {
+      "english": "My name is Maria.",
+      "filipino": "Maria ang pangalan ko.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442198"
+    },
+    {
+      "english": "Where are you from?",
+      "filipino": "Saan ka galing?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442200"
+    },
+    {
+      "english": "I am from Manila.",
+      "filipino": "Taga-Maynila ako.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442201"
+    },
+    {
+      "english": "Are you visiting here?",
+      "filipino": "Bumisita ka ba rito?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442207"
+    },
+    {
+      "english": "Yes, I am.",
+      "filipino": "Oo, bumisita.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442209"
+    },
+    {
+      "english": "Wow, that's great!",
+      "filipino": "Wow, ang galing!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442211"
+    },
+    {
+      "english": "Welcome to the Philippines!",
+      "filipino": "Maligayang pagdating sa Pilipinas!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442213"
+    },
+    {
+      "english": "You are most welcome.",
+      "filipino": "Walang anuman.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442214"
+    },
+    {
+      "english": "How old are you?",
+      "filipino": "Ilan taon ka na?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442216"
+    },
+    {
+      "english": "I am twenty years old.",
+      "filipino": "Dalawampung taon na ako.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442217"
+    },
+    {
+      "english": "That's surprising, really!",
+      "filipino": "Nakakagulat iyan, totoo!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442219"
+    },
+    {
+      "english": "What do you do here?",
+      "filipino": "Anong ginagawa mo rito?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442220"
+    },
+    {
+      "english": "I am a student.",
+      "filipino": "Ako ay estudyante.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442222"
+    },
+    {
+      "english": "Interesting, tell me more.",
+      "filipino": "Interesante, sabihin mo pa.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442223"
+    },
+    {
+      "english": "It's a pleasure meeting you.",
+      "filipino": "Ikinagagalak kitang makilala.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442225"
+    },
+    {
+      "english": "Have a good day!",
+      "filipino": "Magandang araw sa iyo!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442227"
+    },
+    {
+      "english": "See you later, okay?",
+      "filipino": "Hanggang sa muli, okay?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442228"
+    },
+    {
+      "english": "Goodbye for now!",
+      "filipino": "Paalam muna!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442230"
+    },
+    {
+      "english": "Hope to see you soon.",
+      "filipino": "Sana makita kita ulit.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442231"
+    },
+    {
+      "english": "Yes, it is.",
+      "filipino": "Oo, first time.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442232"
+    },
+    {
+      "english": "What a coincidence!",
+      "filipino": "Ang laking coincidence!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442234"
+    },
+    {
+      "english": "A little bit, yes.",
+      "filipino": "Kaunti lang, oo.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442236"
+    },
+    {
+      "english": "May I ask, where are you headed?",
+      "filipino": "Maaari ko bang itanong, saan ang punta mo?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442238"
+    },
+    {
+      "english": "What brings you to our city?",
+      "filipino": "Ano ang nagdala sa iyo sa bayan namin?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442239"
+    },
+    {
+      "english": "How long will you be staying?",
+      "filipino": "Gaano katagal ang iyong pamamalagi?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442263"
+    },
+    {
+      "english": "Are you enjoying your visit so far?",
+      "filipino": "Nag-eenjoy ka na ba sa pagbisita mo?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442265"
+    },
+    {
+      "english": "Do you need any help with anything?",
+      "filipino": "Kailangan mo ba ng tulong sa kahit ano?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442268"
+    },
+    {
+      "english": "Where do locals usually hang out?",
+      "filipino": "Saan madalas tumambay ang mga taga-rito?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442270"
+    },
+    {
+      "english": "Could you recommend a good place to eat?",
+      "filipino": "Maaari ka bang mag-recommend ng masarap na kainan?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442272"
+    },
+    {
+      "english": "What's the best way to get around?",
+      "filipino": "Ano ang pinakamagandang paraan para makalibot?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442273"
+    },
+    {
+      "english": "Is there anything I should know?",
+      "filipino": "Mayroon bang dapat akong malaman?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442275"
+    },
+    {
+      "english": "How do you say this in Filipino?",
+      "filipino": "Paano ito sabihin sa Filipino?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442277"
+    },
+    {
+      "english": "What's a common greeting here?",
+      "filipino": "Ano ang karaniwang bati dito?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442279"
+    },
+    {
+      "english": "Do people speak much English here?",
+      "filipino": "Nagsasalita ba ng maraming English dito?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442280"
+    },
+    {
+      "english": "Is it okay to approach you?",
+      "filipino": "Okay lang ba lumapit sa iyo?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442282"
+    },
+    {
+      "english": "What's the local time right now?",
+      "filipino": "Anong oras na ba dito sa amin?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442286"
+    },
+    {
+      "english": "Is it always this busy?",
+      "filipino": "Lagi bang ganito ka-busy?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442287"
+    },
+    {
+      "english": "What's your favorite thing about this place?",
+      "filipino": "Ano ang paborito mong parte dito?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442289"
+    },
+    {
+      "english": "Can we chat for a moment?",
+      "filipino": "Pwede ba tayong mag-usap sandali?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442290"
+    },
+    {
+      "english": "I'm trying to learn, can you help?",
+      "filipino": "Nagtatry akong matuto, pwede mo ba akong tulungan?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442292"
+    },
+    {
+      "english": "What's a common local custom?",
+      "filipino": "Ano ang karaniwang kaugalian dito?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442294"
+    },
+    {
+      "english": "Excuse me, may I ask a question?",
+      "filipino": "Excuse me, pwede ba akong magtanong?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442297"
+    },
+    {
+      "english": "What do people usually do on weekends?",
+      "filipino": "Ano ang karaniwang ginagawa ng mga tao tuwing weekend?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442299"
+    },
+    {
+      "english": "Is it polite to ask about age?",
+      "filipino": "Magalang ba magtanong tungkol sa edad?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442300"
+    },
+    {
+      "english": "Could you repeat that, please?",
+      "filipino": "Maaari mo bang ulitin iyon?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442302"
+    },
+    {
+      "english": "What's the best way to learn the language?",
+      "filipino": "Ano ang pinakamagandang paraan para matuto ng wika?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442305"
+    },
+    {
+      "english": "What's the meaning of this word?",
+      "filipino": "Ano ang ibig sabihin ng salitang ito?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442307"
+    },
+    {
+      "english": "Are you originally from here?",
+      "filipino": "Taga-rito ka ba talaga?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442308"
+    },
+    {
+      "english": "What's a common mistake for learners?",
+      "filipino": "Ano ang karaniwang pagkakamali ng mga nag-aaral?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442310"
+    },
+    {
+      "english": "Can I practice my Filipino with you?",
+      "filipino": "Pwede ko bang i-practice ang Filipino ko sa iyo?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442311"
+    },
+    {
+      "english": "Don't be afraid, you can do it.",
+      "filipino": "Huwag matakot, kaya mo 'yan.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442313"
+    },
+    {
+      "english": "Your effort is admirable.",
+      "filipino": "Kapuri-puri ang pagsisikap mo.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442315"
+    },
+    {
+      "english": "Learning is a journey, enjoy it.",
+      "filipino": "Pag-aaral ay biyahe, tamasahin.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442317"
+    },
+    {
+      "english": "You're making good progress.",
+      "filipino": "Malaki na ang inunlad mo.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442318"
+    },
+    {
+      "english": "Stay positive, my friend.",
+      "filipino": "Manatiling positibo, kaibigan.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442320"
+    },
+    {
+      "english": "It's okay to make mistakes.",
+      "filipino": "Okay lang magkamali.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442323"
+    },
+    {
+      "english": "You have a great attitude.",
+      "filipino": "Ang ganda ng ugali mo.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442324"
+    },
+    {
+      "english": "Persistence pays off, really.",
+      "filipino": "Tiyaga ang susi, talaga.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442326"
+    },
+    {
+      "english": "You're so friendly and open.",
+      "filipino": "Ang friendly mo naman at bukas.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442329"
+    },
+    {
+      "english": "Don't give up easily.",
+      "filipino": "Huwag sumuko agad.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442331"
+    },
+    {
+      "english": "Your curiosity is inspiring.",
+      "filipino": "Nakaka-inspire ang pagiging mausisa mo.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442332"
+    },
+    {
+      "english": "You have a warm spirit.",
+      "filipino": "Mayroon kang mabuting diwa.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442334"
+    },
+    {
+      "english": "Embrace the challenge bravely.",
+      "filipino": "Yakapin ang hamon nang matapang.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442336"
+    },
+    {
+      "english": "You make people feel welcome.",
+      "filipino": "Nagpaparamdam ka ng pagtanggap.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442339"
+    },
+    {
+      "english": "Success is within your reach.",
+      "filipino": "Malapit na ang tagumpay.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442341"
+    },
+    {
+      "english": "Your confidence is growing.",
+      "filipino": "Lumago na ang iyong kumpiyansa.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442343"
+    },
+    {
+      "english": "You're a natural connector.",
+      "filipino": "Talentado ka sa pagkonekta.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442345"
+    },
+    {
+      "english": "Keep that bright smile on.",
+      "filipino": "Panatilihin ang ngiti mong iyan.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442346"
+    },
+    {
+      "english": "You're spreading good vibes.",
+      "filipino": "Nagkakalat ka ng magandang enerhiya.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442349"
+    },
+    {
+      "english": "Your effort is truly appreciated.",
+      "filipino": "Talagang naa-appreciate ang ginagawa mo.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442353"
+    },
+    {
+      "english": "You're very approachable, thank you.",
+      "filipino": "Madaling lapitan, salamat.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442357"
+    },
+    {
+      "english": "Keep learning, it's beautiful.",
+      "filipino": "Patuloy sa pag-aaral, napakaganda.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442359"
+    },
+    {
+      "english": "You have a welcoming nature.",
+      "filipino": "Mayroon kang mapagpatanggap na disposisyon.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442362"
+    },
+    {
+      "english": "You're getting better every day.",
+      "filipino": "Gumagaling ka araw-araw.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442364"
+    },
+    {
+      "english": "Embrace this new experience.",
+      "filipino": "Tanggapin ang bagong karanasan.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442366"
+    },
+    {
+      "english": "You inspire us all.",
+      "filipino": "Nagbibigay-inspirasyon ka sa amin.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442368"
+    },
+    {
+      "english": "This feels like home, somehow.",
+      "filipino": "Parang bahay ko na rin dito.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442371"
+    },
+    {
+      "english": "I appreciate your patience with me.",
+      "filipino": "Salamat sa tiyaga mo sa akin.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442373"
+    },
+    {
+      "english": "You make learning this easy.",
+      "filipino": "Ginagali mo ang pagkatuto ko.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442375"
+    },
+    {
+      "english": "It's nice to meet genuine people.",
+      "filipino": "Masarap makakilala ng totoo.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442378"
+    },
+    {
+      "english": "Your kindness means a lot.",
+      "filipino": "Malaki ang epekto ng kabaitan mo.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442381"
+    },
+    {
+      "english": "I'm reflecting on our talk.",
+      "filipino": "Pinag-iisipan ko ang usapan natin.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442383"
+    },
+    {
+      "english": "You have a calming presence.",
+      "filipino": "May mahinahon kang dating.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442385"
+    },
+    {
+      "english": "This is more than just greetings.",
+      "filipino": "Higit pa sa pagbati ito.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442387"
+    },
+    {
+      "english": "I'm truly grateful for this moment.",
+      "filipino": "Lubos akong nagpapasalamat dito.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442390"
+    },
+    {
+      "english": "You open my eyes to things.",
+      "filipino": "Nagbubukas ka ng isip ko.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442392"
+    },
+    {
+      "english": "Let's keep this understanding.",
+      "filipino": "Panatilihin natin ang pagkakaintindihan.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442395"
+    },
+    {
+      "english": "There's a depth to this conversation.",
+      "filipino": "May lalim ang usapang ito.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442398"
+    },
+    {
+      "english": "I feel understood by you.",
+      "filipino": "Nararamdaman kong naiintindihan mo ako.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442399"
+    },
+    {
+      "english": "This encounter is meaningful.",
+      "filipino": "Makabuluhan ang pagkikita natin.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442405"
+    },
+    {
+      "english": "We're building something positive.",
+      "filipino": "May positibo tayong nabubuo.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442407"
+    },
+    {
+      "english": "I'm learning beyond the words.",
+      "filipino": "Higit pa sa salita ang natutunan ko.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442409"
+    },
+    {
+      "english": "Your sincerity shines through.",
+      "filipino": "Kitang-kita ang katapatan mo.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442412"
+    },
+    {
+      "english": "This feels like genuine warmth.",
+      "filipino": "Ramdam ko ang totoong init dito.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442414"
+    },
+    {
+      "english": "I'm contemplating your advice.",
+      "filipino": "Nagninilay ako sa payo mo.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442416"
+    },
+    {
+      "english": "You bring out the best in me.",
+      "filipino": "Naipapakita mo ang galing ko.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442417"
+    },
+    {
+      "english": "This is a thoughtful exchange.",
+      "filipino": "Matalinong palitan ito.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442419"
+    },
+    {
+      "english": "I feel a sense of belonging.",
+      "filipino": "Nararamdaman kong kabilang ako.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442421"
+    },
+    {
+      "english": "Thank you for this deep talk.",
+      "filipino": "Salamat sa malalim na usapan.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442425"
+    },
+    {
+      "english": "Your wisdom is evident.",
+      "filipino": "Kitang-kita ang karunungan mo.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442427"
+    },
+    {
+      "english": "I'm cherishing this interaction.",
+      "filipino": "Pinahahalagahan ko ang ugnayan.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442431"
+    },
+    {
+      "english": "You've given me much to think.",
+      "filipino": "Marami kang pinag-isip sa akin.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442434"
+    },
+    {
+      "english": "This connection feels very real.",
+      "filipino": "Totoo ang koneksyon na ito.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442436"
+    },
+    {
+      "english": "I'm grateful for your understanding.",
+      "filipino": "Salamat sa pang-unawa mo.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442439"
+    },
+    {
+      "english": "Small talk builds bridges, try it.",
+      "filipino": "Ang maliit na usapan, nagbubuklod yan.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442442"
+    },
+    {
+      "english": "Ask about their day, it matters.",
+      "filipino": "Kamusta araw mo?, mahalaga yan.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442444"
+    },
+    {
+      "english": "Share a common interest, connect easily.",
+      "filipino": "May parehong hilig?, dali lang kumonekta.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442446"
+    },
+    {
+      "english": "Listen actively, show you care.",
+      "filipino": "Makinig nang mabuti, ipakita mong pedeng paniwalaan.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442448"
+    },
+    {
+      "english": "Remember names, it's a great start.",
+      "filipino": "Tandaan ang pangalan, magandang simula yan.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442450"
+    },
+    {
+      "english": "Offer help, if you can.",
+      "filipino": "Mag-alok ng tulong, kung kaya mo.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442452"
+    },
+    {
+      "english": "Be open to new friendships.",
+      "filipino": "Maging bukas, sa mga bagong kaibigan.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442453"
+    },
+    {
+      "english": "Use polite words, like 'po' and 'opo'.",
+      "filipino": "Gamitin ang magagalang na salita, 'po' at 'opo'.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442456"
+    },
+    {
+      "english": "Smile often, it's universal.",
+      "filipino": "Ngumiti madalas, alam ng lahat yan.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442457"
+    },
+    {
+      "english": "Don't be afraid to initiate.",
+      "filipino": "Huwag matakot magsimula ng usapan.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442459"
+    },
+    {
+      "english": "Ask for recommendations, locals love to share.",
+      "filipino": "Magtanong ng rekomendasyon, mahilig magbigay ang locals.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442461"
+    },
+    {
+      "english": "Introduce yourself clearly, state your name.",
+      "filipino": "Ipakilala ang sarili, sabihin ang pangalan.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-27T08:34:18.442463"
     }
   ],
-  "last_updated": "2026-10-26T08:22:53.193002"
+  "last_updated": "2026-10-27T08:34:18.442465"
 }
