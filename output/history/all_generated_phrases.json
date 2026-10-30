@@ -8639,7 +8639,727 @@
       "filipino": "Ano ba talaga ang nagpapatakbo?",
       "category": "Motivation",
       "generated_at": "2026-10-28T09:12:47.125517"
+    },
+    {
+      "english": "Help, please, quickly!",
+      "filipino": "Tulong, pakiusap, bilis!",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775545"
+    },
+    {
+      "english": "I need a doctor, now.",
+      "filipino": "Kailangan ko ng doktor, agad.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775560"
+    },
+    {
+      "english": "Where is the hospital?",
+      "filipino": "Nasaan ang ospital?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775563"
+    },
+    {
+      "english": "I feel sick, very.",
+      "filipino": "Masama ang pakiramdam ko, talaga.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775566"
+    },
+    {
+      "english": "It hurts here, a lot.",
+      "filipino": "Masakit dito, sobra.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775569"
+    },
+    {
+      "english": "Call an ambulance, fast!",
+      "filipino": "Tumawag ng ambulansya, bilis!",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775571"
+    },
+    {
+      "english": "Do you need medicine?",
+      "filipino": "Kailangan mo ba ng gamot?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775574"
+    },
+    {
+      "english": "I have a fever, ouch.",
+      "filipino": "May lagnat ako, naku.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775579"
+    },
+    {
+      "english": "My head is spinning.",
+      "filipino": "Nahihilo ako, grabe.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775583"
+    },
+    {
+      "english": "Be careful, watch out!",
+      "filipino": "Ingat, mag-ingat ka!",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775586"
+    },
+    {
+      "english": "Is anyone hurt?",
+      "filipino": "May nasaktan ba?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775588"
+    },
+    {
+      "english": "I can't breathe, help!",
+      "filipino": "Hindi ako makahinga, tulong!",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775591"
+    },
+    {
+      "english": "Take this, quickly.",
+      "filipino": "Inumin mo ito, dali.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775593"
+    },
+    {
+      "english": "I think I will faint.",
+      "filipino": "Parang mahihimatay ako.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775595"
+    },
+    {
+      "english": "What happened, tell me.",
+      "filipino": "Anong nangyari, sabihin mo.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775598"
+    },
+    {
+      "english": "Stay calm, breathe slowly.",
+      "filipino": "Huminahon ka, dahan-dahan.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775600"
+    },
+    {
+      "english": "Where is the nearest clinic?",
+      "filipino": "Nasaan ang pinakamalapit na klinika?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775602"
+    },
+    {
+      "english": "I need first aid, now.",
+      "filipino": "Kailangan ko ng first aid, agad.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775605"
+    },
+    {
+      "english": "Is there an emergency room?",
+      "filipino": "Mayroon bang emergency room?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775607"
+    },
+    {
+      "english": "I have a wound, help.",
+      "filipino": "May sugat ako, tulungan.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775610"
+    },
+    {
+      "english": "Don't move, stay still.",
+      "filipino": "Huwag kang gagalaw, manatili.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775612"
+    },
+    {
+      "english": "Did you take your medicine?",
+      "filipino": "Nainom mo na ba gamot mo?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775614"
+    },
+    {
+      "english": "I feel dizzy, a bit.",
+      "filipino": "Medyo nahihilo ako.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775617"
+    },
+    {
+      "english": "Is this serious, doctor?",
+      "filipino": "Malala ba ito, doktor?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775622"
+    },
+    {
+      "english": "I need water, please.",
+      "filipino": "Kailangan ko ng tubig, pakiusap.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775624"
+    },
+    {
+      "english": "My stomach hurts, oh no.",
+      "filipino": "Masakit ang tiyan ko, naku.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775627"
+    },
+    {
+      "english": "Can you hear me?",
+      "filipino": "Naririnig mo ba ako?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775629"
+    },
+    {
+      "english": "I need to lie down.",
+      "filipino": "Kailangan kong humiga.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775631"
+    },
+    {
+      "english": "This is an emergency!",
+      "filipino": "Emergency na ito!",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775633"
+    },
+    {
+      "english": "Are you okay now?",
+      "filipino": "Okay ka na ba?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775635"
+    },
+    {
+      "english": "What is your name, sir/ma'am?",
+      "filipino": "Ano po ang pangalan ninyo?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775638"
+    },
+    {
+      "english": "Can you understand me?",
+      "filipino": "Naiintindihan niyo po ba ako?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775640"
+    },
+    {
+      "english": "Where did you get injured?",
+      "filipino": "Saan po ang inyong sugat?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775643"
+    },
+    {
+      "english": "How long have you felt this way?",
+      "filipino": "Gaano na po kayo ganito?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775646"
+    },
+    {
+      "english": "Is there anyone who can help?",
+      "filipino": "Mayroon po bang makakatulong?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775649"
+    },
+    {
+      "english": "What do you need right now?",
+      "filipino": "Ano po ang kailangan ninyo ngayon?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775654"
+    },
+    {
+      "english": "Do you have allergies?",
+      "filipino": "May allergy po ba kayo?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775656"
+    },
+    {
+      "english": "Should I call your family?",
+      "filipino": "Tatawag na po ba ako sa pamilya ninyo?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775659"
+    },
+    {
+      "english": "Can you describe the pain?",
+      "filipino": "Maaari niyo po bang ilarawan ang sakit?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775661"
+    },
+    {
+      "english": "Is this a chronic condition?",
+      "filipino": "Mayroon na po ba kayo nito dati?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775664"
+    },
+    {
+      "english": "What did you eat earlier?",
+      "filipino": "Ano po ang kinain ninyo kanina?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775666"
+    },
+    {
+      "english": "Can you point to where it hurts?",
+      "filipino": "Ituro niyo po kung saan masakit?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775669"
+    },
+    {
+      "english": "Did you take any medication?",
+      "filipino": "May nainom na po ba kayong gamot?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775671"
+    },
+    {
+      "english": "How much pain are you in?",
+      "filipino": "Gaano po kasakit ang nararamdaman ninyo?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775673"
+    },
+    {
+      "english": "Do you have any pre-existing conditions?",
+      "filipino": "Mayroon po ba kayong ibang karamdaman?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775676"
+    },
+    {
+      "english": "Can you tell me your symptoms?",
+      "filipino": "Maaari niyo po bang sabihin ang inyong sintomas?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775678"
+    },
+    {
+      "english": "Should I get a blanket?",
+      "filipino": "Kumuha na po ba ako ng kumot?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775681"
+    },
+    {
+      "english": "What is your emergency contact?",
+      "filipino": "Sino po ang inyong emergency contact?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775683"
+    },
+    {
+      "english": "Can you describe what happened?",
+      "filipino": "Maaari niyo po bang ikuwento ang nangyari?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775685"
+    },
+    {
+      "english": "Do you feel nauseous at all?",
+      "filipino": "Nakakaramdam po ba kayo ng pagkahilo?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775690"
+    },
+    {
+      "english": "Have you seen a doctor before?",
+      "filipino": "Nakapagpatingin na po ba kayo sa doktor?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775692"
+    },
+    {
+      "english": "Can you breathe normally now?",
+      "filipino": "Nakakahinga na po ba kayo nang maayos?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775694"
+    },
+    {
+      "english": "Do you need to rest here?",
+      "filipino": "Kailangan po ba ninyong magpahinga dito?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775696"
+    },
+    {
+      "english": "What is your blood type?",
+      "filipino": "Ano po ang inyong blood type?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775701"
+    },
+    {
+      "english": "Can you sit up slowly?",
+      "filipino": "Maaari po bang bumangon nang dahan-dahan?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775703"
+    },
+    {
+      "english": "Did you fall down earlier?",
+      "filipino": "Napadapa po ba kayo kanina?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775705"
+    },
+    {
+      "english": "How do you feel now, better?",
+      "filipino": "Kumusta na po kayo, mas magaling na?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775707"
+    },
+    {
+      "english": "You are brave, keep going.",
+      "filipino": "Matapang ka, tuloy lang.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775710"
+    },
+    {
+      "english": "We can handle this together.",
+      "filipino": "Kaya natin 'to, sabay.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775712"
+    },
+    {
+      "english": "Stay calm, help is coming.",
+      "filipino": "Huwag mag-panic, darating tulong.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775715"
+    },
+    {
+      "english": "Take a deep breath, slowly.",
+      "filipino": "Hinga nang malalim, dahan-dahan.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775717"
+    },
+    {
+      "english": "Don't give up, you're strong.",
+      "filipino": "Huwag sumuko, malakas ka.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775720"
+    },
+    {
+      "english": "We will get through this.",
+      "filipino": "Malalampasan natin 'to.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775723"
+    },
+    {
+      "english": "Just focus on recovery now.",
+      "filipino": "Isipin mo lang paggaling.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775726"
+    },
+    {
+      "english": "You are making good progress.",
+      "filipino": "Malaki na ang improvement mo.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775728"
+    },
+    {
+      "english": "Every little bit helps, thank you.",
+      "filipino": "Lahat ng tulong, mahalaga.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775731"
+    },
+    {
+      "english": "Think positive, stay hopeful.",
+      "filipino": "Isip positibo, manalig ka.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775733"
+    },
+    {
+      "english": "Rest is important for healing.",
+      "filipino": "Mahalaga ang pahinga sa paggaling.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775738"
+    },
+    {
+      "english": "Your strength is inspiring.",
+      "filipino": "Nakaka-inspire ang tibay mo.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775740"
+    },
+    {
+      "english": "We are here for you always.",
+      "filipino": "Nandito kami palagi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775743"
+    },
+    {
+      "english": "You are healing, slowly but surely.",
+      "filipino": "Gumagaling ka, unti-unti.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775746"
+    },
+    {
+      "english": "Be patient with yourself now.",
+      "filipino": "Maging pasensyoso sa sarili.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775748"
+    },
+    {
+      "english": "That's great improvement right there.",
+      "filipino": "Malaking pagbabago 'yan.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775751"
+    },
+    {
+      "english": "Focus on getting better soon.",
+      "filipino": "Mag-focus sa pagbuti.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775753"
+    },
+    {
+      "english": "You are very resilient, truly.",
+      "filipino": "Talagang matatag ka.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775756"
+    },
+    {
+      "english": "Keep that positive outlook, friend.",
+      "filipino": "Perteng positibo, kaibigan.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775759"
+    },
+    {
+      "english": "You are doing your best now.",
+      "filipino": "Ginagawa mo ang lahat.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775761"
+    },
+    {
+      "english": "We appreciate your effort greatly.",
+      "filipino": "Salamat sa pagsisikap mo.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775764"
+    },
+    {
+      "english": "Never underestimate your own strength.",
+      "filipino": "Huwag maliitin ang lakas.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775767"
+    },
+    {
+      "english": "You are a survivor, remember that.",
+      "filipino": "Isa kang survivor, tandaan.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775772"
+    },
+    {
+      "english": "Sending you healing energy now.",
+      "filipino": "Nagpapadala ako ng healing.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775775"
+    },
+    {
+      "english": "This is just a temporary setback.",
+      "filipino": "Sandaling pagsubok lang ito.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775777"
+    },
+    {
+      "english": "This worry, it is hard to shake.",
+      "filipino": "Nakakabigat talaga itong pag-aalala.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775780"
+    },
+    {
+      "english": "I need to process this feeling.",
+      "filipino": "Kailangan ko munang intindihin 'to.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775782"
+    },
+    {
+      "english": "Hope is a powerful medicine, right?",
+      "filipino": "Malakas na gamot ang pag-asa, 'di ba?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775785"
+    },
+    {
+      "english": "It's okay to not be okay, sometimes.",
+      "filipino": "Okay lang na hindi okay, minsan.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775788"
+    },
+    {
+      "english": "I am reflecting on what happened.",
+      "filipino": "Pinag-iisipan ko kasi yung nangyari.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775791"
+    },
+    {
+      "english": "This waiting is testing my patience.",
+      "filipino": "Sinusubok talaga pasensya ko sa paghihintay.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775793"
+    },
+    {
+      "english": "My thoughts are scattered right now.",
+      "filipino": "Gulo-gulo isip ko ngayon.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775796"
+    },
+    {
+      "english": "I just want to feel normal again.",
+      "filipino": "Gusto ko lang ulit maramdaman.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775798"
+    },
+    {
+      "english": "This situation made me think deeply.",
+      "filipino": "Malalim iniisip ko dahil dito.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775801"
+    },
+    {
+      "english": "Gratitude for small improvements, always.",
+      "filipino": "Pasasalamat sa konting ginhawa, lagi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775803"
+    },
+    {
+      "english": "I feel a strange sense of calm now.",
+      "filipino": "May kakaibang kalmado ako ngayon.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775806"
+    },
+    {
+      "english": "It's hard to express this emotion.",
+      "filipino": "Mahirap sabihin itong nararamdaman ko.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775808"
+    },
+    {
+      "english": "I need time to recover my spirit.",
+      "filipino": "Kailangan ko ng oras, para bumangon.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775810"
+    },
+    {
+      "english": "This experience is truly humbling.",
+      "filipino": "Nakaka-low down talaga itong nangyari.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775813"
+    },
+    {
+      "english": "I am learning to be more resilient.",
+      "filipino": "Natututo akong maging matatag.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775818"
+    },
+    {
+      "english": "This is a chance for self-reflection.",
+      "filipino": "Pata-reflect ko 'to sa sarili ko.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775820"
+    },
+    {
+      "english": "I appreciate your understanding deeply.",
+      "filipino": "Malaki pasasalamat ko sa pag-unawa mo.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775823"
+    },
+    {
+      "english": "It feels like a long journey ahead.",
+      "filipino": "Parang mahabang biyahe pa 'to.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775828"
+    },
+    {
+      "english": "I'm trying to stay positive, you know?",
+      "filipino": "Sinisikap kong maging positibo, alam mo?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775830"
+    },
+    {
+      "english": "This moment requires deep thinking.",
+      "filipino": "Kailangan pag-isipan mabuti 'to.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775833"
+    },
+    {
+      "english": "My perspective has certainly shifted.",
+      "filipino": "Nagbago talaga pananaw ko.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775835"
+    },
+    {
+      "english": "I am holding onto hope fiercely.",
+      "filipino": "Mahigpit kapit ko sa pag-asa.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775837"
+    },
+    {
+      "english": "This is a test of inner strength.",
+      "filipino": "Subukan ng lakas ng loob.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775840"
+    },
+    {
+      "english": "I need to be gentle with myself.",
+      "filipino": "Dapat malumanay ako sa sarili ko.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775842"
+    },
+    {
+      "english": "This experience is quite profound, really.",
+      "filipino": "Malalim talaga impact nito, sobra.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775845"
+    },
+    {
+      "english": "I am taking it one day at a time.",
+      "filipino": "Isang araw, isang kaso lang.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775847"
+    },
+    {
+      "english": "My faith is what keeps me going.",
+      "filipino": "Pananampalataya ang nagpapatuloy sa akin.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775850"
+    },
+    {
+      "english": "I am embracing vulnerability right now.",
+      "filipino": "Tinanggap ko pagiging mahina ko.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775853"
+    },
+    {
+      "english": "This has been a sobering realization.",
+      "filipino": "Nakaka-realize talaga itong lahat.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775855"
+    },
+    {
+      "english": "I'm finding strength in unexpected places.",
+      "filipino": "Nah-kah-kah-hah-nahp ah-koh nahng lah-kahs sah dee ee-nah-ah-sah-han.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775858"
+    },
+    {
+      "english": "Take your medicine, please.",
+      "filipino": "Inumin mo ang gamot mo, salamat.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775860"
+    },
+    {
+      "english": "Do you need a doctor?",
+      "filipino": "Kailangan mo ba ng doktor?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775863"
+    },
+    {
+      "english": "Call the ambulance, quickly!",
+      "filipino": "Tawagin ang ambulansya, bilis!",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775865"
+    },
+    {
+      "english": "Rest well, get better soon.",
+      "filipino": "Magpahinga ka, gumaling ka agad.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775870"
+    },
+    {
+      "english": "Drink lots of water.",
+      "filipino": "Uminom ka ng maraming tubig.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775873"
+    },
+    {
+      "english": "Avoid the sun, it's hot.",
+      "filipino": "Iwasan ang araw, mainit.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775882"
+    },
+    {
+      "english": "Wash your hands often.",
+      "filipino": "Maghugas ng kamay, madalas.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775884"
+    },
+    {
+      "english": "Do you feel dizzy?",
+      "filipino": "Nahihilo ka ba?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T09:24:35.775887"
     }
   ],
-  "last_updated": "2026-10-28T09:12:47.125519"
+  "last_updated": "2026-10-30T09:24:35.775889"
 }
