@@ -9359,7 +9359,727 @@
       "filipino": "Nahihilo ka ba?",
       "category": "Emergency & Health",
       "generated_at": "2026-10-30T09:24:35.775887"
+    },
+    {
+      "english": "Where is the bus stop, please?",
+      "filipino": "Nasaan po ang hintayan ng bus?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048618"
+    },
+    {
+      "english": "How much is the fare?",
+      "filipino": "Magkano po ang pamasahe?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048631"
+    },
+    {
+      "english": "Can I get off here?",
+      "filipino": "Pwede po bang bumaba rito?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048634"
+    },
+    {
+      "english": "Is this the right jeepney?",
+      "filipino": "Ito po ba ang tamang jeep?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048637"
+    },
+    {
+      "english": "I need to go to Divisoria.",
+      "filipino": "Kailangan ko pong pumunta sa Divisoria.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048639"
+    },
+    {
+      "english": "Please drive carefully.",
+      "filipino": "Mag-ingat po sa pagmamaneho.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048643"
+    },
+    {
+      "english": "Can you wait a moment?",
+      "filipino": "Maaari po bang maghintay sandali?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048645"
+    },
+    {
+      "english": "I'm running late.",
+      "filipino": "Nahuhuli na po ako.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048649"
+    },
+    {
+      "english": "Is there any room?",
+      "filipino": "Mayroon pa po bang bakante?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048652"
+    },
+    {
+      "english": "This is too crowded.",
+      "filipino": "Masikip na po rito.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048654"
+    },
+    {
+      "english": "Please let me pass.",
+      "filipino": "Makikiraan po.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048656"
+    },
+    {
+      "english": "What time does it arrive?",
+      "filipino": "Anong oras po ito darating?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048658"
+    },
+    {
+      "english": "I missed my stop.",
+      "filipino": "Nalampasan ko po ang bababaan ko.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048660"
+    },
+    {
+      "english": "Do you have a coin?",
+      "filipino": "May barya ka ba?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048662"
+    },
+    {
+      "english": "I need a ticket, please.",
+      "filipino": "Kailangan ko po ng tiket.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048664"
+    },
+    {
+      "english": "I'll just stand.",
+      "filipino": "Tayo na lang po ako.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048666"
+    },
+    {
+      "english": "How long is the trip?",
+      "filipino": "Gaano katagal ang biyahe?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048668"
+    },
+    {
+      "english": "Can I pay with this?",
+      "filipino": "Pwede po bang ito ang ipambayad?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048670"
+    },
+    {
+      "english": "Let's go, we're leaving!",
+      "filipino": "Tara na, aalis na!",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048672"
+    },
+    {
+      "english": "This is my stop too.",
+      "filipino": "Dito rin po ako bababa.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048676"
+    },
+    {
+      "english": "Can you drop me off there?",
+      "filipino": "Pwede po bang dito ninyo ako ibaba?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048678"
+    },
+    {
+      "english": "Excuse me, driver.",
+      "filipino": "Manong, excuse po.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048680"
+    },
+    {
+      "english": "Is this going downtown?",
+      "filipino": "Dadaan po ba ito sa sentro?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048682"
+    },
+    {
+      "english": "I need to transfer.",
+      "filipino": "Kailangan ko pong lumipat ng sasakyan.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048684"
+    },
+    {
+      "english": "Watch your step.",
+      "filipino": "Ingat sa pagtapak.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048685"
+    },
+    {
+      "english": "Almost there.",
+      "filipino": "Malapit na.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048688"
+    },
+    {
+      "english": "Can I have a receipt?",
+      "filipino": "Pwede po bang humingi ng resibo?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048690"
+    },
+    {
+      "english": "Thank you for the ride.",
+      "filipino": "Salamat po sa biyahe.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048692"
+    },
+    {
+      "english": "Excuse me, where can I find a taxi?",
+      "filipino": "Pasensya na, saan makakahanap ng taxi?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048694"
+    },
+    {
+      "english": "Does this train go to the city center?",
+      "filipino": "Dito ba papunta sa sentro ng bayan ang tren?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048697"
+    },
+    {
+      "english": "Could you tell me, which bus to take?",
+      "filipino": "Maaari mo bang sabihin, anong bus ang sasakyan?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048699"
+    },
+    {
+      "english": "How do I get to the nearest MRT station?",
+      "filipino": "Paano ako makakapunta sa pinakamalapit na MRT?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048702"
+    },
+    {
+      "english": "Is it okay to eat inside the train?",
+      "filipino": "Okay lang bang kumain sa loob ng tren?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048704"
+    },
+    {
+      "english": "Where is the best place to wait for a jeepney?",
+      "filipino": "Saan ang magandang hintayan ng jeepney?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048707"
+    },
+    {
+      "english": "Can I ask for directions to the terminal?",
+      "filipino": "Maaari po bang magtanong para sa terminal?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048709"
+    },
+    {
+      "english": "What's the usual travel time during rush hour?",
+      "filipino": "Gaano katagal ang biyahe kapag rush hour?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048713"
+    },
+    {
+      "english": "Could you let me know when we reach Cubao?",
+      "filipino": "Pakisabi na lang po pagdating ng Cubao.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048716"
+    },
+    {
+      "english": "Is there a student discount on the bus fare?",
+      "filipino": "May student discount ba sa pamasahe?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048718"
+    },
+    {
+      "english": "How many stops until Quiapo?",
+      "filipino": "Ilan pa bago makarating sa Quiapo?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048722"
+    },
+    {
+      "english": "Can I board here if I'm going south?",
+      "filipino": "Pwede ba akong sumakay dito kung papuntang timog?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048724"
+    },
+    {
+      "english": "What's the next destination after this one?",
+      "filipino": "Ano ang susunod na destinasyon nito?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048726"
+    },
+    {
+      "english": "Do you know when the last ferry leaves?",
+      "filipino": "Alam mo ba kung anong oras ang huling biyahe ng ferry?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048729"
+    },
+    {
+      "english": "Is it better to take the train or the bus?",
+      "filipino": "Mas maganda ba ang tren o ang bus?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048731"
+    },
+    {
+      "english": "Can I pay with a 500 peso bill?",
+      "filipino": "Pwede bang magbayad gamit ang 500?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048733"
+    },
+    {
+      "english": "Where can I buy a load card for the LRT?",
+      "filipino": "Saan makakabili ng load card para sa LRT?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048735"
+    },
+    {
+      "english": "Is there a special route for tourists?",
+      "filipino": "May espesyal bang ruta para sa turista?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048737"
+    },
+    {
+      "english": "How often do the tricycles pass by here?",
+      "filipino": "Gaano kadalas dumadaan ang tricycle dito?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048739"
+    },
+    {
+      "english": "Could you please speak slower?",
+      "filipino": "Paki-bagal po ang salita, sana.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048741"
+    },
+    {
+      "english": "Is it safe to travel alone at night?",
+      "filipino": "Ligtas ba mag-isa sa gabi?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048743"
+    },
+    {
+      "english": "Which platform should I use for Baguio?",
+      "filipino": "Anong platform ang gamitin papuntang Baguio?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048745"
+    },
+    {
+      "english": "Can I bring a large bag on the train?",
+      "filipino": "Pwede bang magdala ng malaking bag sa tren?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048747"
+    },
+    {
+      "english": "Where is the nearest landmark from here?",
+      "filipino": "Ano ang pinakamalapit na palatandaan dito?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048751"
+    },
+    {
+      "english": "How can I signal the driver to stop?",
+      "filipino": "Paano ko sasabihan ang driver na huminto?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048753"
+    },
+    {
+      "english": "Is there a direct route to the airport?",
+      "filipino": "May diretso bang biyahe papuntang airport?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048755"
+    },
+    {
+      "english": "What time does the last jeepney leave?",
+      "filipino": "Anong oras ang huling alis ng jeepney?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048757"
+    },
+    {
+      "english": "Is it possible to reserve a seat?",
+      "filipino": "Posible bang magpa-reserve ng upuan?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048759"
+    },
+    {
+      "english": "Can I ask for the driver's name?",
+      "filipino": "Maaari ko bang malaman ang pangalan ng driver?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048761"
+    },
+    {
+      "english": "You can do this, believe in yourself.",
+      "filipino": "Kaya mo 'to, maniwala ka sa sarili.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048763"
+    },
+    {
+      "english": "Every journey, teaches something new.",
+      "filipino": "Bawat biyahe, may bagong aral.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048765"
+    },
+    {
+      "english": "Relax, enjoy the ride and the view.",
+      "filipino": "Huwag mag-alala, enjoy mo ang daan.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048770"
+    },
+    {
+      "english": "This is a learning experience, embrace it.",
+      "filipino": "Bahagi 'to ng pagkatuto, yakapin mo.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048772"
+    },
+    {
+      "english": "You've got this, almost there.",
+      "filipino": "Kaya mo 'yan, malapit na.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048774"
+    },
+    {
+      "english": "Stay positive, the destination awaits.",
+      "filipino": "Manatiling positibo, naghihintay ang paroroonan.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048776"
+    },
+    {
+      "english": "It's okay to feel lost, just ask.",
+      "filipino": "Okay lang maligaw, magtanong ka lang.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048779"
+    },
+    {
+      "english": "You're navigating like a pro!",
+      "filipino": "Parang eksperto ka na mag-navigate!",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048781"
+    },
+    {
+      "english": "One step at a time, you'll get there.",
+      "filipino": "Isang hakbang sa isang pagkakataon, makakarating ka.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048783"
+    },
+    {
+      "english": "Keep exploring, that's the spirit!",
+      "filipino": "Patuloy na mag-explore, 'yan ang spirit!",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048786"
+    },
+    {
+      "english": "You're doing wonderfully, so proud!",
+      "filipino": "Ang husay mo, proud ako!",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048788"
+    },
+    {
+      "english": "Don't give up, you're almost done.",
+      "filipino": "Huwag sumuko, malapit na matapos.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048790"
+    },
+    {
+      "english": "This challenge, makes you stronger.",
+      "filipino": "Ang hamon na 'to, nagpapalakas sa'yo.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048792"
+    },
+    {
+      "english": "Trust the process, it will work out.",
+      "filipino": "Tiwala sa proseso, magiging maayos din.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048795"
+    },
+    {
+      "english": "Keep that brave spirit alive.",
+      "filipino": "Panatilihing buhay ang tapang mo.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048797"
+    },
+    {
+      "english": "You're doing amazing, keep pushing.",
+      "filipino": "Napakagaling mo, 'wag kang bibitaw.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048799"
+    },
+    {
+      "english": "Every trip, is a chance to grow.",
+      "filipino": "Bawat biyahe, pagkakataon para lumago.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048801"
+    },
+    {
+      "english": "Believe in your ability to navigate.",
+      "filipino": "Maniwala sa kakayahan mong mag-navigate.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048803"
+    },
+    {
+      "english": "You're making progress, well done!",
+      "filipino": "Nagkakaroon ka ng progreso, mahusay!",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048805"
+    },
+    {
+      "english": "This is an adventure, embrace it.",
+      "filipino": "Ito ay isang adventure, sulitin mo.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048807"
+    },
+    {
+      "english": "You're handling it well, keep it up.",
+      "filipino": "Mahusay ang pag-asikaso mo, tuloy lang.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048812"
+    },
+    {
+      "english": "Your effort is truly commendable.",
+      "filipino": "Kapuri-puri ang iyong pagsisikap.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048814"
+    },
+    {
+      "english": "Stay focused, you're almost there.",
+      "filipino": "Manatiling nakatutok, malapit ka na.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048816"
+    },
+    {
+      "english": "The destination is worth the journey.",
+      "filipino": "Sulit ang paglalakbay para sa paroroonan.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048818"
+    },
+    {
+      "english": "You are capable, keep moving forward.",
+      "filipino": "May kakayahan ka, umusad lang.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048820"
+    },
+    {
+      "english": "This delay, makes me thoughtful.",
+      "filipino": "Ang pagkaantala na ito, nagpapaisip sa akin.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048822"
+    },
+    {
+      "english": "I'm feeling patient, for this ride.",
+      "filipino": "Nakakaramdam ako ng pasensya, para sa biyaheng ito.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048827"
+    },
+    {
+      "english": "Sometimes, I just observe people.",
+      "filipino": "Minsan, pinagmamasdan ko lang ang mga tao.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048829"
+    },
+    {
+      "english": "This commute, helps me reflect.",
+      "filipino": "Ang biyaheng ito, nakakatulong sa pagmumuni-muni.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048831"
+    },
+    {
+      "english": "It's a quiet moment, for my mind.",
+      "filipino": "Ito'y tahimik na sandali, para sa aking isipan.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048833"
+    },
+    {
+      "english": "I appreciate the slow pace sometimes.",
+      "filipino": "Na-appreciate ko rin ang mabagal na takbo minsan.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048835"
+    },
+    {
+      "english": "Thinking deep, about life's little things.",
+      "filipino": "Malalim na iniisip, ang maliliit na bagay sa buhay.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048838"
+    },
+    {
+      "english": "Feeling grateful, for reaching my stop.",
+      "filipino": "Nagpapasalamat ako, sa pagdating sa aking hintuan.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048840"
+    },
+    {
+      "english": "This journey, has its own rhythm.",
+      "filipino": "Ang biyaheng ito, may sariling ritmo.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048842"
+    },
+    {
+      "english": "Hoping for smoother travels ahead.",
+      "filipino": "Umaasa sa mas maayos na biyahe sa hinaharap.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048844"
+    },
+    {
+      "english": "I trust the system, mostly.",
+      "filipino": "Pinagkakatiwalaan ko ang sistema, kadalasan.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048846"
+    },
+    {
+      "english": "This feels like a quiet meditation.",
+      "filipino": "Parang tahimik na meditasyon ito.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048848"
+    },
+    {
+      "english": "Finding peace, in the crowd.",
+      "filipino": "Naghahanap ng kapayapaan, sa gitna ng dami.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048850"
+    },
+    {
+      "english": "It's a chance to just be.",
+      "filipino": "Ito'y pagkakataon na maging naroon lang.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048853"
+    },
+    {
+      "english": "My thoughts wander freely here.",
+      "filipino": "Malaya ang aking isip dito.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048855"
+    },
+    {
+      "english": "Feeling a sense of connection.",
+      "filipino": "Nakakaramdam ng pagkakaugnay.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048857"
+    },
+    {
+      "english": "This is my thinking time.",
+      "filipino": "Ito ang oras ko para mag-isip.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048859"
+    },
+    {
+      "english": "I embrace the unpredictable.",
+      "filipino": "Tinanggap ko ang hindi inaasahan.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048862"
+    },
+    {
+      "english": "There's beauty, in the mundane.",
+      "filipino": "May kagandahan, sa ordinaryong bagay.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048865"
+    },
+    {
+      "english": "Learning to go with the flow.",
+      "filipino": "Natututong sumabay sa agos.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048867"
+    },
+    {
+      "english": "My mind feels calmer now.",
+      "filipino": "Mas kalmado ang isip ko ngayon.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048869"
+    },
+    {
+      "english": "This ride, is a moment of pause.",
+      "filipino": "Ang biyaheng ito, ay isang sandali ng pagtigil.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048871"
+    },
+    {
+      "english": "I find solace here.",
+      "filipino": "Nakakahanap ako ng kapanatagan dito.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048873"
+    },
+    {
+      "english": "Reflecting on the day's events.",
+      "filipino": "Nagre-reflect sa mga nangyari sa araw.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048875"
+    },
+    {
+      "english": "This quiet time, is precious.",
+      "filipino": "Itong tahimik na oras, ay mahalaga.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048877"
+    },
+    {
+      "english": "I feel more centered now.",
+      "filipino": "Mas nakasentro ako ngayon.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048880"
+    },
+    {
+      "english": "Accepting the journey, as it is.",
+      "filipino": "Tinanggap ang biyahe, kung ano man ito.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048883"
+    },
+    {
+      "english": "This commute, is good for the soul.",
+      "filipino": "Ang biyaheng ito, ay mabuti sa kaluluwa.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048885"
+    },
+    {
+      "english": "I'm truly present.",
+      "filipino": "Talaga namang naririto ako.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048887"
+    },
+    {
+      "english": "May I have a ticket, please?",
+      "filipino": "Pahingi ng tiket, po.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048889"
+    },
+    {
+      "english": "Can I pay with my phone?",
+      "filipino": "Pwede po bang magbayad gamit ang cellphone?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048891"
+    },
+    {
+      "english": "Is this the correct train?",
+      "filipino": "Ito na po ba ang tamang tren?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048893"
+    },
+    {
+      "english": "Excuse me, can I get past?",
+      "filipino": "Makikiraan po, pwede bang padaanin?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048895"
+    },
+    {
+      "english": "Please hold on tight.",
+      "filipino": "Mahigpit po ang kapit.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048899"
+    },
+    {
+      "english": "I need to get off here.",
+      "filipino": "Dito na po ako bababa.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048901"
+    },
+    {
+      "english": "Is there Wi-Fi on board?",
+      "filipino": "May Wi-Fi po ba dito sa loob?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048903"
+    },
+    {
+      "english": "Please keep the noise down.",
+      "filipino": "Pakibagalan po ang ingay.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048905"
+    },
+    {
+      "english": "Can you tell me when to alight?",
+      "filipino": "Paki-sabi na lang po kung kailan bababa.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T09:10:44.048907"
     }
   ],
-  "last_updated": "2026-10-30T09:24:35.775889"
+  "last_updated": "2026-10-31T09:10:44.048909"
 }
