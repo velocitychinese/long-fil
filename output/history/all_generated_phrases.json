@@ -10079,7 +10079,727 @@
       "filipino": "Paki-sabi na lang po kung kailan bababa.",
       "category": "Public Transportation",
       "generated_at": "2026-10-31T09:10:44.048907"
+    },
+    {
+      "english": "What's the weather like today?,",
+      "filipino": "Ano ang panahon ngayon?,",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195203"
+    },
+    {
+      "english": "It's very hot today!,",
+      "filipino": "Sobrang init ngayon!,",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195217"
+    },
+    {
+      "english": "It's cold, let's go inside.,",
+      "filipino": "Malamig, pasok tayo.,",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195220"
+    },
+    {
+      "english": "It's raining, bring an umbrella.,",
+      "filipino": "Umuulan, magdala ng payong.,",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195222"
+    },
+    {
+      "english": "The sun is shining brightly.,",
+      "filipino": "Maliwanag ang araw.,",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195224"
+    },
+    {
+      "english": "It's windy, hold on tight.,",
+      "filipino": "Mahangin, kapit lang.,",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195226"
+    },
+    {
+      "english": "Is it going to rain later?,",
+      "filipino": "Uulan pa ba mamaya?,",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195228"
+    },
+    {
+      "english": "The sky is clear, perfect day.,",
+      "filipino": "Malinaw ang langit, magandang araw.,",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195233"
+    },
+    {
+      "english": "It's humid, I'm sweating.,",
+      "filipino": "Maalinsangan, pinagpapawisan ako.,",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195236"
+    },
+    {
+      "english": "What a beautiful sunset!,",
+      "filipino": "Ang ganda ng paglubog ng araw!,",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195238"
+    },
+    {
+      "english": "It's a bit chilly, isn't it?,",
+      "filipino": "Medyo malamig, hindi ba?,",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195240"
+    },
+    {
+      "english": "I hope it doesn't rain tomorrow.,",
+      "filipino": "Sana hindi umulan bukas.,",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195242"
+    },
+    {
+      "english": "What's your plan for today?,",
+      "filipino": "Ano ang plano mo ngayong araw?,",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195245"
+    },
+    {
+      "english": "Just relaxing at home.,",
+      "filipino": "Nasa bahay lang, nagpapahinga.,",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195247"
+    },
+    {
+      "english": "Did you have a good weekend?,",
+      "filipino": "Maayos ba ang weekend mo?,",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195248"
+    },
+    {
+      "english": "Yes, it was great!,",
+      "filipino": "Oo, naging maganda!,",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195250"
+    },
+    {
+      "english": "How was your trip?,",
+      "filipino": "Kumusta ang biyahe mo?,",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195252"
+    },
+    {
+      "english": "It was tiring but fun.,",
+      "filipino": "Nakakapagod pero masaya.,",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195253"
+    },
+    {
+      "english": "Just watching TV.,",
+      "filipino": "Nanonood lang ng TV.,",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195255"
+    },
+    {
+      "english": "Have you eaten already?,",
+      "filipino": "Kumain ka na ba?,",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195257"
+    },
+    {
+      "english": "Not yet, I'm hungry.,",
+      "filipino": "Hindi pa, gutom na ako.,",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195259"
+    },
+    {
+      "english": "What's for dinner tonight?,",
+      "filipino": "Ano ang ulam ngayong gabi?,",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195261"
+    },
+    {
+      "english": "I'm looking forward to it.,",
+      "filipino": "Inaabangan ko 'yan.,",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195262"
+    },
+    {
+      "english": "Traffic is bad today.,",
+      "filipino": "Malala ang traffic ngayon.,",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195264"
+    },
+    {
+      "english": "Drive safely, please.,",
+      "filipino": "Mag-ingat sa pagmamaneho.,",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195266"
+    },
+    {
+      "english": "Have a nice day!,",
+      "filipino": "Magandang araw!,",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195268"
+    },
+    {
+      "english": "Take care!,",
+      "filipino": "Ingat ka!,",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195269"
+    },
+    {
+      "english": "It was nice talking to you.,",
+      "filipino": "Masaya akong nakausap ka.,",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195271"
+    },
+    {
+      "english": "Any chance of rain, boss?",
+      "filipino": "May tsansa bang umulan, boss?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195273"
+    },
+    {
+      "english": "How's the weather over there?",
+      "filipino": "Kamusta ang panahon diyan?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195276"
+    },
+    {
+      "english": "Looks like a storm is coming.",
+      "filipino": "Mukhang may paparating na bagyo.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195278"
+    },
+    {
+      "english": "Hope it cools down later.",
+      "filipino": "Sana lumamig mamaya.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195280"
+    },
+    {
+      "english": "Is it usually this hot here?",
+      "filipino": "Dito ba laging ganito kainit?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195282"
+    },
+    {
+      "english": "What do you think about the fog?",
+      "filipino": "Ano sa tingin mo sa hamog?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195284"
+    },
+    {
+      "english": "Should I bring a jacket, maybe?",
+      "filipino": "Magdala na lang siguro ako ng jacket?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195286"
+    },
+    {
+      "english": "This heat is unbearable, right?",
+      "filipino": "Nakakamanhid itong init, 'di ba?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195288"
+    },
+    {
+      "english": "Will it clear up by noon?",
+      "filipino": "Mag-a-awang na ba 'yan mamayang tanghali?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195290"
+    },
+    {
+      "english": "Mind if I borrow your umbrella?",
+      "filipino": "Maaari ko bang hiramin payong mo?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195292"
+    },
+    {
+      "english": "Is this the usual weather for May?",
+      "filipino": "Ito ba ang karaniwang panahon sa Mayo?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195294"
+    },
+    {
+      "english": "What's the wind like now?",
+      "filipino": "Ano na ang hangin ngayon?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195298"
+    },
+    {
+      "english": "Should we stay inside for now?",
+      "filipino": "Magpaiwan na lang muna tayo sa loob?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195300"
+    },
+    {
+      "english": "Did you check the forecast?",
+      "filipino": "Nag-check ka na ba ng forecast?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195302"
+    },
+    {
+      "english": "This humidity is crazy, man.",
+      "filipino": "Sobrang alinsangan talaga, pre.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195304"
+    },
+    {
+      "english": "Hope the sun comes out soon.",
+      "filipino": "Sana lumabas na ang araw.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195305"
+    },
+    {
+      "english": "What do you call this weather?",
+      "filipino": "Anong tawag sa ganitong panahon?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195307"
+    },
+    {
+      "english": "Is it going to be stormy all day?",
+      "filipino": "Bubuung-buo ba ang araw na ito?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195309"
+    },
+    {
+      "english": "Let's enjoy this nice weather.",
+      "filipino": "Tam-asahin natin itong magandang panahon.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195311"
+    },
+    {
+      "english": "Anything else happening around?",
+      "filipino": "May iba pa bang nangyayari?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195312"
+    },
+    {
+      "english": "How's your commute this morning?",
+      "filipino": "Kamusta ang biyahe mo kaninang umaga?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195314"
+    },
+    {
+      "english": "Anything interesting today?",
+      "filipino": "May kawili-wili ba ngayon?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195315"
+    },
+    {
+      "english": "Did you hear the news?",
+      "filipino": "Narinig mo na ba ang balita?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195317"
+    },
+    {
+      "english": "Anything new with you?",
+      "filipino": "May bago ba sa iyo?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195318"
+    },
+    {
+      "english": "Do you have any plans?",
+      "filipino": "May plano ka ba?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195320"
+    },
+    {
+      "english": "Just chilling, you know.",
+      "filipino": "Naka-chill lang, alam mo na.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195322"
+    },
+    {
+      "english": "Did you see that?",
+      "filipino": "Nakita mo 'yun?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195323"
+    },
+    {
+      "english": "How was your day, really?",
+      "filipino": "Kamusta araw mo, totoo?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195325"
+    },
+    {
+      "english": "Busy day, I guess.",
+      "filipino": "Busy na araw, siguro.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195327"
+    },
+    {
+      "english": "Stay positive, always.",
+      "filipino": "Manatiling positibo, lagi.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195329"
+    },
+    {
+      "english": "Keep pushing forward.",
+      "filipino": "Tuloy lang ang pag-usad.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195331"
+    },
+    {
+      "english": "Good job, really!",
+      "filipino": "Magaling, talaga!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195333"
+    },
+    {
+      "english": "That's a great idea.",
+      "filipino": "Ang ganda niyan.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195335"
+    },
+    {
+      "english": "Never give up hope.",
+      "filipino": "Huwag susuko sa pag-asa.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195338"
+    },
+    {
+      "english": "Focus on the good.",
+      "filipino": "Isipin ang mabuti.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195339"
+    },
+    {
+      "english": "Let's make it happen.",
+      "filipino": "Gawin natin 'to.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195341"
+    },
+    {
+      "english": "You are strong.",
+      "filipino": "Malakas ka.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195343"
+    },
+    {
+      "english": "Keep your chin up.",
+      "filipino": "Kaya mo 'yan, 'wag kang susuko.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195344"
+    },
+    {
+      "english": "That's inspiring.",
+      "filipino": "Nakaka-inspire.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195347"
+    },
+    {
+      "english": "Stay focused, friend.",
+      "filipino": "Mag-focus ka, kaibigan.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195349"
+    },
+    {
+      "english": "This will pass.",
+      "filipino": "Lilipas din 'to.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195351"
+    },
+    {
+      "english": "Don't worry too much.",
+      "filipino": "Huwag masyadong mag-alala.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195353"
+    },
+    {
+      "english": "You're amazing, truly.",
+      "filipino": "Ang galing mo, totoo.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195354"
+    },
+    {
+      "english": "Keep learning, always.",
+      "filipino": "Patuloy na matuto, lagi.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195356"
+    },
+    {
+      "english": "What a wonderful moment.",
+      "filipino": "Anong gandang sandali.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195358"
+    },
+    {
+      "english": "Sunshine on the inside.",
+      "filipino": "Araw sa loob.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195359"
+    },
+    {
+      "english": "This is progress.",
+      "filipino": "Ito ay pag-unlad.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195361"
+    },
+    {
+      "english": "Keep the faith.",
+      "filipino": "Panatilihin ang pananampalataya.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195363"
+    },
+    {
+      "english": "Look for the silver lining.",
+      "filipino": "Hanapin ang magandang bahagi.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195364"
+    },
+    {
+      "english": "It's a beautiful day.",
+      "filipino": "Maganda ang araw.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195366"
+    },
+    {
+      "english": "The sky looks heavy, doesn't it?",
+      "filipino": "Malamig ang panahon, parang uulan.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195368"
+    },
+    {
+      "english": "It's raining cats and dogs, wow!",
+      "filipino": "Bumubuhos talaga, grabe!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195370"
+    },
+    {
+      "english": "This heat feels like an oven.",
+      "filipino": "Ang init, parang nasa pugon.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195371"
+    },
+    {
+      "english": "A little breeze, so refreshing.",
+      "filipino": "Masarap ang simoy, presko.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195373"
+    },
+    {
+      "english": "Don't get caught in the downpour.",
+      "filipino": "Huwag kang mabasa sa malakas na ulan.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195375"
+    },
+    {
+      "english": "Just enjoying the cool weather.",
+      "filipino": "Na-eenjoy lang ang malamig na panahon.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195376"
+    },
+    {
+      "english": "Feels like the calm before the storm.",
+      "filipino": "Tahimik bago ang unos.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195378"
+    },
+    {
+      "english": "Hope the weather cooperates today.",
+      "filipino": "Sana pabor ang panahon ngayon.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195380"
+    },
+    {
+      "english": "This fog is thick, can barely see.",
+      "filipino": "Makapal ang hamog, hirap makakita.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195382"
+    },
+    {
+      "english": "Let's grab some coffee, it's chilly.",
+      "filipino": "Mag-kape tayo, medyo malamig.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195384"
+    },
+    {
+      "english": "The sun is shy today.",
+      "filipino": "Nagbabalat-kayo ang araw.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195386"
+    },
+    {
+      "english": "Feels like summer is already here.",
+      "filipino": "Parang tag-init na agad.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195388"
+    },
+    {
+      "english": "This rain is making me sleepy.",
+      "filipino": "Antukin ako sa ulan.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195389"
+    },
+    {
+      "english": "Let's stay indoors, it's too windy.",
+      "filipino": "Sa loob na lang, malakas ang hangin.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195391"
+    },
+    {
+      "english": "The weather is playing tricks on us.",
+      "filipino": "Niloloko tayo ng panahon.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195394"
+    },
+    {
+      "english": "Not a cloud in the sky, perfect!",
+      "filipino": "Walang ulap, perpekto!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195397"
+    },
+    {
+      "english": "So much sunshine, feels great.",
+      "filipino": "Ang daming sikat ng araw, masaya.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195398"
+    },
+    {
+      "english": "This humidity is quite intense.",
+      "filipino": "Malagkit ang pakiramdam.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195400"
+    },
+    {
+      "english": "Guess we're stuck inside today.",
+      "filipino": "Mukhang dito lang tayo sa loob.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195403"
+    },
+    {
+      "english": "What a refreshing downpour!",
+      "filipino": "Nakakaginhawa ang malakas na ulan!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195405"
+    },
+    {
+      "english": "The sky is clear, clear skies ahead.",
+      "filipino": "Malinaw ang langit, maganda ang simula.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195407"
+    },
+    {
+      "english": "This weather is a real mood changer.",
+      "filipino": "Nagbabago ang mood dahil sa panahon.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195408"
+    },
+    {
+      "english": "Looks like a perfect day for staying in.",
+      "filipino": "Tamang-tama para magkulong sa bahay.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195410"
+    },
+    {
+      "english": "Feeling the tropical vibe today.",
+      "filipino": "Ramdam na ramdam ang tropikal na panahon.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195411"
+    },
+    {
+      "english": "Hope it doesn't get too hot later.",
+      "filipino": "Sana 'di masyadong uminit mamaya.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195413"
+    },
+    {
+      "english": "The air feels so fresh after the rain.",
+      "filipino": "Masarap ang hangin pagkatapos ng ulan.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195415"
+    },
+    {
+      "english": "This weather is making me want to nap.",
+      "filipino": "Inaantok ako sa panahon.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195417"
+    },
+    {
+      "english": "Looks like a good day for laundry.",
+      "filipino": "Magandang panahon para maglaba.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195418"
+    },
+    {
+      "english": "This sunshine is a bit intense.",
+      "filipino": "Medyo matindi ang sikat ng araw.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195420"
+    },
+    {
+      "english": "Good morning, what's the weather like?",
+      "filipino": "Magandang umaga, kamusta ang panahon?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195422"
+    },
+    {
+      "english": "It's really humid today, right?",
+      "filipino": "Sobrang maalinsangan ngayon, 'no?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195424"
+    },
+    {
+      "english": "The wind is strong, be careful.",
+      "filipino": "Malakas ang hangin, mag-ingat ka.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195428"
+    },
+    {
+      "english": "Let's bring an umbrella, just in case.",
+      "filipino": "Magdala tayo ng payong, para sigurado.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195430"
+    },
+    {
+      "english": "It feels cool, perfect for a walk.",
+      "filipino": "Malamig, bagay sa paglalakad.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195432"
+    },
+    {
+      "english": "This sunshine is quite warm.",
+      "filipino": "Medyo mainit ang araw ngayon.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195433"
+    },
+    {
+      "english": "Hope the storm passes quickly.",
+      "filipino": "Sana mabilis lang ang bagyo.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195435"
+    },
+    {
+      "english": "What a sudden downpour, wow!",
+      "filipino": "Biglang ulan naman, grabe!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195437"
+    },
+    {
+      "english": "Feels like winter is coming.",
+      "filipino": "Parang darating na ang taglamig.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195438"
+    },
+    {
+      "english": "Enjoying the breezy afternoon, cheers!",
+      "filipino": "Sarap ng mahangin na hapon, cheers!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195441"
+    },
+    {
+      "english": "The sky is clearing up nicely.",
+      "filipino": "Gumaganda na ang kalangitan.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195443"
+    },
+    {
+      "english": "This heat is making me sweat.",
+      "filipino": "Pinagpapawisan ako sa init.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195444"
+    },
+    {
+      "english": "Do you think it will clear up?",
+      "filipino": "Sa tingin mo, aaliwalas pa ba?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-01T09:58:03.195446"
     }
   ],
-  "last_updated": "2026-10-31T09:10:44.048909"
+  "last_updated": "2026-11-01T09:58:03.195448"
 }
