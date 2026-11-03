@@ -11519,7 +11519,727 @@
       "filipino": "Mahalaga ideya mo, sabihin mo.",
       "category": "Creativity",
       "generated_at": "2026-11-02T10:25:28.745569"
+    },
+    {
+      "english": "Got any hobbies, besides scrolling all day?",
+      "filipino": "May hobby ka ba, bukod sa scroll buong araw?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103268"
+    },
+    {
+      "english": "I’m bored, I need something fun.",
+      "filipino": "Ang bored ko, kailangan ko ng something fun.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103288"
+    },
+    {
+      "english": "Wait, what do you do for fun?",
+      "filipino": "Sandali, ano ginagawa mo para sa fun?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103293"
+    },
+    {
+      "english": "That sounds cool, tell me more!",
+      "filipino": "Ang ganda nun, kwento ka pa!",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103297"
+    },
+    {
+      "english": "I’m into drawing lately, it’s my thing.",
+      "filipino": "Naka-drawing ako lately, yun na yung trip ko.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103302"
+    },
+    {
+      "english": "Come on, let’s try a new hobby.",
+      "filipino": "Sige na, subukan natin yung bagong hobby.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103309"
+    },
+    {
+      "english": "I’m free today, what’s your plan?",
+      "filipino": "Wala akong ginagawa ngayon, ano plano mo?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103316"
+    },
+    {
+      "english": "Same here, I’m looking for ideas.",
+      "filipino": "Tayo rin, naghahanap ako ng ideas.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103323"
+    },
+    {
+      "english": "After work, I just chill at home.",
+      "filipino": "Pagkatapos ng trabaho, nagchichill lang ako sa bahay.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103327"
+    },
+    {
+      "english": "Really? That’s actually impressive, wow!",
+      "filipino": "Talaga? Grabe, ang galing!",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103332"
+    },
+    {
+      "english": "No kidding, you’re always busy, huh?",
+      "filipino": "Hindi ka natitinag, laging busy ka pala?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103336"
+    },
+    {
+      "english": "I’ll try it, sounds fun to me.",
+      "filipino": "Susubukan ko, mukhang masaya para sa akin.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103340"
+    },
+    {
+      "english": "I need a break, my brain’s tired.",
+      "filipino": "Kailangan ko ng pahinga, pagod na utak ko.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103343"
+    },
+    {
+      "english": "Let’s hang out, even for an hour.",
+      "filipino": "Magkita tayo, kahit isang oras lang.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103346"
+    },
+    {
+      "english": "I’m trying something new, wish me luck.",
+      "filipino": "Susubok ako ng bago, wish me luck!",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103350"
+    },
+    {
+      "english": "Honestly, I love weekend errands.",
+      "filipino": "To be honest, gusto ko ang weekend na errands.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103352"
+    },
+    {
+      "english": "How often do you practice your hobby?",
+      "filipino": "Gaano kadalas mo ginagawa yung hobby mo?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103355"
+    },
+    {
+      "english": "I don’t have time, but I’ll squeeze in.",
+      "filipino": "Wala akong oras, pero sisingit ako.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103359"
+    },
+    {
+      "english": "That’s a great idea, where do we start?",
+      "filipino": "Ang galing, saan tayo magsisimula?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103362"
+    },
+    {
+      "english": "Oops, I got stuck on a game again.",
+      "filipino": "Ay, na-stuck ako sa game ulit.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103365"
+    },
+    {
+      "english": "I’m down for it, let’s do it later.",
+      "filipino": "G ako diyan, gawin natin mamaya.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103368"
+    },
+    {
+      "english": "Wait, you’re good at that already?",
+      "filipino": "Sandali, sanay ka na diyan agad?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103372"
+    },
+    {
+      "english": "I just scroll, then suddenly it’s late.",
+      "filipino": "Nag-s-scroll lang ako, bigla na lang late na.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103376"
+    },
+    {
+      "english": "I’ll bring snacks, you bring good vibes.",
+      "filipino": "Ako na ang snacks, ikaw na ang good vibes.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103379"
+    },
+    {
+      "english": "Let’s do it, no overthinking, just go.",
+      "filipino": "Gawin na natin, wag nang overthink, go lang.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103383"
+    },
+    {
+      "english": "My free time is for music, always.",
+      "filipino": "Yung free time ko, para sa music, palagi.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103388"
+    },
+    {
+      "english": "I’m bored, so I’ll learn something.",
+      "filipino": "Ang bored ko, kaya matututo ako kahit ano.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103392"
+    },
+    {
+      "english": "That’s cute, where’d you learn that?",
+      "filipino": "Ang cute, saan mo natutunan yun?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103395"
+    },
+    {
+      "english": "If you have time, let’s try volunteering.",
+      "filipino": "Kung may time ka, subukan nating mag-volunteer.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103399"
+    },
+    {
+      "english": "Honestly, I feel better after working out.",
+      "filipino": "To be honest, mas gumagaan pakiramdam ko after workout.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103402"
+    },
+    {
+      "english": "Do you have a hobby you stick with?",
+      "filipino": "May hobby ka ba na tuloy-tuloy mo?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103405"
+    },
+    {
+      "english": "How did you start your favorite hobby?",
+      "filipino": "Paano mo sinimulan yung favorite hobby mo?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103408"
+    },
+    {
+      "english": "When you’re off, what keeps you busy?",
+      "filipino": "Pag off ka na, ano ang nagpapalipas oras?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103412"
+    },
+    {
+      "english": "Would you recommend it for beginners?",
+      "filipino": "Ire-recommend mo ba ito sa beginners?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103415"
+    },
+    {
+      "english": "What do you do to unwind, after work?",
+      "filipino": "Ano ginagawa mo para makapagpahinga, after work?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103418"
+    },
+    {
+      "english": "Any tips for finding a new hobby?",
+      "filipino": "May tips ka ba sa paghahanap ng bagong hobby?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103421"
+    },
+    {
+      "english": "How much time do you spend weekly?",
+      "filipino": "Ilang oras ang nasaspend mo kada linggo?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103423"
+    },
+    {
+      "english": "What’s your go-to hobby when stressed?",
+      "filipino": "Ano yung pinaka-ginagamit mong hobby kapag stressed?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103429"
+    },
+    {
+      "english": "Do you prefer indoor or outdoor activities?",
+      "filipino": "Mas gusto mo ba ang indoor o outdoor activities?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103432"
+    },
+    {
+      "english": "Who taught you, or did you learn alone?",
+      "filipino": "Sino ang nagturo, o natuto ka mag-isa?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103435"
+    },
+    {
+      "english": "What equipment or tools do you need?",
+      "filipino": "Anong equipment o tools ang kailangan mo?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103438"
+    },
+    {
+      "english": "Do you join groups, or just do it solo?",
+      "filipino": "Sumasali ka ba sa groups, o solo lang?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103441"
+    },
+    {
+      "english": "Where do you practice, at home or outside?",
+      "filipino": "Saan ka nagpi-practice, sa bahay o sa labas?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103446"
+    },
+    {
+      "english": "What’s the most relaxing hobby for you?",
+      "filipino": "Ano yung pinaka-relax na hobby para sa’yo?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103449"
+    },
+    {
+      "english": "Have you tried online classes for hobbies?",
+      "filipino": "Sinubukan mo na ba ang online classes para sa hobbies?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103452"
+    },
+    {
+      "english": "What motivates you to keep practicing?",
+      "filipino": "Ano ang nagtutulak sa’yo para magpatuloy?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103455"
+    },
+    {
+      "english": "Is it expensive, or budget-friendly?",
+      "filipino": "Mahal ba, o budget-friendly lang?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103458"
+    },
+    {
+      "english": "Do you set goals, or just enjoy the process?",
+      "filipino": "Nagtatakda ka ba ng goals, o enjoy lang ang process?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103464"
+    },
+    {
+      "english": "When do you usually fit it into your day?",
+      "filipino": "Kailan mo karaniwang ginagawa sa araw mo?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103466"
+    },
+    {
+      "english": "What’s the best part of your hobby?",
+      "filipino": "Ano yung best part ng hobby mo?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103470"
+    },
+    {
+      "english": "Would you like to teach me someday?",
+      "filipino": "Gusto mo ba akong turuan minsan?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103472"
+    },
+    {
+      "english": "Is there a beginner-friendly start you suggest?",
+      "filipino": "May suggested start ka ba para sa beginners?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103475"
+    },
+    {
+      "english": "Can I ask, what do you do for fun?",
+      "filipino": "Pwede ba kitang tanungin, ano ginagawa mo para sa fun?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103478"
+    },
+    {
+      "english": "Do you listen to music while doing it?",
+      "filipino": "Nakikinig ka ba ng music habang ginagawa mo?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103481"
+    },
+    {
+      "english": "What kind of hobby makes time fly for you?",
+      "filipino": "Anong klase ng hobby, time flies sa’yo?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103483"
+    },
+    {
+      "english": "Where do you get ideas for new hobbies?",
+      "filipino": "Saan ka kumukuha ng ideas para sa bagong hobby?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103486"
+    },
+    {
+      "english": "Can we talk about hobbies, real quick?",
+      "filipino": "Pwede tayong mag-usap tungkol sa hobbies, saglit lang?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103489"
+    },
+    {
+      "english": "What would you try if you had free time?",
+      "filipino": "Kung may free time, ano ang susubukan mo?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103491"
+    },
+    {
+      "english": "How do you keep it fun, not stressful?",
+      "filipino": "Paano mo ginagawa na masaya, hindi nakaka-stress?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103494"
+    },
+    {
+      "english": "You’re improving, even if it feels small.",
+      "filipino": "Sumusulong ka, kahit maliit pa sa pakiramdam.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103498"
+    },
+    {
+      "english": "Nice try, keep showing up for yourself.",
+      "filipino": "Magaling na subok, tuloy lang para sa sarili mo.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103501"
+    },
+    {
+      "english": "Practice first, perfection comes later, trust me.",
+      "filipino": "Practice muna, darating ang galing kalaunan, tiwala.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103505"
+    },
+    {
+      "english": "Set one tiny goal, then celebrate it.",
+      "filipino": "Mag-set ng isang maliit na goal, tapos ipagdiwang.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103508"
+    },
+    {
+      "english": "You don’t need motivation, just start anyway.",
+      "filipino": "Hindi mo kailangan ng motivation, simulan mo pa rin.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103513"
+    },
+    {
+      "english": "When you mess up, laugh, then continue.",
+      "filipino": "Kapag nagkamali ka, tumawa, tapos ituloy.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103516"
+    },
+    {
+      "english": "Your hobbies can be your happy reset.",
+      "filipino": "Ang hobby mo, pwedeng maging masayang reset mo.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103519"
+    },
+    {
+      "english": "Small wins stack up, day by day.",
+      "filipino": "Maliliit na tagumpay, araw-araw nagsasama-sama.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103521"
+    },
+    {
+      "english": "Don’t compare, your pace is still valid.",
+      "filipino": "Huwag mo ikumpara, valid pa rin ang takbo mo.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103525"
+    },
+    {
+      "english": "That progress? That’s you leveling up.",
+      "filipino": "Yung progress mo, yan ang pag-level up mo.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103528"
+    },
+    {
+      "english": "Make it fun, not a chore, promise.",
+      "filipino": "Gawin mong masaya, hindi parang chores, promise.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103534"
+    },
+    {
+      "english": "Your free time deserves kindness, not guilt.",
+      "filipino": "Karapat-dapat ang free time mo sa kindness, hindi guilt.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103539"
+    },
+    {
+      "english": "Even one song, one sketch counts today.",
+      "filipino": "Kahit isang kanta, kahit isang sketch, bilang ngayon.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103542"
+    },
+    {
+      "english": "Try again tomorrow, confidence grows with reps.",
+      "filipino": "Subukan ulit bukas, lumalakas ang confidence sa practice.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103545"
+    },
+    {
+      "english": "Give yourself credit, you’re doing the work.",
+      "filipino": "Bigyan mo ang sarili mo ng credit, ginagawa mo na.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103549"
+    },
+    {
+      "english": "If it’s hard, that’s a good sign.",
+      "filipino": "Kapag mahirap, magandang senyales ’yan.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103553"
+    },
+    {
+      "english": "Keep it simple, you’ll stay consistent.",
+      "filipino": "Panatilihin mong simple, magiging consistent ka.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103556"
+    },
+    {
+      "english": "You don’t have to be perfect, just curious.",
+      "filipino": "Hindi mo kailangan maging perpekto, curious lang.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103560"
+    },
+    {
+      "english": "Every hobby has a learning curve, relax.",
+      "filipino": "Lahat ng hobby may learning curve, ayos lang.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103563"
+    },
+    {
+      "english": "Your future self will thank you for this.",
+      "filipino": "Sasabihin ng future self mo, salamat dito.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103566"
+    },
+    {
+      "english": "Celebrate effort, not just the outcome.",
+      "filipino": "Ipagdiwang ang effort, hindi lang ang resulta.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103569"
+    },
+    {
+      "english": "Slow progress is still progress, don’t quit.",
+      "filipino": "Dahan-dahang progreso pa rin, huwag susuko.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103573"
+    },
+    {
+      "english": "Ask, learn, adjust, repeat, that’s growth.",
+      "filipino": "Magtanong, matuto, ayos, ulit, growth ’yan.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103577"
+    },
+    {
+      "english": "You’re allowed to take breaks, recharge.",
+      "filipino": "Pwede kang magpahinga, para makarecharge.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103580"
+    },
+    {
+      "english": "Make room for hobbies, they feed your soul.",
+      "filipino": "Maglaan ka ng space sa hobbies, nagpapakain sa puso.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103583"
+    },
+    {
+      "english": "Even if you’re busy, squeeze in joy.",
+      "filipino": "Kahit busy ka, pisilin ang saya.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103587"
+    },
+    {
+      "english": "Today’s practice is enough, seriously.",
+      "filipino": "Sapat na ang practice mo ngayon, seriously.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103590"
+    },
+    {
+      "english": "Be proud of starting, that’s the hardest part.",
+      "filipino": "Ipinagmamalaki ang pagsisimula, iyon ang pinakamahirap.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103594"
+    },
+    {
+      "english": "Let curiosity lead, and worries fade out.",
+      "filipino": "Ang curiosity ang mag-lead, mawawala ang worries.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103597"
+    },
+    {
+      "english": "You’re not behind, you’re building quietly.",
+      "filipino": "Hindi ka nahuhuli, tahimik kang nagbubuo.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103601"
+    },
+    {
+      "english": "Honestly, it calms me down, fast.",
+      "filipino": "Honestly, nakaka-kalma talaga ako, agad.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103604"
+    },
+    {
+      "english": "I get quieter, when I do this.",
+      "filipino": "Mas tumitahimik ako, kapag ginagawa ko ito.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103607"
+    },
+    {
+      "english": "Sometimes I overthink, but hobby helps.",
+      "filipino": "Minsan, nag-ooverthink ako, pero nakakatulong ang hobby.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103613"
+    },
+    {
+      "english": "I don’t chase perfection, I just show up.",
+      "filipino": "Hindi ko habol ang pagiging perfect, pumapasok lang ako.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103616"
+    },
+    {
+      "english": "This is my small escape, no drama.",
+      "filipino": "Ito yung maliit kong escape, walang drama.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103619"
+    },
+    {
+      "english": "I let myself feel it, then continue.",
+      "filipino": "Pinaparamdam ko muna, tapos tuloy pa rin.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103622"
+    },
+    {
+      "english": "Patience comes back, when I practice.",
+      "filipino": "Bumabalik ang patience, kapag nagpi-practice ako.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103625"
+    },
+    {
+      "english": "I choose hobbies, not to distract, to heal.",
+      "filipino": "Pinipili ko ang hobby, hindi para mang-abala, kundi para gumaling.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103628"
+    },
+    {
+      "english": "When I finish, I feel lighter inside.",
+      "filipino": "Pag natapos ako, mas magaan ang pakiramdam ko.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103635"
+    },
+    {
+      "english": "I’m learning to enjoy the in-between parts.",
+      "filipino": "Natutuwa na ako sa gitna, yung process.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103639"
+    },
+    {
+      "english": "My hobby makes room for my thoughts.",
+      "filipino": "Binibigyan ng puwang ng hobby ang mga iniisip ko.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103642"
+    },
+    {
+      "english": "Even bad days, I still try gently.",
+      "filipino": "Kahit masama ang araw, susubok pa rin ako, dahan-dahan.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103645"
+    },
+    {
+      "english": "I don’t need big time, just quiet moments.",
+      "filipino": "Hindi ko kailangan ng maraming oras, moments lang.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103651"
+    },
+    {
+      "english": "I treat it like therapy, but cheaper.",
+      "filipino": "Parang therapy ko siya, mas mura lang.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103654"
+    },
+    {
+      "english": "Sometimes I stop early, no guilt.",
+      "filipino": "Minsan, maaga akong humihinto, okay lang.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103657"
+    },
+    {
+      "english": "I’m brave in small ways, through hobbies.",
+      "filipino": "Naging matapang ako sa maliliit na paraan, sa hobby.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103661"
+    },
+    {
+      "english": "I don’t rush, I let skills grow slowly.",
+      "filipino": "Hindi ako nagmamadali, hinahayaan kong lumaki nang dahan-dahan ang skills.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103667"
+    },
+    {
+      "english": "After I journal, my heart feels understood.",
+      "filipino": "Pag nagjo-journal ako, parang naiintindihan ang puso ko.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103669"
+    },
+    {
+      "english": "I’m honest, this hobby keeps me grounded.",
+      "filipino": "To be honest, nakakapitan itong hobby sa’kin.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103673"
+    },
+    {
+      "english": "I like that it doesn’t ask for perfection.",
+      "filipino": "Gusto ko na hindi niya hinihingi ang pagiging perfect.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103677"
+    },
+    {
+      "english": "My hobby helps me breathe, then reset.",
+      "filipino": "Nakakatulong ang hobby para makahinga, then reset.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103680"
+    },
+    {
+      "english": "I keep it low-key, so I don’t burn out.",
+      "filipino": "Pinapanatili ko siyang low-key, para di ako ma-burn out.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103683"
+    },
+    {
+      "english": "I reflect, then choose what to practice next.",
+      "filipino": "Nagre-reflect ako, then pipili ako ng next na practice.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103686"
+    },
+    {
+      "english": "When it gets frustrating, I breathe first.",
+      "filipino": "Kapag nakaka-frustrate, humihinga muna ako.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103690"
+    },
+    {
+      "english": "I’m okay learning slowly, honestly.",
+      "filipino": "Okay lang sa’kin yung mabagal, honestly.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103693"
+    },
+    {
+      "english": "I try, even when I feel unmotivated.",
+      "filipino": "Sinusubukan ko pa rin, kahit walang gana.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103696"
+    },
+    {
+      "english": "After my hobby, my mood is calmer.",
+      "filipino": "Pagkatapos ng hobby, mas kalmado ang mood ko.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103698"
+    },
+    {
+      "english": "I don’t need to talk, I just create.",
+      "filipino": "Hindi ko kailangan makipag-usap, lumilikha lang ako.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103702"
+    },
+    {
+      "english": "My hobby teaches me self-respect daily.",
+      "filipino": "Tinuturuan ako ng hobby mag-self respect araw-araw.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103704"
+    },
+    {
+      "english": "I’m grateful for small wins, and peace.",
+      "filipino": "Marunong akong magpasalamat sa maliliit na panalo, at kapayapaan.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103708"
+    },
+    {
+      "english": "Quick question, what hobby keeps you sane?",
+      "filipino": "Quick question, anong hobby ang nagpapa-sane sa’yo?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:24:01.103713"
     }
   ],
-  "last_updated": "2026-11-02T10:25:28.745571"
+  "last_updated": "2026-11-03T10:24:01.103715"
 }
