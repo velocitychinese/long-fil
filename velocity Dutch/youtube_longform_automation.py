@@ -103,7 +103,7 @@ AI_MODEL = os.getenv("AI_MODEL")
 
 if not AI_MODEL:
     raise ValueError(
-        "AI_MODEL not set! Please add 'AI_MODEL=gemini-fast' to your .env file."
+        "AI_MODEL not set! Please add 'AI_MODEL=openai/gpt-5.4-nano' to your .env file."
     )
 
 
