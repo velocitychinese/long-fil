@@ -12239,7 +12239,727 @@
       "filipino": "Quick question, anong hobby ang nagpapa-sane sa’yo?",
       "category": "Hobbies & Free Time",
       "generated_at": "2026-11-03T10:24:01.103713"
+    },
+    {
+      "english": "Keep going, kahit mabagal ang progress",
+      "filipino": "Tuloy lang, kahit mabagal ang progress",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.604971"
+    },
+    {
+      "english": "No worries, tuloy tayo kahit pagod",
+      "filipino": "Walang problema, tuloy tayo kahit pagod",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.604982"
+    },
+    {
+      "english": "Try again, dahan-dahan, pero tuloy",
+      "filipino": "Subukan ulit, dahan-dahan, pero tuloy",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.604986"
+    },
+    {
+      "english": "It’s okay, next time, hindi tayo susuko",
+      "filipino": "Okay lang, next time, hindi tayo susuko",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.604990"
+    },
+    {
+      "english": "One more step, kaya natin ngayon",
+      "filipino": "Isang hakbang pa, kaya natin ngayon",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.604993"
+    },
+    {
+      "english": "Even today, tuloy lang tayo",
+      "filipino": "Kahit ngayon, tuloy lang tayo",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.604996"
+    },
+    {
+      "english": "Keep your chin up, wag mawalan ng loob",
+      "filipino": "Tumayo ka lang, wag mawalan ng loob",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.604999"
+    },
+    {
+      "english": "We’ll figure it out, basta don’t stop",
+      "filipino": "Aayusin natin, basta wag titigil",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605005"
+    },
+    {
+      "english": "Okay, breathe, then try again",
+      "filipino": "Sige, huminga, tapos subukan ulit",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605008"
+    },
+    {
+      "english": "Small wins count, tuloy lang lagi",
+      "filipino": "Bawat maliit na tagumpay, tuloy lang lagi",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605011"
+    },
+    {
+      "english": "Don’t rush it, pero huwag ding titigil",
+      "filipino": "Huwag apurahan, pero huwag ding titigil",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605015"
+    },
+    {
+      "english": "If it’s hard, go anyway",
+      "filipino": "Kapag mahirap, sige, laban pa rin",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605020"
+    },
+    {
+      "english": "Hang in there, kaya mo ‘yan",
+      "filipino": "Kapit lang, kaya mo ‘yan",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605024"
+    },
+    {
+      "english": "Walang back-out, tuloy lang tayo",
+      "filipino": "Walang back-out, tuloy lang tayo",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605029"
+    },
+    {
+      "english": "Stay consistent, araw-araw, progress yan",
+      "filipino": "Maging consistent, araw-araw, progress yan",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605034"
+    },
+    {
+      "english": "Keep the momentum, hindi tayo titigil",
+      "filipino": "I-keep ang momentum, hindi tayo titigil",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605036"
+    },
+    {
+      "english": "Next attempt, same goal, better energy",
+      "filipino": "Sa susunod, same goal, mas better",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605039"
+    },
+    {
+      "english": "Even setbacks, tuloy pa rin tayo",
+      "filipino": "Kahit setbacks, tuloy pa rin tayo",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605042"
+    },
+    {
+      "english": "I got you, laban tayo, step by step",
+      "filipino": "Nandito ako, laban tayo, step by step",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605044"
+    },
+    {
+      "english": "Don’t quit, one day, magiging okay",
+      "filipino": "Huwag sumuko, isang araw, magiging okay",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605048"
+    },
+    {
+      "english": "Keep showing up, kahit konti lang",
+      "filipino": "Tuluy-tuloy lang ang pagpakita, kahit konti",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605050"
+    },
+    {
+      "english": "It’s progress, kahit hindi halata",
+      "filipino": "Progress ‘to, kahit hindi halata",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605053"
+    },
+    {
+      "english": "Start now, we’ll adjust later",
+      "filipino": "Simulan na, adjust tayo mamaya",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605056"
+    },
+    {
+      "english": "Never mind, reset lang, try again",
+      "filipino": "Wag na pansinin, reset lang, subukan ulit",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605059"
+    },
+    {
+      "english": "Keep your mind calm, focus lang",
+      "filipino": "Kalma lang ang isip, focus lang",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605063"
+    },
+    {
+      "english": "We can learn, kahit mabigo muna",
+      "filipino": "Kaya nating matuto, kahit mabigo muna",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605066"
+    },
+    {
+      "english": "Wag kang matakot, subukan mo ngayon",
+      "filipino": "Huwag kang matakot, subukan mo ngayon",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605068"
+    },
+    {
+      "english": "Keep moving forward, kahit paunti-unti",
+      "filipino": "Tulak lang, pasulong kahit paunti-unti",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605071"
+    },
+    {
+      "english": "Talk to yourself, kaya mo, tuloy",
+      "filipino": "Kausapin mo sarili mo, kaya mo, tuloy",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605073"
+    },
+    {
+      "english": "You’re not late, keep trying",
+      "filipino": "Hindi ka late, patuloy ka lang",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605076"
+    },
+    {
+      "english": "How do you handle failure, without quitting?",
+      "filipino": "Paano mo haharapin ang kabiguan, nang hindi susuko?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605079"
+    },
+    {
+      "english": "Can you ask for advice, where to start?",
+      "filipino": "Pwede ka bang humingi ng advice, saan magsisimula?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605082"
+    },
+    {
+      "english": "What keeps you going, kahit may hadlang?",
+      "filipino": "Ano nagpapatuloy sa’yo, kahit may hadlang?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605085"
+    },
+    {
+      "english": "Where did you mess up, so you can fix it?",
+      "filipino": "Saan ka nagkamali, para maayos mo?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605088"
+    },
+    {
+      "english": "Who should I talk to, for guidance?",
+      "filipino": "Sino ang dapat kong kausapin, para sa guidance?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605090"
+    },
+    {
+      "english": "When you feel stuck, what do you do?",
+      "filipino": "Kapag nabablock ka, ano ginagawa mo?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605093"
+    },
+    {
+      "english": "Should we break it into smaller goals?",
+      "filipino": "Hatiin natin sa mas maliliit na goals, okay?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605096"
+    },
+    {
+      "english": "What’s one lesson from this setback?",
+      "filipino": "Ano’ng lesson sa setback na ‘to?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605099"
+    },
+    {
+      "english": "Do you want feedback, or do it your way?",
+      "filipino": "Gusto mo ng feedback, o gawin mo muna sa sarili mo?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605102"
+    },
+    {
+      "english": "How can we stay patient, during slow progress?",
+      "filipino": "Paano tayo magiging patient, habang mabagal ang progress?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605104"
+    },
+    {
+      "english": "What time do you usually start again?",
+      "filipino": "Anong oras ka karaniwang nagsisimula ulit?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605107"
+    },
+    {
+      "english": "Can I help you review, para di ka malito?",
+      "filipino": "Pwede kitang tulungan mag-review, para di ka malito?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605109"
+    },
+    {
+      "english": "What’s your next step, after this mistake?",
+      "filipino": "Ano ang susunod mong step, pagkatapos ng mistake?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605114"
+    },
+    {
+      "english": "Should I remind you, when motivation drops?",
+      "filipino": "Gusto mo ba na i-remind kita, pag bumababa motivation mo?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605117"
+    },
+    {
+      "english": "How do you stay focused, when life gets loud?",
+      "filipino": "Paano ka nakaka-focus, pag maingay ang buhay?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605120"
+    },
+    {
+      "english": "What’s the smallest thing you can do now?",
+      "filipino": "Ano’ng pinaka-maliit na kaya mo gawin ngayon?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605123"
+    },
+    {
+      "english": "Do you want to talk about your goal?",
+      "filipino": "Pwede nating pag-usapan ang goal mo?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605125"
+    },
+    {
+      "english": "Where can you practice, even with limited time?",
+      "filipino": "Saan ka puwedeng mag-practice, kahit limitado oras?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605128"
+    },
+    {
+      "english": "Can you tell me your biggest challenge right now?",
+      "filipino": "Ano ang biggest challenge mo ngayon, pwede?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605130"
+    },
+    {
+      "english": "What’s your promise to yourself today?",
+      "filipino": "Ano ang pangako mo sa sarili mo ngayon?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605134"
+    },
+    {
+      "english": "How do you keep going, when progress feels slow?",
+      "filipino": "Paano ka nagpapatuloy, pag mabagal ang nakikita?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605136"
+    },
+    {
+      "english": "Do you prefer daily reminders, or weekly check-ins?",
+      "filipino": "Gusto mo daily reminders, o weekly check-ins?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605140"
+    },
+    {
+      "english": "What would your future self thank you for?",
+      "filipino": "Ano’ng aasahan ng future self mo sa’yo?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605142"
+    },
+    {
+      "english": "Can we set one realistic goal for this week?",
+      "filipino": "Pwede ba, mag-set tayo ng isang realistic goal ngayong linggo?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605145"
+    },
+    {
+      "english": "If it fails, what’s your plan for the next try?",
+      "filipino": "Pag bumagsak, ano gagawin mo sa susunod na try?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605148"
+    },
+    {
+      "english": "How do you motivate yourself, when no one helps?",
+      "filipino": "Paano mo na-mo-motivate ang sarili mo, pag mag-isa ka?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605151"
+    },
+    {
+      "english": "What’s your “why,” so you don’t give up?",
+      "filipino": "Ano ang “why” mo, para di ka sumuko?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605155"
+    },
+    {
+      "english": "Can you say it again, but kinder to yourself?",
+      "filipino": "Pwede mo bang ulitin, pero mas mabait sa sarili mo?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605158"
+    },
+    {
+      "english": "Shall we check your progress, then adjust?",
+      "filipino": "Mag-check tayo ng progress mo, then aayusin?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605160"
+    },
+    {
+      "english": "You’ve got this, one step at a time, today.",
+      "filipino": "Kaya mo ito, isang hakbang lang, ngayon.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605164"
+    },
+    {
+      "english": "Small wins count, celebrate them, kahit madali lang.",
+      "filipino": "Bilang ang maliliit na tagumpay, ipagdiwang mo, kahit simple.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605167"
+    },
+    {
+      "english": "Keep your goal close, focus ka, wag magkalat.",
+      "filipino": "Ikeep mo sa isip ang goal mo, focus ka, wag magkalat.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605170"
+    },
+    {
+      "english": "Be proud, you showed up, even late.",
+      "filipino": "Mag-proud ka, bumalik ka pa rin, kahit huli.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605172"
+    },
+    {
+      "english": "This is practice, not your final test.",
+      "filipino": "Practice ito, hindi pa ‘to ang final test.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605175"
+    },
+    {
+      "english": "Breathe first, then try again, slowly.",
+      "filipino": "Huminga muna, tapos ulit, dahan-dahan.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605178"
+    },
+    {
+      "english": "Your effort matters, kahit walang applause.",
+      "filipino": "May value ang effort mo, kahit walang palakpak.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605181"
+    },
+    {
+      "english": "Tell yourself, kaya pa, kahit mahirap ngayon.",
+      "filipino": "Sabihin mo sa sarili mo, kaya pa, kahit mahirap ngayon.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605184"
+    },
+    {
+      "english": "No pressure, just consistency, araw-araw lang.",
+      "filipino": "Walang pressure, consistent lang, araw-araw.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605189"
+    },
+    {
+      "english": "You’re building habits, not just finishing tasks.",
+      "filipino": "Gumagawa ka ng habits, hindi lang tapos.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605193"
+    },
+    {
+      "english": "Stay kind to yourself, keep going anyway.",
+      "filipino": "Maging mabait sa sarili mo, tuloy pa rin.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605195"
+    },
+    {
+      "english": "When it gets messy, adjust, don’t stop.",
+      "filipino": "Kapag nagulo, ayos lang, ituloy mo pa rin.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605199"
+    },
+    {
+      "english": "Walang forever perfect, kaya mo mag-improve.",
+      "filipino": "Walang forever perfect, kaya mo mag-improve.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605202"
+    },
+    {
+      "english": "Focus on what works, then repeat it.",
+      "filipino": "Gawin mo muna yung gumagana, tapos ulitin.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605206"
+    },
+    {
+      "english": "You don’t need motivation, you need a routine.",
+      "filipino": "Hindi kailangan ng motivation, kailangan ng routine.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605209"
+    },
+    {
+      "english": "Every try upgrades you, so keep trying.",
+      "filipino": "Bawat subok, may natututunan, kaya tuloy.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605214"
+    },
+    {
+      "english": "Don’t measure by speed, measure by effort.",
+      "filipino": "Huwag tingnan ang bilis, tingnan ang effort.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605217"
+    },
+    {
+      "english": "You’re learning, so forgive the messy parts.",
+      "filipino": "Natuto ka pa lang, patawarin mo yung mali.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605221"
+    },
+    {
+      "english": "Say, ‘I’ll be consistent,’ and mean it.",
+      "filipino": "Sabihin mo, ‘consistent ako,’ at panindigan mo.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605224"
+    },
+    {
+      "english": "Small steps today, bigger confidence tomorrow.",
+      "filipino": "Maliliit na steps ngayon, mas malaking tapang bukas.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605227"
+    },
+    {
+      "english": "Trust your process, hindi lagi instant results.",
+      "filipino": "Tiwala sa proseso, hindi laging instant ang result.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605230"
+    },
+    {
+      "english": "You can restart anytime, then continue calmly.",
+      "filipino": "Pwede kang bumalik anytime, tapos magpatuloy nang kalmado.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605233"
+    },
+    {
+      "english": "Your future needs you, so don’t slack.",
+      "filipino": "Kailangan ka ng future mo, kaya wag magpalusot.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605238"
+    },
+    {
+      "english": "Handle setbacks like a teacher, not a judge.",
+      "filipino": "Gawing teacher ang setback, hindi judge.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605241"
+    },
+    {
+      "english": "You’re stronger than your last mistake.",
+      "filipino": "Mas matibay ka kaysa sa last mong pagkakamali.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605244"
+    },
+    {
+      "english": "Celebrate effort, then aim for the next one.",
+      "filipino": "Ipagdiwang mo ang effort, tapos go sa next.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605246"
+    },
+    {
+      "english": "If you fall, stand up, no drama.",
+      "filipino": "Kapag napalpak, bumangon ulit, walang arte.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605249"
+    },
+    {
+      "english": "Keep your promise, kahit small lang.",
+      "filipino": "Tuparin mo ang pangako mo, kahit maliit lang.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605252"
+    },
+    {
+      "english": "Progress loves consistency, so stay steady.",
+      "filipino": "Mahilig ang progress sa tuloy-tuloy, kaya maging steady.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605254"
+    },
+    {
+      "english": "Speak hope, act today, repeat tomorrow.",
+      "filipino": "Mangako sa sarili, kumilos ngayon, ulit bukas.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605257"
+    },
+    {
+      "english": "I’m allowed to feel tired, then continue.",
+      "filipino": "Puwede akong mapagod, tapos magpapatuloy.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605260"
+    },
+    {
+      "english": "It hurts, pero tuloy pa rin ako.",
+      "filipino": "Masakit, pero tuloy pa rin ako.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605263"
+    },
+    {
+      "english": "Today, I’ll do it even imperfectly.",
+      "filipino": "Ngayon, gagawin ko kahit di pa perpekto.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605266"
+    },
+    {
+      "english": "I can pause, but I won’t quit.",
+      "filipino": "Pwede akong huminto, pero di ako titigil.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605270"
+    },
+    {
+      "english": "I’m learning, not failing, even now.",
+      "filipino": "Natututo ako, hindi nabibigo, kahit ngayon.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605273"
+    },
+    {
+      "english": "I reflect, then I take the next step.",
+      "filipino": "Nagmumuni-muni ako, tapos next step ulit.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605276"
+    },
+    {
+      "english": "Slow days still count, I remind myself.",
+      "filipino": "Kahit mabagal ang araw, bilang pa rin, paalala ko.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605279"
+    },
+    {
+      "english": "I talk to myself kindly, then act.",
+      "filipino": "Kaibiganin ko ang sarili ko, tapos kikilos ako.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605281"
+    },
+    {
+      "english": "My feelings are real, but so is effort.",
+      "filipino": "Totoo ang nararamdaman ko, totoong effort din.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605284"
+    },
+    {
+      "english": "I don’t need a perfect mood, just start.",
+      "filipino": "Di ko kailangan ng perfect na mood, simula lang.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605287"
+    },
+    {
+      "english": "When I doubt, I go back to basics.",
+      "filipino": "Kapag nagdududa ako, bumabalik ako sa basic.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605290"
+    },
+    {
+      "english": "I trust small progress, it adds up.",
+      "filipino": "Pinagkakatiwalaan ko ang maliit na progreso, naipon 'yan.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605293"
+    },
+    {
+      "english": "I can be honest, I still try.",
+      "filipino": "Maging tapat ako, susubukan ko pa rin.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605295"
+    },
+    {
+      "english": "I’ll stay patient, kasi hindi instant ang results.",
+      "filipino": "Magiging pasensyoso ako, kasi di instant ang results.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605299"
+    },
+    {
+      "english": "I take notes from mistakes, not shame.",
+      "filipino": "Natuto ako sa pagkakamali, hindi sa hiya.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605301"
+    },
+    {
+      "english": "Even on bad days, I keep my word.",
+      "filipino": "Kahit sa masamang araw, tinutupad ko ang pangako.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605304"
+    },
+    {
+      "english": "I’m not behind, I’m working through it.",
+      "filipino": "Hindi ako nahuhuli, ginagawa ko lang ito.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605307"
+    },
+    {
+      "english": "I ask, what’s one thing I can do?",
+      "filipino": "Tanong ko, ano ang isang kaya kong gawin?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605312"
+    },
+    {
+      "english": "I reset my mindset, then try again.",
+      "filipino": "I-reset ko ang mindset ko, tapos subok ulit.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605315"
+    },
+    {
+      "english": "Some days I’ll do less, still consistent.",
+      "filipino": "May araw na mas kaunti, pero tuloy-tuloy.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605319"
+    },
+    {
+      "english": "I don’t chase speed, I chase progress.",
+      "filipino": "Di ko hinahabol ang bilis, progreso ang hanap ko.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605322"
+    },
+    {
+      "english": "My goal is steady, not dramatic.",
+      "filipino": "Ang goal ko ay steady, hindi dramatic.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605324"
+    },
+    {
+      "english": "I forgive myself, then keep moving forward.",
+      "filipino": "Pinapatawad ko ang sarili ko, tapos tuloy na.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605327"
+    },
+    {
+      "english": "I check my heart, not just my schedule.",
+      "filipino": "Tinitingnan ko ang puso ko, hindi lang iskedyul.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605330"
+    },
+    {
+      "english": "I’m allowed to start again, quietly.",
+      "filipino": "Puwede akong magsimula ulit, tahimik lang.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605333"
+    },
+    {
+      "english": "I can feel fear, still do the work.",
+      "filipino": "Kaya kong matakot, pero gagawin ko pa rin.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605335"
+    },
+    {
+      "english": "I learn to breathe, then commit.",
+      "filipino": "Natuto akong huminga, tapos mag-commit.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605338"
+    },
+    {
+      "english": "I reflect at night, then plan calmly.",
+      "filipino": "Sa gabi, nagmumuni-muni ako, tapos nagpaplano nang kalmado.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605343"
+    },
+    {
+      "english": "My progress is personal, not for comparison.",
+      "filipino": "Personal ang progreso ko, hindi pang-compete sa iba.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605346"
+    },
+    {
+      "english": "I stay honest, I’m growing, not perfect.",
+      "filipino": "Tapat ako, lumalaki ako, hindi perfect.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605349"
+    },
+    {
+      "english": "Make a plan, do it in pieces",
+      "filipino": "Gumawa ng plano, gawin natin piraso-piraso",
+      "category": "Perseverance",
+      "generated_at": "2026-11-04T10:17:49.605351"
     }
   ],
-  "last_updated": "2026-11-03T10:24:01.103715"
+  "last_updated": "2026-11-04T10:17:49.605353"
 }
