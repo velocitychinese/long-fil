@@ -12959,7 +12959,727 @@
       "filipino": "Gumawa ng plano, gawin natin piraso-piraso",
       "category": "Perseverance",
       "generated_at": "2026-11-04T10:17:49.605351"
+    },
+    {
+      "english": "Here you go, no rush, take your time.",
+      "filipino": "Heto na, walang pagmamadali, maglaan ka ng oras.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890262"
+    },
+    {
+      "english": "Thank you, I really appreciate your help.",
+      "filipino": "Salamat, sobrang pinahahalagahan ko yung tulong mo.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890277"
+    },
+    {
+      "english": "It’s okay, we can figure it out together.",
+      "filipino": "Okay lang, kaya natin ‘to, sama-sama.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890282"
+    },
+    {
+      "english": "Go ahead, you first, after you.",
+      "filipino": "Sige lang, ikaw muna, ikaw na una.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890284"
+    },
+    {
+      "english": "How’s your day, hope it’s going well.",
+      "filipino": "Kumusta ang araw mo, sana maayos.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890286"
+    },
+    {
+      "english": "Sorry about that, my mistake, my bad.",
+      "filipino": "Pasensya na, kasalanan ko ‘yon, sorry.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890288"
+    },
+    {
+      "english": "You did great, keep going, don’t stop.",
+      "filipino": "Ang galing mo, tuloy lang, huwag titigil.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890290"
+    },
+    {
+      "english": "No problem, I’ve got you, really.",
+      "filipino": "Walang problema, tutulungan kita, talaga.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890296"
+    },
+    {
+      "english": "Please, thank you, that’s so kind.",
+      "filipino": "Pakiusap, salamat, ang bait mo.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890299"
+    },
+    {
+      "english": "Need a hand, tell me, I’ll help.",
+      "filipino": "Kailangan mo ng tulong, sabihin mo, tutulong ako.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890301"
+    },
+    {
+      "english": "Take care, ingat ha, drive safe.",
+      "filipino": "Mag-ingat ka, ingat ha, ingat sa biyahe.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890303"
+    },
+    {
+      "english": "That’s helpful, you made my day.",
+      "filipino": "Ang helpful, ginawa mo ‘yung araw ko.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890305"
+    },
+    {
+      "english": "Excuse me, sorry, are you okay?",
+      "filipino": "Excuse me, pasensya na, okay ka ba?",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890307"
+    },
+    {
+      "english": "Wait, let me help you carry that.",
+      "filipino": "Sandali, tutulungan kitang buhatin ‘yan.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890309"
+    },
+    {
+      "english": "It’s fine, you can try again, no stress.",
+      "filipino": "Okay lang, subukan ulit, walang stress.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890311"
+    },
+    {
+      "english": "Good job, I’m proud of you.",
+      "filipino": "Mahusay, ipinagmamalaki kita.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890314"
+    },
+    {
+      "english": "I hear you, thanks for telling me.",
+      "filipino": "Gets kita, salamat sa pag-share.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890315"
+    },
+    {
+      "english": "No worries, we’ll fix it today.",
+      "filipino": "Walang alala, aayusin natin ngayon.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890317"
+    },
+    {
+      "english": "Let’s be gentle, speak kindly, please.",
+      "filipino": "Maging mabait tayo, magsalita nang maayos, please.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890321"
+    },
+    {
+      "english": "You’re welcome, anytime, anytime you need.",
+      "filipino": "Walang anuman, anumang oras, pag kailangan mo.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890323"
+    },
+    {
+      "english": "Thanks for waiting, I’m coming now.",
+      "filipino": "Salamat sa paghihintay, papunta na ako.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890325"
+    },
+    {
+      "english": "Here, I’ll cover it, don’t worry.",
+      "filipino": "Heto, ako na, huwag kang mag-alala.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890328"
+    },
+    {
+      "english": "You’re doing your best, that’s enough.",
+      "filipino": "Ginagawa mo ang makakaya mo, sapat na ‘yan.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890330"
+    },
+    {
+      "english": "Please go ahead, after you, okay?",
+      "filipino": "Sige lang, ikaw muna, okay lang?",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890332"
+    },
+    {
+      "english": "I understand, it happens, you’re not alone.",
+      "filipino": "Gets ko, nangyayari ‘yan, hindi ka nag-iisa.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890334"
+    },
+    {
+      "english": "I’m sorry you felt that way, truly.",
+      "filipino": "Pasensya na, sorry, ganun ang naging feelings mo.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890336"
+    },
+    {
+      "english": "Bless you, take care, God bless always.",
+      "filipino": "Pagpalain ka, mag-ingat ka, palagi.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890338"
+    },
+    {
+      "english": "Excited to help, tell me what you need.",
+      "filipino": "Gusto kong tumulong, ano ba kailangan mo?",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890340"
+    },
+    {
+      "english": "Slow down, it’s okay, we’ve got time.",
+      "filipino": "Dahan-dahan lang, okay lang, may oras tayo.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890342"
+    },
+    {
+      "english": "Thanks for being respectful, that matters.",
+      "filipino": "Salamat sa pagiging magalang, mahalaga ‘yan.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890344"
+    },
+    {
+      "english": "Excuse me, may I ask something?",
+      "filipino": "Excuse me, pwede ba akong magtanong?",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890346"
+    },
+    {
+      "english": "How can I help, what do you need?",
+      "filipino": "Paano kita matutulungan, ano ang kailangan mo?",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890348"
+    },
+    {
+      "english": "Can you tell me, what happened earlier?",
+      "filipino": "Pwede mo bang sabihin, ano nangyari kanina?",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890350"
+    },
+    {
+      "english": "Would it be okay if I join?",
+      "filipino": "Ok lang ba kung sasama ako?",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890352"
+    },
+    {
+      "english": "Do you want advice, or just listening?",
+      "filipino": "Gusto mo ba ng advice, o makikinig lang ako?",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890354"
+    },
+    {
+      "english": "What’s your plan today, any worries?",
+      "filipino": "Ano ang plano mo ngayon, meron ka bang alalahanin?",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890357"
+    },
+    {
+      "english": "If you’re busy, I’ll understand, no pressure.",
+      "filipino": "Kung busy ka, naiintindihan ko, walang pressure.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890360"
+    },
+    {
+      "english": "May I borrow this, for a quick minute?",
+      "filipino": "Pwede ko ba hiramin ito, sandali lang?",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890362"
+    },
+    {
+      "english": "Which one do you prefer, this or that?",
+      "filipino": "Alin ang gusto mo, ito ba o iyon?",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890364"
+    },
+    {
+      "english": "Can I get your opinion, what do you think?",
+      "filipino": "Pwede ko bang malaman, ano ang tingin mo?",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890366"
+    },
+    {
+      "english": "Is everything okay at home?",
+      "filipino": "Okay lang ba lahat sa bahay?",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890368"
+    },
+    {
+      "english": "Want me to walk you there, safely?",
+      "filipino": "Sasamahan kita, maglalakad tayo nang ligtas?",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890369"
+    },
+    {
+      "english": "Do you have time to talk for a bit?",
+      "filipino": "May oras ka ba, saglit lang tayo?",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890371"
+    },
+    {
+      "english": "What can I do now, to make it easier?",
+      "filipino": "Ano kaya ang puwede kong gawin ngayon?",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890372"
+    },
+    {
+      "english": "May I check on you, are you feeling better?",
+      "filipino": "Pwede kitang kamustahin, gumagaan na ba pakiramdam mo?",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890374"
+    },
+    {
+      "english": "Do you need help understanding that?",
+      "filipino": "Kailangan mo ba ng tulong para maintindihan 'yan?",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890376"
+    },
+    {
+      "english": "How would you like me to respond?",
+      "filipino": "Paano mo gustong sagutin ko?",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890377"
+    },
+    {
+      "english": "Can I be honest, I noticed something good.",
+      "filipino": "Kung okay lang, sasabihin ko, may napansin akong mabuti.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890379"
+    },
+    {
+      "english": "What’s the kindest thing we can do?",
+      "filipino": "Ano ang pinakamabait na puwede nating gawin?",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890381"
+    },
+    {
+      "english": "May I offer you a seat, if you want?",
+      "filipino": "Pwede kitang bigyan ng upuan, kung okay lang?",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890384"
+    },
+    {
+      "english": "Do you want to vent, I’m here.",
+      "filipino": "Gusto mo bang maglabas, nandito lang ako.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890386"
+    },
+    {
+      "english": "What’s one small thing I can improve?",
+      "filipino": "Ano ang isang maliit na bagay na puwede kong ayusin?",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890388"
+    },
+    {
+      "english": "Can you tell me your boundaries, please?",
+      "filipino": "Pwede mo bang sabihin ang boundaries mo, please?",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890390"
+    },
+    {
+      "english": "Would you rather I ask first, or later?",
+      "filipino": "Mas gusto mo, magtanong muna ako, o mamaya?",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890391"
+    },
+    {
+      "english": "How can I make this less stressful for you?",
+      "filipino": "Paano ko mababawasan ang stress mo?",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890393"
+    },
+    {
+      "english": "What do you feel right now, honestly?",
+      "filipino": "Ano ang nararamdaman mo ngayon, totoo?",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890395"
+    },
+    {
+      "english": "If I’m wrong, tell me, I’ll adjust.",
+      "filipino": "Kung mali ako, sabihin mo, aayusin ko.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890397"
+    },
+    {
+      "english": "Can we talk it through, step by step?",
+      "filipino": "Pwede natin pag-usapan, hakbang-hakbang?",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890399"
+    },
+    {
+      "english": "What support do you want from me today?",
+      "filipino": "Anong klaseng tulong ang gusto mo sa akin ngayon?",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890400"
+    },
+    {
+      "english": "Want to try again together, your way first?",
+      "filipino": "Subukan ulit natin, sa paraan mo muna?",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890402"
+    },
+    {
+      "english": "Your heart is enough, keep going.",
+      "filipino": "Sapat na ang puso mo, tuloy lang.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890403"
+    },
+    {
+      "english": "Magtulungan tayo, maliit man o malaki.",
+      "filipino": "Magtulungan tayo, maliit man o malaki.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890406"
+    },
+    {
+      "english": "Be kind, para gumaan ang loob.",
+      "filipino": "Maging mabait, para gumaan ang loob.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890408"
+    },
+    {
+      "english": "Take it easy, no need to rush.",
+      "filipino": "Huwag magmadali, okay lang.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890410"
+    },
+    {
+      "english": "Share what you can, kahit konti.",
+      "filipino": "Ibahagi mo kung ano kaya mo, kahit konti.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890412"
+    },
+    {
+      "english": "Little help, malaking tapang, diba?",
+      "filipino": "Maliit na tulong, malaking lakas, diba?",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890414"
+    },
+    {
+      "english": "No judgment, go at your pace.",
+      "filipino": "Walang husga, sa sarili mong bilis.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890416"
+    },
+    {
+      "english": "You’re not a burden, ha, promise.",
+      "filipino": "Hindi ka pabigat, ha, promise.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890418"
+    },
+    {
+      "english": "Let’s lighten the load, step by step.",
+      "filipino": "Pagaan natin ang dala, paunti-unti.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890420"
+    },
+    {
+      "english": "Kind words, malambot ang damdamin.",
+      "filipino": "Kapag magaan ang salita, gumagaan ang loob.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890422"
+    },
+    {
+      "english": "Kung kaya mo, extend a hand.",
+      "filipino": "Kung kaya mo, abot-kamay na tulong.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890424"
+    },
+    {
+      "english": "Be gentle, kahit simpleng ngiti.",
+      "filipino": "Maging gentle, kahit simpleng ngiti.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890425"
+    },
+    {
+      "english": "It’s okay to ask, walang mali.",
+      "filipino": "Okay lang magtanong, walang mali.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890427"
+    },
+    {
+      "english": "Don’t worry, there’s always a way.",
+      "filipino": "Huwag kabahan, may paraan pa.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890430"
+    },
+    {
+      "english": "We’ll handle it, you just rest.",
+      "filipino": "Kami na bahala, pahinga ka muna.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890433"
+    },
+    {
+      "english": "Show respect first, that’s the vibe.",
+      "filipino": "Magpakita ng respeto, iyon ang tamang galaw.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890435"
+    },
+    {
+      "english": "Angat ka, one kind step at a time.",
+      "filipino": "Aangat ka, isang mabait na hakbang paunti-unti.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890437"
+    },
+    {
+      "english": "We don’t shame here, we help.",
+      "filipino": "Dito, walang sisihan, pagtulong lang.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890439"
+    },
+    {
+      "english": "Careful lang, ingat ka palagi.",
+      "filipino": "Ingat ka palagi, dahan-dahan lang.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890441"
+    },
+    {
+      "english": "Your feelings make sense, I swear.",
+      "filipino": "Tama ang nararamdaman mo, promise.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890442"
+    },
+    {
+      "english": "Sama-sama tayo, kahit mahirap.",
+      "filipino": "Sama-sama tayo, kahit mahirap.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890444"
+    },
+    {
+      "english": "Maka-tao tayo, be human about it.",
+      "filipino": "Maka-tao tayo, marunong tayong umintindi.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890447"
+    },
+    {
+      "english": "We’ll take it slow, walang pressure.",
+      "filipino": "Dahan-dahan lang, walang pilit.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890449"
+    },
+    {
+      "english": "Good intentions count, kahit simple lang.",
+      "filipino": "Mabuti ang layunin, kahit simple.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890451"
+    },
+    {
+      "english": "Huwag kang mahihiya, tatanggapin ka.",
+      "filipino": "Huwag kang mahihiya, tatanggapin ka.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890452"
+    },
+    {
+      "english": "Be a safe person, no drama.",
+      "filipino": "Maging safe ka sa pakiramdam, walang drama.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890454"
+    },
+    {
+      "english": "I’m proud of you, keep shining.",
+      "filipino": "Ipinagmamalaki kita, tuloy lang.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890456"
+    },
+    {
+      "english": "Pag may pagkakataon, gawan natin paraan.",
+      "filipino": "Pag may chance, gagawan natin ng paraan.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890458"
+    },
+    {
+      "english": "Let’s be fair, kahit sa maliliit.",
+      "filipino": "Maging patas tayo, kahit sa maliliit na bagay.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890460"
+    },
+    {
+      "english": "Kindness is contagious, share it today.",
+      "filipino": "Nakakahawa ang kabutihan, ibahagi mo ngayon.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890461"
+    },
+    {
+      "english": "I notice your effort, and I appreciate you.",
+      "filipino": "Napapansin ko yung effort mo, at pinapahalagahan kita.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890463"
+    },
+    {
+      "english": "Let’s be honest, I’m feeling a little slow today.",
+      "filipino": "Magsasabi ako nang totoo, mabagal yata ako ngayon.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890466"
+    },
+    {
+      "english": "Thanks for staying calm, it helps a lot.",
+      "filipino": "Salamat sa pagiging kalmado mo, malaking tulong.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890468"
+    },
+    {
+      "english": "I’ll wait, take your time, okay?",
+      "filipino": "Hihintayin kita, take your time, ha?",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890470"
+    },
+    {
+      "english": "Your feelings are real, and I’m listening.",
+      "filipino": "Totoo yung nararamdaman mo, at nakikinig ako.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890472"
+    },
+    {
+      "english": "If you need space, I’ll be here quietly.",
+      "filipino": "Kung kailangan mo ng space, nandito lang ako tahimik.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890474"
+    },
+    {
+      "english": "I mean it, you deserve kindness today.",
+      "filipino": "Seryoso ako, deserve mo ang kindness ngayon.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890476"
+    },
+    {
+      "english": "Small check-ins can heal a lot, you know?",
+      "filipino": "Yung konting kumusta, nakakapagpagaan, alam mo?",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890479"
+    },
+    {
+      "english": "I’m not rushing you, I just want you okay.",
+      "filipino": "Hindi kita minamadali, gusto ko lang safe ka.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890481"
+    },
+    {
+      "english": "I’m learning you, so please be patient with me.",
+      "filipino": "Inaalam ko pa kayo, kaya please pasensya ka.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890483"
+    },
+    {
+      "english": "You can soften your words, I’ll understand.",
+      "filipino": "Pwede mong verzinahin yung words mo, iintindihin ko.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890486"
+    },
+    {
+      "english": "I’ll speak gently, even when I’m thinking.",
+      "filipino": "Sasalita ako nang malumanay, kahit may iniisip pa.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890488"
+    },
+    {
+      "english": "No pressure, just be honest with yourself.",
+      "filipino": "Walang pressure, just be honest sa sarili mo.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890490"
+    },
+    {
+      "english": "I respect your pace, that’s the kind part.",
+      "filipino": "I respect ko yung takbo mo, yun yung mabuting pakiramdam.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890492"
+    },
+    {
+      "english": "Let’s breathe first, then we talk better.",
+      "filipino": "Huminga muna tayo, saka mas maayos tayo mag-usap.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890494"
+    },
+    {
+      "english": "I’m proud you’re trying, even if it’s messy.",
+      "filipino": "I’m proud ako na nagsisikap ka, kahit magulo.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890497"
+    },
+    {
+      "english": "Thank you for trusting me with your truth.",
+      "filipino": "Salamat sa pagtitiwala mo, dala yung totoo mong loob.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890498"
+    },
+    {
+      "english": "Sometimes kindness starts with a quiet smile.",
+      "filipino": "Minsan nagsisimula ang kabaitan sa tahimik na ngiti.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890500"
+    },
+    {
+      "english": "I won’t judge you, I’ll just be kind back.",
+      "filipino": "Hindi kita huhusgahan, magiging kind din ako.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890502"
+    },
+    {
+      "english": "I’m here, but I’ll let you lead sometimes.",
+      "filipino": "Nandito ako, pero minsan hahayaan kitang manguna.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890504"
+    },
+    {
+      "english": "Your courage is showing, even in small moments.",
+      "filipino": "Nakikita ko yung tapang mo, kahit sa maliliit na sandali.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890506"
+    },
+    {
+      "english": "We can pause, then decide what you need.",
+      "filipino": "Pwede tayong tumigil muna, tapos natin piliin kung ano ang kailangan mo.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890508"
+    },
+    {
+      "english": "I get it, you’re carrying a lot right now.",
+      "filipino": "Gets ko, marami kang dala ngayon.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890510"
+    },
+    {
+      "english": "Speak your heart, I’ll stay gentle with you.",
+      "filipino": "Ikwento mo ang nasa puso mo, gentle lang ako sayo.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890514"
+    },
+    {
+      "english": "I’ll keep it real, I care about you deeply.",
+      "filipino": "Sisabihin ko nang totoo, mahal kita nang taos.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890516"
+    },
+    {
+      "english": "Even awkward days deserve kindness.",
+      "filipino": "Kahit awkward ang araw, deserving pa rin ng kabaitan.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890518"
+    },
+    {
+      "english": "I’ll choose patience, because you matter.",
+      "filipino": "Pipili ako ng patience, kasi mahalaga ka.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890521"
+    },
+    {
+      "english": "Let’s reflect, then we try a softer approach.",
+      "filipino": "Magre-reflect muna tayo, tapos subukan natin nang mas malumanay.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890523"
+    },
+    {
+      "english": "I’m not perfect, but I’m sincere with you.",
+      "filipino": "Hindi man ako perfect, pero sincere ako sa’yo.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890525"
+    },
+    {
+      "english": "If it hurts, let’s be gentle about it.",
+      "filipino": "Kung masakit, gawin nating maingat at gentle.",
+      "category": "Kindness",
+      "generated_at": "2026-11-05T10:11:23.890528"
     }
   ],
-  "last_updated": "2026-11-04T10:17:49.605353"
+  "last_updated": "2026-11-05T10:11:23.890529"
 }
