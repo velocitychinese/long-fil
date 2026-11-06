@@ -13679,7 +13679,727 @@
       "filipino": "Kung masakit, gawin nating maingat at gentle.",
       "category": "Kindness",
       "generated_at": "2026-11-05T10:11:23.890528"
+    },
+    {
+      "english": "Ready, let's warm up first, okay?",
+      "filipino": "Handa na, magsisimula muna tayo mag-warm up, okay?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651315"
+    },
+    {
+      "english": "How's your breathing, slow or fast?",
+      "filipino": "Kumusta ang paghinga mo, mabagal o mabilis?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651334"
+    },
+    {
+      "english": "Nice, good form, keep it steady!",
+      "filipino": "Ayos, tama ang form, tuloy lang na steady!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651338"
+    },
+    {
+      "english": "Don’t rush, go at your own pace.",
+      "filipino": "Huwag magmadali, gawin mo sa sarili mong bilis.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651343"
+    },
+    {
+      "english": "Where does it hurt, here or there?",
+      "filipino": "Saan masakit, dito o doon?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651346"
+    },
+    {
+      "english": "Take a sip, then continue your workout.",
+      "filipino": "Uminom muna ng konting tubig, tapos tuloy ka.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651349"
+    },
+    {
+      "english": "Deep breaths, you’ve got this!",
+      "filipino": "Huminga nang malalim, kaya mo ‘yan!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651353"
+    },
+    {
+      "english": "That’s it, one more rep, go!",
+      "filipino": "Ayun na, isa pa, push!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651360"
+    },
+    {
+      "english": "Good job, you’re improving fast!",
+      "filipino": "Magaling ka, mabilis kang gumagaling!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651364"
+    },
+    {
+      "english": "Any soreness today, or you’re okay?",
+      "filipino": "Masakit ba ngayon, o okay lang?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651368"
+    },
+    {
+      "english": "Stretch a little, loosen up first.",
+      "filipino": "Mag-stretch ka muna, magpahinga muna ng konti.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651371"
+    },
+    {
+      "english": "Stop there, check your posture.",
+      "filipino": "Itigil muna, tingnan ang postura mo.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651373"
+    },
+    {
+      "english": "Are you warmed up already?",
+      "filipino": "Naka-warm up ka na ba?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651376"
+    },
+    {
+      "english": "No pain, no gain, right?",
+      "filipino": "Walang sakit, walang gain, tama?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651379"
+    },
+    {
+      "english": "I need water, pause for a sec.",
+      "filipino": "Kailangan ko ng tubig, sandali lang muna.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651382"
+    },
+    {
+      "english": "Nice one, catch your breath now!",
+      "filipino": "Ang galing, huminga ka muna nang ayos!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651384"
+    },
+    {
+      "english": "Do you feel dizzy, slow down.",
+      "filipino": "Nabibihira ka ba, huminahon ka?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651387"
+    },
+    {
+      "english": "I’ll spot you, just keep going.",
+      "filipino": "Hahawakan kita, tuloy lang.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651390"
+    },
+    {
+      "english": "Your form looks great, don’t change!",
+      "filipino": "Maganda ang form mo, huwag mo nang baguhin!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651394"
+    },
+    {
+      "english": "Should we cool down now?",
+      "filipino": "Mag-cool down na ba tayo?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651396"
+    },
+    {
+      "english": "I’m sore, but I’ll push through.",
+      "filipino": "Masakit ako, pero ipagpapatuloy ko pa.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651400"
+    },
+    {
+      "english": "Let’s hydrate, water muna tayo.",
+      "filipino": "Hydrate tayo, tubig muna.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651405"
+    },
+    {
+      "english": "That was close, good hustle!",
+      "filipino": "Ganoon kalapit, galing ng effort!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651408"
+    },
+    {
+      "english": "Again, same pace, no stopping!",
+      "filipino": "Ulit, same bilis, huwag huminto!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651411"
+    },
+    {
+      "english": "Are we training or just playing?",
+      "filipino": "Magte-train ba tayo, o laro lang?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651414"
+    },
+    {
+      "english": "Perfect, now switch to the other side.",
+      "filipino": "Sakto, lumipat tayo sa kabila.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651419"
+    },
+    {
+      "english": "Okay, relax, let your muscles breathe.",
+      "filipino": "Sige, pahinga muna, hayaan mong huminga ang muscles.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651422"
+    },
+    {
+      "english": "I felt it, slow reps from now.",
+      "filipino": "Nararamdaman ko, dahan-dahang ulit ngayon.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651425"
+    },
+    {
+      "english": "Can you show me your stretching routine?",
+      "filipino": "Pwede mo bang ipakita, yung stretching routine mo?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651430"
+    },
+    {
+      "english": "What sports team are you supporting lately?",
+      "filipino": "Anong team ang sinusuportahan mo ngayon?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651433"
+    },
+    {
+      "english": "How often do you work out, usually?",
+      "filipino": "Gaano kadalas ka nag-eehersisyo, usually?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651436"
+    },
+    {
+      "english": "What’s your goal right now, strength or stamina?",
+      "filipino": "Ano goal mo ngayon, lakas ba o tibay?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651441"
+    },
+    {
+      "english": "Should I increase the weight, or not?",
+      "filipino": "Dapat ba dagdagan ko yung timbang, o hindi?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651444"
+    },
+    {
+      "english": "Where do you feel the burn, usually?",
+      "filipino": "Saang part mo nararamdaman yung burn?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651446"
+    },
+    {
+      "english": "Any tips for staying consistent week to week?",
+      "filipino": "May tips ka ba, para consistent linggo-linggo?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651449"
+    },
+    {
+      "english": "Do you train better in the morning?",
+      "filipino": "Mas maganda ba sa’yo mag-ehersisyo sa umaga?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651452"
+    },
+    {
+      "english": "What’s your warm-up, before the real workout?",
+      "filipino": "Ano yung warm-up mo, bago yung training?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651455"
+    },
+    {
+      "english": "How do you pace yourself on long runs?",
+      "filipino": "Paano mo pinapacing yung long run?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651458"
+    },
+    {
+      "english": "Can I join your training session, later?",
+      "filipino": "Pwede ba akong sumama sa training mo, mamaya?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651461"
+    },
+    {
+      "english": "What shoes do you swear by for cardio?",
+      "filipino": "Anong shoes ang pinaka-suswertihan mo sa cardio?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651463"
+    },
+    {
+      "english": "Do you rest between sets, or go nonstop?",
+      "filipino": "Nagre-rest ka ba sa pagitan, o tuloy-tuloy?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651466"
+    },
+    {
+      "english": "What helps you avoid cramps during workouts?",
+      "filipino": "Ano ginagawa mo, para iwas cramps?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651468"
+    },
+    {
+      "english": "Should we focus on form today, or speed?",
+      "filipino": "Form ba muna tayo ngayon, o bilis?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651471"
+    },
+    {
+      "english": "Which exercise hits your core the best?",
+      "filipino": "Aling exercise ang best para sa core mo?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651474"
+    },
+    {
+      "english": "Can you recommend a simple meal for training?",
+      "filipino": "Pwede mo ba i-recommend, yung meal bago mag-train?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651477"
+    },
+    {
+      "english": "How do you track progress, app or notebook?",
+      "filipino": "Paano mo ino-o-track, app ba o notebook?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651479"
+    },
+    {
+      "english": "What recovery do you do after heavy days?",
+      "filipino": "Anong recovery ginagawa mo, kapag heavy day?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651482"
+    },
+    {
+      "english": "Do you stretch your calves after running?",
+      "filipino": "Nag-stretch ka ba ng calves mo, pagkatapos tumakbo?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651484"
+    },
+    {
+      "english": "What’s your favorite sport, besides gym workouts?",
+      "filipino": "Ano favorite sport mo, bukod sa gym?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651487"
+    },
+    {
+      "english": "How do you handle fatigue when motivation drops?",
+      "filipino": "Paano mo hinahandle, kapag nawawala motivation?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651490"
+    },
+    {
+      "english": "Should I train today, if I feel tired?",
+      "filipino": "Magta-train ba ako today, kapag pagod ako?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651492"
+    },
+    {
+      "english": "What’s a good beginner routine for us?",
+      "filipino": "Ano magandang beginner routine para sa atin?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651496"
+    },
+    {
+      "english": "Do you prefer intervals, or steady cardio?",
+      "filipino": "Intervals ba ang trip mo, o steady cardio?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651498"
+    },
+    {
+      "english": "When you’re stuck, what do you change first?",
+      "filipino": "Kapag stuck ka, ano muna ang binabago mo?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651503"
+    },
+    {
+      "english": "Any beginner-friendly drills for ball handling?",
+      "filipino": "May drill ka ba, pang-simula sa ball handling?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651506"
+    },
+    {
+      "english": "How should I cool down after sparring?",
+      "filipino": "Paano mag-cool down pagkatapos ng sparring?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651509"
+    },
+    {
+      "english": "Can we adjust the plan based on your level?",
+      "filipino": "Pwede nating i-adjust, depende sa level mo?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651513"
+    },
+    {
+      "english": "What’s your best advice for staying motivated?",
+      "filipino": "Ano yung best advice mo, para manatiling motivated?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651517"
+    },
+    {
+      "english": "You’re improving, keep showing up",
+      "filipino": "Gumaganda ka, tuloy-tuloy lang ang laban",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651520"
+    },
+    {
+      "english": "Nice effort, kahit may pagod",
+      "filipino": "Ang galing ng effort mo, kahit pagod",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651523"
+    },
+    {
+      "english": "Breathe, focus, then move faster",
+      "filipino": "Huminga, mag-focus, tapos mas bilis",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651526"
+    },
+    {
+      "english": "Small steps today, big results tomorrow",
+      "filipino": "Maliit ngayon, malaking bukas",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651529"
+    },
+    {
+      "english": "Trust the process, one workout at a time",
+      "filipino": "Tiisin ang proseso, kada workout lang",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651532"
+    },
+    {
+      "english": "Good form builds strength, not shortcuts",
+      "filipino": "Tamang galaw, lakas ang kapalit",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651535"
+    },
+    {
+      "english": "You’re not late, you’re on your time",
+      "filipino": "Hindi ka late, nasa oras ka lang",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651540"
+    },
+    {
+      "english": "Keep your head up, stay disciplined",
+      "filipino": "Itaas ang ulo, maging disiplinado",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651544"
+    },
+    {
+      "english": "No drama, focus on the next rep",
+      "filipino": "Walang drama, focus lang sa next reps",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651547"
+    },
+    {
+      "english": "Believe in yourself, then train smarter",
+      "filipino": "Maniwala ka sa sarili, tapos mas galing",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651549"
+    },
+    {
+      "english": "Every session is practice for life",
+      "filipino": "Bawat session, practice para sa buhay",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651552"
+    },
+    {
+      "english": "Your body adapts, keep going",
+      "filipino": "Kaya ng katawan mo, tuloy lang",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651555"
+    },
+    {
+      "english": "Reset your mind, you’ve got this",
+      "filipino": "I-reset ang isip, kaya mo ’yan",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651558"
+    },
+    {
+      "english": "Great job, listen to your pace",
+      "filipino": "Ayos, sundin mo lang ang ritmo mo",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651561"
+    },
+    {
+      "english": "Don’t quit on a bad minute",
+      "filipino": "Huwag sumuko sa isang masamang minuto",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651564"
+    },
+    {
+      "english": "You’re tougher than your excuses",
+      "filipino": "Mas matibay ka kaysa sa dahilan mo",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651567"
+    },
+    {
+      "english": "Win the moment, then win the week",
+      "filipino": "Kunin mo ang moment, tapos buong linggo",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651570"
+    },
+    {
+      "english": "Today’s grind builds future confidence",
+      "filipino": "Ang paghihirap ngayon, future confidence",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651573"
+    },
+    {
+      "english": "Celebrate small wins, they matter",
+      "filipino": "I-celebrate ang maliliit na tagumpay",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651576"
+    },
+    {
+      "english": "Focus on effort, not just results",
+      "filipino": "Sa effort ka mag-focus, hindi lang sa resulta",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651579"
+    },
+    {
+      "english": "You’re doing better than yesterday",
+      "filipino": "Mas gumagaling ka kaysa kahapon",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651582"
+    },
+    {
+      "english": "Stay positive, your muscles will follow",
+      "filipino": "Manatiling positibo, susunod ang katawan",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651584"
+    },
+    {
+      "english": "When it burns, that’s progress",
+      "filipino": "Kapag nasusunog, progreso ’yan",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651587"
+    },
+    {
+      "english": "Good effort beats perfect excuses",
+      "filipino": "Mas okay ang effort kaysa dahilan",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651590"
+    },
+    {
+      "english": "Keep moving, one minute at a time",
+      "filipino": "Tuloy lang, kada minuto",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651595"
+    },
+    {
+      "english": "You can rest, but don’t quit",
+      "filipino": "Pwede magpahinga, pero huwag tumigil",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651598"
+    },
+    {
+      "english": "Tell yourself, I’m capable today",
+      "filipino": "Sabihin mo, kaya ko ngayon",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651601"
+    },
+    {
+      "english": "Respect the work, your body will thank you",
+      "filipino": "Irespeto ang trabaho, gagantihan ka ng katawan",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651603"
+    },
+    {
+      "english": "Hard work, calm mind, strong body",
+      "filipino": "Hard work, calm na isip, matibay na katawan",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651606"
+    },
+    {
+      "english": "Next workout, same you, stronger mindset",
+      "filipino": "Sa next workout, mas buo ang mindset",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651609"
+    },
+    {
+      "english": "I feel stronger, but I still move slow.",
+      "filipino": "Mas gumagaan ang pakiramdam ko, pero dahan-dahan pa rin.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651614"
+    },
+    {
+      "english": "Honestly, I’m learning to be patient.",
+      "filipino": "Sa totoo lang, natututunan kong maging pasensyoso.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651617"
+    },
+    {
+      "english": "Some days, I just show up, no pressure.",
+      "filipino": "May mga araw, sumasama lang ako, walang pressure.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651621"
+    },
+    {
+      "english": "I don’t chase perfection, I chase consistency.",
+      "filipino": "Hindi ko hinahabol ang perpeksyon, hinahabol ko ang tuloy-tuloy.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651625"
+    },
+    {
+      "english": "When I’m emotional, I train anyway.",
+      "filipino": "Kapag emosyonal ako, nag-eehersisyo pa rin ako.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651628"
+    },
+    {
+      "english": "I listen to my body, it guides me.",
+      "filipino": "Pinapakinggan ko ang katawan ko, ginagabayan niya ako.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651631"
+    },
+    {
+      "english": "I’m proud of effort, even when results lag.",
+      "filipino": "Ipinagmamalaki ko ang effort, kahit nahuhuli ang results.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651634"
+    },
+    {
+      "english": "I breathe through doubt, then I continue.",
+      "filipino": "Humihinga ako sa pagdududa, tapos nagpapatuloy.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651637"
+    },
+    {
+      "english": "Today, I choose calm over rushing.",
+      "filipino": "Ngayong araw, pinipili ko ang kalmado kaysa dali-dali.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651640"
+    },
+    {
+      "english": "I’m not behind, I’m rebuilding my routine.",
+      "filipino": "Hindi ako nahuhuli, nire-rebuild ko lang ang routine ko.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651644"
+    },
+    {
+      "english": "I can feel fear, but I still move.",
+      "filipino": "Nadadamay ang takot, pero gumagalaw pa rin ako.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651647"
+    },
+    {
+      "english": "I’m learning discipline, one quiet workout.",
+      "filipino": "Natutu-tunan ko ang disiplina, sa tahimik na ehersisyo.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651650"
+    },
+    {
+      "english": "If I miss a day, I reset gently.",
+      "filipino": "Kapag napalampas ko ang isang araw, dahan-dahan akong bumabalik.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651653"
+    },
+    {
+      "english": "My mindset matters more than my mood.",
+      "filipino": "Mas mahalaga ang mindset ko kaysa mood ko.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651656"
+    },
+    {
+      "english": "I don’t punish myself, I adjust my pace.",
+      "filipino": "Hindi ko pinaparusahan ang sarili ko, ina-adjust ko lang ang bilis.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651659"
+    },
+    {
+      "english": "When stress hits, I train to breathe.",
+      "filipino": "Kapag sumisipa ang stress, nag-eehersisyo ako para huminga.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651664"
+    },
+    {
+      "english": "I accept progress takes time, that’s okay.",
+      "filipino": "Tinanggap ko, ang progress ay may oras, okay lang.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651668"
+    },
+    {
+      "english": "I’m proud I didn’t give up today.",
+      "filipino": "Ikinalulugod ko na hindi ako sumuko ngayon.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651671"
+    },
+    {
+      "english": "I trust small changes, they add up.",
+      "filipino": "Pinagkakatiwalaan ko ang maliliit na pagbabago, dumadagdag iyon.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651674"
+    },
+    {
+      "english": "I hold back when my form gets messy.",
+      "filipino": "Humihinto ako kapag nagulo ang form ko.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651677"
+    },
+    {
+      "english": "I can’t control everything, only my effort.",
+      "filipino": "Hindi ko kontrolado ang lahat, effort ko lang.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651680"
+    },
+    {
+      "english": "I feel the burn, then I stay steady.",
+      "filipino": "Nararamdaman ko ang hapdi, pero nananatiling steady.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651683"
+    },
+    {
+      "english": "Even on tough days, I choose respect.",
+      "filipino": "Sa mahihirap na araw, pinipili ko pa rin ang respeto.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651685"
+    },
+    {
+      "english": "I talk kindly to myself during workouts.",
+      "filipino": "Sa training, kausap ko ang sarili ko nang maayos.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651688"
+    },
+    {
+      "english": "I’m letting go of yesterday’s pressure.",
+      "filipino": "Inaalis ko na ang bigat ng kahapon.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651692"
+    },
+    {
+      "english": "My goal is to feel better, not just stronger.",
+      "filipino": "Ang goal ko ay mas gumaan ang pakiramdam, hindi lang mas lumakas.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651695"
+    },
+    {
+      "english": "I check in, how’s my mind today?",
+      "filipino": "Nag-iinvestigate ako, kumusta ang isip ko ngayon?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651704"
+    },
+    {
+      "english": "I won’t spiral, I’ll train with intention.",
+      "filipino": "Hindi ako papasok sa spiraling thoughts, sinasadya ko ang training.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651707"
+    },
+    {
+      "english": "After practice, I thank my body for showing up.",
+      "filipino": "Pagkatapos ng practice, nagpapasalamat ako sa katawan kong lumalaban.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651710"
+    },
+    {
+      "english": "Warm up first, don’t jump into heavy lifts",
+      "filipino": "Mag-warm up muna, huwag agad sa mabibigat",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651714"
+    },
+    {
+      "english": "Hydrate now, bago ka pa mahilo",
+      "filipino": "Uminom ng tubig ngayon, bago ka pa mahilo",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651716"
+    },
+    {
+      "english": "If your form feels off, pause and reset",
+      "filipino": "Kapag mali ang galaw, huminto, saka mag-reset",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-06T10:15:38.651719"
     }
   ],
-  "last_updated": "2026-11-05T10:11:23.890529"
+  "last_updated": "2026-11-06T10:15:38.651723"
 }
