@@ -14399,7 +14399,727 @@
       "filipino": "Kapag mali ang galaw, huminto, saka mag-reset",
       "category": "Sports & Fitness",
       "generated_at": "2026-11-06T10:15:38.651719"
+    },
+    {
+      "english": "Hi, can I see you later, maybe?",
+      "filipino": "Uy, pwede ba kitang makita mamaya, baka?",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886185"
+    },
+    {
+      "english": "Sorry, I missed you, I really did.",
+      "filipino": "Sorry, namiss kita, talaga.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886202"
+    },
+    {
+      "english": "I’m smiling, you’re the reason, honestly.",
+      "filipino": "Ngumiti ako, ikaw yung dahilan, honestly.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886207"
+    },
+    {
+      "english": "Wait, don’t go yet, stay with me.",
+      "filipino": "Sandali, wag ka muna, dito ka lang.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886211"
+    },
+    {
+      "english": "That look, wow, I can’t handle it.",
+      "filipino": "Yung tingin na ‘yan, grabe, di ko kaya.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886215"
+    },
+    {
+      "english": "You’re so cute, don’t pretend you’re not.",
+      "filipino": "Ang cute mo, wag kang magpanggap.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886219"
+    },
+    {
+      "english": "I like you, simple as that, okay?",
+      "filipino": "Gusto kita, simple lang, okay?",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886222"
+    },
+    {
+      "english": "No worries, I’m here, just breathe.",
+      "filipino": "Walang problema, nandito ako, breathe lang.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886229"
+    },
+    {
+      "english": "Please, text me, I’ll wait for you.",
+      "filipino": "Paki-text mo ako, hihintayin kita.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886236"
+    },
+    {
+      "english": "Stay close, I feel safe with you.",
+      "filipino": "Dikit ka lang, safe ako kapag kasama ka.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886239"
+    },
+    {
+      "english": "I can’t stop thinking about you, seriously.",
+      "filipino": "Di ko mapigilang isipin ka, totoo.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886243"
+    },
+    {
+      "english": "Really? That’s sweet, tell me more.",
+      "filipino": "Talaga? Ang sweet, ikuwento mo pa.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886246"
+    },
+    {
+      "english": "You made my day, thank you, honestly.",
+      "filipino": "Ginawa mo ang araw ko, salamat, totoo.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886249"
+    },
+    {
+      "english": "Come here, I want to hug you.",
+      "filipino": "Lumapit ka, gusto kitang yakapin.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886252"
+    },
+    {
+      "english": "Oops, sorry, I got distracted by you.",
+      "filipino": "Uy, sorry, na-distract ako sa’yo.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886255"
+    },
+    {
+      "english": "Good morning, my favorite person, hi.",
+      "filipino": "Magandang umaga, paborito kong tao, hi.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886258"
+    },
+    {
+      "english": "I miss your voice, call me, please.",
+      "filipino": "Namimiss ko boses mo, tawag ka, please.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886261"
+    },
+    {
+      "english": "Let’s eat first, then we’ll talk, baby.",
+      "filipino": "Kain muna tayo, tapos usap tayo, baby.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886264"
+    },
+    {
+      "english": "You’re my comfort, even on bad days.",
+      "filipino": "Ikaw yung comfort ko, kahit bad days.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886268"
+    },
+    {
+      "english": "Hold on, I need to say this to you.",
+      "filipino": "Sandali, kailangan kong sabihin sa’yo.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886271"
+    },
+    {
+      "english": "Don’t overthink, I’m staying, okay?",
+      "filipino": "Huwag masyadong isipin, nandito ako, okay?",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886277"
+    },
+    {
+      "english": "Kilig! Your message just made me happy.",
+      "filipino": "Kilig! Yung message mo, masaya ako.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886279"
+    },
+    {
+      "english": "I’m free later, want to meet up?",
+      "filipino": "Free ako mamaya, gusto mo magkita?",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886283"
+    },
+    {
+      "english": "Wait, that’s actually romantic, wow.",
+      "filipino": "Sandali, romantic talaga, wow.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886286"
+    },
+    {
+      "english": "You’re texting again, I’m blushing.",
+      "filipino": "Nag-te-text ka ulit, namumula ako.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886290"
+    },
+    {
+      "english": "Let’s be real, I want you close.",
+      "filipino": "Tayo na tayo, gusto kitang makasama.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886293"
+    },
+    {
+      "english": "I’m proud of you, babe, seriously.",
+      "filipino": "I’m proud of you, babe, totoo.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886296"
+    },
+    {
+      "english": "What are we, honestly? I want you.",
+      "filipino": "Ano ba tayo, honestly? Gusto kita.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886299"
+    },
+    {
+      "english": "Good night, dream of me, okay?",
+      "filipino": "Good night, pangarap mo ako, okay?",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886302"
+    },
+    {
+      "english": "What time are we free tonight, love?",
+      "filipino": "Anong oras tayo free mamaya, love?",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886305"
+    },
+    {
+      "english": "Can I know how you feel today?",
+      "filipino": "Pwede ko bang malaman kung ano nararamdaman mo ngayon?",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886308"
+    },
+    {
+      "english": "Are we good, or do you need space?",
+      "filipino": "Okay ba tayo, o kailangan mo ng space?",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886312"
+    },
+    {
+      "english": "What should I do to make it better?",
+      "filipino": "Ano bang dapat kong gawin para gumaan?",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886314"
+    },
+    {
+      "english": "May I ask, what made you smile?",
+      "filipino": "Pwede bang magtanong, ano ang nagpatawa sa’yo?",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886318"
+    },
+    {
+      "english": "Do you want to talk about us, gently?",
+      "filipino": "Gusto mo bang pag-usapan natin tayo, mahinahon?",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886320"
+    },
+    {
+      "english": "How can I support you right now?",
+      "filipino": "Paano kita masusuportahan ngayong ngayon?",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886323"
+    },
+    {
+      "english": "What’s your favorite kind of date?",
+      "filipino": "Ano ang paborito mong klase ng date?",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886326"
+    },
+    {
+      "english": "Do you prefer calls, or messages?",
+      "filipino": "Mas gusto mo ba ang tawag, o chat?",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886329"
+    },
+    {
+      "english": "Tell me, are you okay with this?",
+      "filipino": "Sabihin mo, okay ka ba dito?",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886332"
+    },
+    {
+      "english": "If I do this, would you feel loved?",
+      "filipino": "Kung gagawin ko ’to, mararamdaman mo bang mahal ka?",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886337"
+    },
+    {
+      "english": "What’s the sweetest thing you want from me?",
+      "filipino": "Ano yung pinakamalambing na gusto mo sa akin?",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886340"
+    },
+    {
+      "english": "Can we slow down, and talk honestly?",
+      "filipino": "Pwede ba nating bagalan, at magsalita nang tapat?",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886343"
+    },
+    {
+      "english": "How do you like your love, steady or wild?",
+      "filipino": "Paano mo gusto ang pag-ibig mo, steady o wild?",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886346"
+    },
+    {
+      "english": "What’s bothering you, tell me straight?",
+      "filipino": "Ano’ng pumapasan sa’yo, sabihin mo sa akin?",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886349"
+    },
+    {
+      "english": "Should we make plans for next week?",
+      "filipino": "Gagawa tayo ng plano para sa susunod na linggo?",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886352"
+    },
+    {
+      "english": "What do you need from me tonight?",
+      "filipino": "Ano ba ang kailangan mo sa akin ngayong gabi?",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886356"
+    },
+    {
+      "english": "Do you feel safe when I’m around?",
+      "filipino": "Naramdaman mo bang ligtas ka kapag kasama ako?",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886359"
+    },
+    {
+      "english": "Let’s check in, how’s your heart?",
+      "filipino": "Mag-check tayo, kumusta naman ang puso mo?",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886365"
+    },
+    {
+      "english": "What’s your love language, I’m curious.",
+      "filipino": "Ano ang love language mo, curious ako.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886368"
+    },
+    {
+      "english": "Can I be honest, I want you more.",
+      "filipino": "Maaari ba akong maging tapat, mas gusto kita.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886371"
+    },
+    {
+      "english": "Are you okay, what happened today, babe?",
+      "filipino": "Okay ka lang ba, ano nangyari ngayon, babe?",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886374"
+    },
+    {
+      "english": "Should we talk now, before we sleep?",
+      "filipino": "Mag-uusap ba tayo ngayon, bago tayo matulog?",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886379"
+    },
+    {
+      "english": "What do I do when you get quiet?",
+      "filipino": "Ano ang gagawin ko kapag tahimik ka?",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886381"
+    },
+    {
+      "english": "Can I hold you, just for a minute?",
+      "filipino": "Pwede ba kitang yakapin, saglit lang?",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886383"
+    },
+    {
+      "english": "What makes you feel cared for, truly?",
+      "filipino": "Ano ang nagpaparamdam sa’yo ng pag-aaruga?",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886386"
+    },
+    {
+      "english": "Do you want space, or reassurance?",
+      "filipino": "Gusto mo ba ng space, o assurance?",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886389"
+    },
+    {
+      "english": "How was your day, tell me the details.",
+      "filipino": "Kumusta ang araw mo, ikwento mo sa akin.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886391"
+    },
+    {
+      "english": "If I apologize, will you forgive me?",
+      "filipino": "Kung magso-sorry ako, mapapatawad mo ba ako?",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886394"
+    },
+    {
+      "english": "Breathe, love grows when we stay kind.",
+      "filipino": "Huminga, lumalago ang pagmamahal kapag mabait tayo.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886397"
+    },
+    {
+      "english": "You’re doing great, your effort shows.",
+      "filipino": "Ang galing mo, kita ang effort mo.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886400"
+    },
+    {
+      "english": "Say it softly, love hears you clearly.",
+      "filipino": "Sabihin mo nang mahina, malinaw ang naririnig ng pag-ibig.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886403"
+    },
+    {
+      "english": "Keep your heart open, good things follow.",
+      "filipino": "Buksan mo ang puso, sumusunod ang magagandang bagay.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886406"
+    },
+    {
+      "english": "Today, choose peace, and love wins.",
+      "filipino": "Ngayon, piliin ang kapayapaan, panalo ang pag-ibig.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886409"
+    },
+    {
+      "english": "Gentle words, they heal faster than silence.",
+      "filipino": "Malalambing na salita, mas mabilis gumagaling kaysa katahimikan.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886412"
+    },
+    {
+      "english": "I’m proud of you, even for trying.",
+      "filipino": "Ipinagmamalaki kita, kahit sa pagsubok lang.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886416"
+    },
+    {
+      "english": "Wag kang matakot, mahal kita, lalaban tayo.",
+      "filipino": "Huwag kang matakot, mahal kita, lalaban tayo.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886419"
+    },
+    {
+      "english": "Your feelings matter, I’m listening, always.",
+      "filipino": "Mahalaga ang nararamdaman mo, nakikinig ako, palagi.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886422"
+    },
+    {
+      "english": "Love isn’t perfect, it’s consistent, that’s power.",
+      "filipino": "Ang pag-ibig ay hindi perpekto, consistent, iyon ang lakas.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886426"
+    },
+    {
+      "english": "You make my mind feel safe.",
+      "filipino": "Pinapakalma mo ang isip ko, parang ligtas.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886429"
+    },
+    {
+      "english": "Let’s be patient, love takes time.",
+      "filipino": "Maging matiyaga tayo, ang pag-ibig kumukuha ng oras.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886432"
+    },
+    {
+      "english": "I believe you’ll figure it out, together.",
+      "filipino": "Naniniwala ako, kakayanin mo, magkasama tayo.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886436"
+    },
+    {
+      "english": "Small steps count, and I notice them.",
+      "filipino": "Bawat hakbang, kahit maliit, napapansin ko.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886439"
+    },
+    {
+      "english": "You’re worth loving, today and always.",
+      "filipino": "Karapat-dapat kang mahalin, ngayon at palagi.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886442"
+    },
+    {
+      "english": "I’ll cheer you on, no pressure, just love.",
+      "filipino": "Aalalayan kita, walang pressure, love lang.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886446"
+    },
+    {
+      "english": "Trust me, your best is coming closer.",
+      "filipino": "Magtiwala ka, lalapit ang pinakamaganda mong araw.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886449"
+    },
+    {
+      "english": "Focus on us, not on fear.",
+      "filipino": "Mag-focus tayo sa atin, hindi sa takot.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886452"
+    },
+    {
+      "english": "Be brave, I’ve got your back, always.",
+      "filipino": "Maging matapang, andiyan ako para sa’yo, palagi.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886455"
+    },
+    {
+      "english": "Even after mistakes, love can rebuild.",
+      "filipino": "Kahit may pagkakamali, mabubuo muli ang pag-ibig.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886458"
+    },
+    {
+      "english": "Choose gratitude, love feels lighter that way.",
+      "filipino": "Magpasalamat ka, mas gumagaan ang pag-ibig.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886461"
+    },
+    {
+      "english": "Your smile is my strongest reassurance.",
+      "filipino": "Yong ngiti mo, pinakamalakas na sigurado.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886464"
+    },
+    {
+      "english": "We can restart, love doesn’t keep score.",
+      "filipino": "Pwede tayong magsimula ulit, ang pag-ibig hindi nagbibilang.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886467"
+    },
+    {
+      "english": "Don’t shrink, your love deserves space to grow.",
+      "filipino": "Huwag lumiit, deserve ng pagmamahal mo ang puwang.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886471"
+    },
+    {
+      "english": "I’m here, steady love beats overthinking.",
+      "filipino": "Nandito ako, steady na pag-ibig ang katapat ng overthinking.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886474"
+    },
+    {
+      "english": "Say what you feel, I’ll hold the moment.",
+      "filipino": "Sabihin mo kung ano ang nararamdaman mo, hahawakan ko ang sandali.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886479"
+    },
+    {
+      "english": "You’re not alone, love travels with you.",
+      "filipino": "Hindi ka nag-iisa, kasama mo ang pag-ibig.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886482"
+    },
+    {
+      "english": "Your effort makes me soften, quietly.",
+      "filipino": "Yong pagsisikap mo, pinapalambot ako, tahimik.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886485"
+    },
+    {
+      "english": "Believe us, love gets better with practice.",
+      "filipino": "Maniwala ka sa atin, pag-ibig gumaganda sa pagsasanay.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886488"
+    },
+    {
+      "english": "Relax, we’ll talk it through, step by step.",
+      "filipino": "Relax lang, pag-uusapan natin, step by step.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886494"
+    },
+    {
+      "english": "I’m sorting my thoughts, stay with me.",
+      "filipino": "Inaayos ko pa ang mga iniisip ko, stay ka lang.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886497"
+    },
+    {
+      "english": "I miss you, but I won’t rush healing.",
+      "filipino": "Namimiss kita, pero hindi ko ipapadali ang paggaling.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886501"
+    },
+    {
+      "english": "Sometimes I get quiet, I’m just feeling.",
+      "filipino": "Minsan tahimik ako, ramdam ko lang.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886506"
+    },
+    {
+      "english": "Let’s be real, I’m scared to lose us.",
+      "filipino": "Maging totoo tayo, natatakot akong mawala tayo.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886510"
+    },
+    {
+      "english": "I appreciate you, even on the ordinary days.",
+      "filipino": "Salamat sa’yo, kahit sa mga simple days.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886513"
+    },
+    {
+      "english": "I want to understand you, not just respond.",
+      "filipino": "Gusto kong maintindihan ka, hindi lang sumagot.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886516"
+    },
+    {
+      "english": "My heart softens, when you choose kindness.",
+      "filipino": "Lumalambot ang puso ko, kapag pinili mo ang kabaitan.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886519"
+    },
+    {
+      "english": "I’m learning, love takes practice, not perfection.",
+      "filipino": "Natutuwa akong natututo, ang pag-ibig, may practice, hindi perfect.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886523"
+    },
+    {
+      "english": "If I pause, it’s because I care.",
+      "filipino": "Kapag nag-papause ako, kasi pakialam ko ’yon.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886526"
+    },
+    {
+      "english": "I’m honest, I need your steady presence.",
+      "filipino": "Aaminin ko, kailangan ko ang presensya mo na stable.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886529"
+    },
+    {
+      "english": "Your words hit deep, thank you for meaning.",
+      "filipino": "Tumama sa puso ko ang sinabi mo, salamat sa totoo.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886532"
+    },
+    {
+      "english": "I don’t want drama, I want clarity and calm.",
+      "filipino": "Ayokong puro drama, gusto ko ng malinaw at mahinahon.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886536"
+    },
+    {
+      "english": "I’m proud of how you keep showing up.",
+      "filipino": "I’m proud sa paraan kung paano ka patuloy.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886539"
+    },
+    {
+      "english": "Sometimes I overthink, then you ground me.",
+      "filipino": "Minsan nag-o-overthink ako, pero ikaw ang nagpapakalma.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886542"
+    },
+    {
+      "english": "I choose patience, even when I’m tempted.",
+      "filipino": "Pinipili ko ang pasensya, kahit gusto ko agad sumagot.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886545"
+    },
+    {
+      "english": "I don’t expect perfect, I expect effort.",
+      "filipino": "Hindi ako nag-e-expect ng perfect, effort ang gusto ko.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886548"
+    },
+    {
+      "english": "When you listen, I feel understood inside.",
+      "filipino": "Kapag nakikinig ka, naiintindihan ko sarili ko.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886551"
+    },
+    {
+      "english": "I’m keeping my standards, but staying gentle.",
+      "filipino": "Iniingatan ko ang standards ko, pero nananatiling malumanay.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886554"
+    },
+    {
+      "english": "I forgive fast, but I learn slowly.",
+      "filipino": "Mabilis akong magpatawad, pero dahan-dahan akong natututo.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886557"
+    },
+    {
+      "english": "Let’s talk again, when hearts are ready.",
+      "filipino": "Mag-usap tayo ulit, kapag handa na ang puso.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886560"
+    },
+    {
+      "english": "I want your truth, even if it hurts.",
+      "filipino": "Gusto ko ang totoo mo, kahit masakit.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886563"
+    },
+    {
+      "english": "My love grows, when we face it together.",
+      "filipino": "Lumalaki ang pag-ibig ko, kapag hinaharap natin magkasama.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886566"
+    },
+    {
+      "english": "I’m trying to be kinder, not louder.",
+      "filipino": "Pinipilit kong maging mas mabait, hindi masyadong malakas.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886572"
+    },
+    {
+      "english": "Your patience makes my fears smaller.",
+      "filipino": "Ginagawang mas maliit ang takot ko, sa patience mo.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886574"
+    },
+    {
+      "english": "I’m not perfect, but I’m consistent with love.",
+      "filipino": "Hindi man ako perfect, pero consistent ako sa pag-ibig.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886578"
+    },
+    {
+      "english": "I’ll take it slow, love doesn’t need rush.",
+      "filipino": "Dahan-dahan tayo, ang pag-ibig, hindi kailangan ng pagmamadali.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886581"
+    },
+    {
+      "english": "When I feel safe, I can speak better.",
+      "filipino": "Kapag ligtas ang loob ko, mas maayos akong nagsasalita.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886584"
+    },
+    {
+      "english": "I’m choosing us, even through hard mornings.",
+      "filipino": "Pinipili ko tayo, kahit sa mahihirap na umaga.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886608"
+    },
+    {
+      "english": "Tell me what you need, I’ll adjust.",
+      "filipino": "Sabihin mo kung ano ang kailangan mo, aakma ako.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886612"
+    },
+    {
+      "english": "I’m holding the good, and letting go of blame.",
+      "filipino": "Hinahawakan ko ang mabuti, at binibitawan ang sisihan.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886615"
+    },
+    {
+      "english": "Text me first, so I don’t guess.",
+      "filipino": "Mag-message ka muna, para di ako maghuhula.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886619"
+    },
+    {
+      "english": "Before you leave, kiss me, just once.",
+      "filipino": "Bago ka umalis, halikan mo ako, kahit minsan.",
+      "category": "Love",
+      "generated_at": "2026-11-07T09:31:06.886622"
     }
   ],
-  "last_updated": "2026-11-06T10:15:38.651723"
+  "last_updated": "2026-11-07T09:31:06.886624"
 }
