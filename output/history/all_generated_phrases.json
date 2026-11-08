@@ -15119,7 +15119,727 @@
       "filipino": "Bago ka umalis, halikan mo ako, kahit minsan.",
       "category": "Love",
       "generated_at": "2026-11-07T09:31:06.886622"
+    },
+    {
+      "english": "Excuse me, where is the nearest bank?",
+      "filipino": "Paumanhin, nasaan ang pinakamalapit na bangko?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165869"
+    },
+    {
+      "english": "Hi, do you know how to get there?",
+      "filipino": "Uy, alam mo ba kung paano pumunta roon?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165885"
+    },
+    {
+      "english": "Sorry, can you point me to City Hall?",
+      "filipino": "Pasensya na, matuturo mo ba ang City Hall?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165889"
+    },
+    {
+      "english": "Quick question, how far is the mall?",
+      "filipino": "Saglit lang, gaano kalayo ang mall?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165892"
+    },
+    {
+      "english": "Where do I ride a jeepney to downtown?",
+      "filipino": "Saan ako sasakay ng jeep papuntang downtown?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165894"
+    },
+    {
+      "english": "Can you tell me the way, please?",
+      "filipino": "Pwede mo bang sabihin sa akin ang daan, pakiusap?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165897"
+    },
+    {
+      "english": "I’m lost, where should I go next?",
+      "filipino": "Nawala ako, saan ako pupunta next?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165901"
+    },
+    {
+      "english": "Thanks, what street is this exactly?",
+      "filipino": "Salamat, anong kalye ito mismo?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165907"
+    },
+    {
+      "english": "Do you know if it’s near here?",
+      "filipino": "Alam mo kung malapit lang dito?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165912"
+    },
+    {
+      "english": "Wait, is that the road to the station?",
+      "filipino": "Sandali, iyon ba ang daan papunta sa istasyon?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165915"
+    },
+    {
+      "english": "How much farther, roughly, to the church?",
+      "filipino": "Gaano pa kalayo, mga ilang minuto, sa simbahan?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165918"
+    },
+    {
+      "english": "Which way is north, from here?",
+      "filipino": "Saan ang north, simula rito?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165921"
+    },
+    {
+      "english": "Do I walk, or should I take a tricycle?",
+      "filipino": "Maglalakad ba ako, o sasakay na lang ng tricycle?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165926"
+    },
+    {
+      "english": "Sorry, I need help getting to the pharmacy.",
+      "filipino": "Pasensya na, kailangan ko ng tulong sa botika.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165929"
+    },
+    {
+      "english": "Excuse me, what time does it open?",
+      "filipino": "Paumanhin, anong oras ito nagbubukas?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165931"
+    },
+    {
+      "english": "Is there a landmark nearby, like a school?",
+      "filipino": "May landmark ba malapit, tulad ng paaralan?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165934"
+    },
+    {
+      "english": "Great, so it’s just around the corner.",
+      "filipino": "Ayos, nasa kanto lang pala.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165937"
+    },
+    {
+      "english": "Oh, I see, how do I turn there?",
+      "filipino": "Ay, gets ko, paano ako liliko roon?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165940"
+    },
+    {
+      "english": "Please, can you repeat that direction?",
+      "filipino": "Pakiulit, maaari mo bang ulitin ang direksyon?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165943"
+    },
+    {
+      "english": "Sorry, I didn’t catch the street name.",
+      "filipino": "Pasensya na, hindi ko naintindihan ang pangalan ng kalye.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165947"
+    },
+    {
+      "english": "Can I get there by foot, roughly?",
+      "filipino": "Aabot ba ako pag on foot, mga gano’n?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165950"
+    },
+    {
+      "english": "Which bus stops near the hospital?",
+      "filipino": "Aling bus ang humihinto malapit sa ospital?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165952"
+    },
+    {
+      "english": "Thanks a lot, you’re a big help!",
+      "filipino": "Maraming salamat, malaking tulong ka!",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165956"
+    },
+    {
+      "english": "Wait, what if I miss the turn?",
+      "filipino": "Sandali, paano kung ma-miss ko yung liko?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165959"
+    },
+    {
+      "english": "Can you guide me, like, step by step?",
+      "filipino": "Maaari mo ba akong gabayan, sunod-sunod?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165962"
+    },
+    {
+      "english": "Just to confirm, left or right here?",
+      "filipino": "Para ma-confirm, kaliwa o kanan dito?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165965"
+    },
+    {
+      "english": "What’s the fastest way from here?",
+      "filipino": "Ano ang pinakamabilis na daan mula rito?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165968"
+    },
+    {
+      "english": "Okay, I got it, I’ll follow that.",
+      "filipino": "Sige, gets ko, susunod ako.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165972"
+    },
+    {
+      "english": "Quick favor, what’s the nearest bus stop?",
+      "filipino": "Quick favor, saan ang pinakamalapit na bus stop?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165978"
+    },
+    {
+      "english": "Can I ask, where’s the terminal entrance?",
+      "filipino": "Pwede ba akong magtanong, nasaan ang pasukan ng terminal?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165981"
+    },
+    {
+      "english": "Do I go straight, or turn first?",
+      "filipino": "Diretso lang ba, o dapat muna akong lumiko?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165984"
+    },
+    {
+      "english": "Is this the right route to the airport?",
+      "filipino": "Tama ba ito na daan papunta sa airport?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165987"
+    },
+    {
+      "english": "What’s the quickest route at this time?",
+      "filipino": "Ano ang pinakamabilis na daan ngayon?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165990"
+    },
+    {
+      "english": "Is there a shortcut through the market area?",
+      "filipino": "May shortcut ba dumaan sa parteng palengke?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165993"
+    },
+    {
+      "english": "How do locals usually get there from here?",
+      "filipino": "Paano karaniwang pumupunta ang locals dito?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.165996"
+    },
+    {
+      "english": "If I take a jeep, which line is it?",
+      "filipino": "Kung sasakay ako ng jeep, anong ruta o linya iyon?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166001"
+    },
+    {
+      "english": "Can you recommend a safe ride option?",
+      "filipino": "Makakapag-recommend ka ba ng ligtas na sakayan?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166004"
+    },
+    {
+      "english": "Where should I get off to walk less?",
+      "filipino": "Saan ako dapat bumaba para mas konti ang lakad?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166006"
+    },
+    {
+      "english": "Which landmarks should I watch for along the way?",
+      "filipino": "Anong mga landmark ang dapat kong abangan?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166009"
+    },
+    {
+      "english": "Is there a tricycle stand near the intersection?",
+      "filipino": "May hintayan ba ng tricycle malapit sa kanto?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166011"
+    },
+    {
+      "english": "Do you know any nearby ATMs from here?",
+      "filipino": "Alam mo ba kung may malapit na ATM dito?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166014"
+    },
+    {
+      "english": "What’s the usual travel time, roughly?",
+      "filipino": "Gaano katagal, tinatayang, yung byahe?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166018"
+    },
+    {
+      "english": "Should I avoid this street, or it’s fine?",
+      "filipino": "Iwasan ko ba itong kalye, o okay lang?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166021"
+    },
+    {
+      "english": "Can you tell me where the road splits?",
+      "filipino": "Saan yung part na naghihiwalay ang daan?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166024"
+    },
+    {
+      "english": "Is there a chapel nearby on this route?",
+      "filipino": "May simbahan o kapilya ba malapit sa daan na ito?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166026"
+    },
+    {
+      "english": "How many turns are we expecting from here?",
+      "filipino": "Ilang liko kaya ang aabutin mula dito?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166029"
+    },
+    {
+      "english": "Can I follow this road straight until then?",
+      "filipino": "Dumiretso lang ba ako sa kalsadang ito papunta doon?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166031"
+    },
+    {
+      "english": "What’s the best landmark to use as guide?",
+      "filipino": "Ano yung pinakamagandang landmark na pagbasehan?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166034"
+    },
+    {
+      "english": "Do you have a map recommendation, app-wise?",
+      "filipino": "May mairerecommend ka bang app o mapa?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166038"
+    },
+    {
+      "english": "Where’s a good place to wait for transport?",
+      "filipino": "Saan magandang lugar maghintay ng masasakyan?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166041"
+    },
+    {
+      "english": "Is this walkable, or better by tricycle?",
+      "filipino": "Mapupuntahan ba ito sa paglalakad, o mas okay tricycle?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166044"
+    },
+    {
+      "english": "What’s the one turn I shouldn’t miss?",
+      "filipino": "Ano yung iisang liko na hindi dapat makaligtaan?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166047"
+    },
+    {
+      "english": "Are there any traffic bottlenecks on the way?",
+      "filipino": "May traffic ba na parang bottleneck sa daan?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166049"
+    },
+    {
+      "english": "If it’s raining, what route is easier?",
+      "filipino": "Kapag umuulan, ano yung mas madaling daanan?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166052"
+    },
+    {
+      "english": "How do I get closer, step by step?",
+      "filipino": "Paano ako makakalapit, sunod-sunod ba?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166055"
+    },
+    {
+      "english": "Would you mind checking if this is correct?",
+      "filipino": "Pwede mo bang i-check kung tama ito?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166057"
+    },
+    {
+      "english": "What’s your advice for saving time today?",
+      "filipino": "Ano ang advice mo para makatipid ng oras ngayon?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166060"
+    },
+    {
+      "english": "Thanks, I’ll try your suggested route now.",
+      "filipino": "Salamat, susubukan ko muna yung route na sinabi mo.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166066"
+    },
+    {
+      "english": "No pressure, just follow what you see.",
+      "filipino": "Walang pressure, sundan mo lang ang nakikita mo.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166069"
+    },
+    {
+      "english": "You’ve got this, ask one more time.",
+      "filipino": "Kaya mo yan, magtanong ka ulit.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166075"
+    },
+    {
+      "english": "Take a breath, then ask clearly, please.",
+      "filipino": "Huminga muna, tapos tanong nang malinaw.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166078"
+    },
+    {
+      "english": "Small steps now, you’ll get there.",
+      "filipino": "Maliit na hakbang ngayon, mararating mo rin.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166082"
+    },
+    {
+      "english": "Stay calm, routes make more sense.",
+      "filipino": "Manatiling kalmado, mas nagiging malinaw ang daan.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166085"
+    },
+    {
+      "english": "Trust your map, then confirm nearby signs.",
+      "filipino": "Tiwala sa mapa, tapos i-check ang mga sign.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166087"
+    },
+    {
+      "english": "If you get lost, that’s okay, re-ask.",
+      "filipino": "Kapag naligaw, okay lang, ulit magtanong.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166091"
+    },
+    {
+      "english": "Let’s take it slow, then decide.",
+      "filipino": "Dahan-dahan lang tayo, tapos magdedesisyon.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166094"
+    },
+    {
+      "english": "Ask for landmarks, they’ll guide you.",
+      "filipino": "Magtanong ka ng landmark, gagabay ’yan sa’yo.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166100"
+    },
+    {
+      "english": "You’re not behind, you’re figuring it out.",
+      "filipino": "Hindi ka nahuhuli, pinaproseso mo lang.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166104"
+    },
+    {
+      "english": "Go ahead, point me to the correct turn.",
+      "filipino": "Sige, ituro mo kung saan ang tamang kanto.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166107"
+    },
+    {
+      "english": "Kindly tell me the nearest reference spot.",
+      "filipino": "Pakiusap, sabihin mo ang pinakamalapit na reference.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166110"
+    },
+    {
+      "english": "Good vibes, one turn at a time.",
+      "filipino": "Good vibes, isang kanto muna.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166112"
+    },
+    {
+      "english": "I appreciate it, your help really matters.",
+      "filipino": "Maraming salamat, malaking tulong nito.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166115"
+    },
+    {
+      "english": "If unsure, ask again, no worries.",
+      "filipino": "Kapag di sigurado, magtanong ulit, walang problema.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166118"
+    },
+    {
+      "english": "You’ll learn faster by practicing today.",
+      "filipino": "Mas mabilis kang matututo, practice ngayon.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166122"
+    },
+    {
+      "english": "Please, I’m trying, just guide me kindly.",
+      "filipino": "Pakiusap, sinusubukan ko lang, gabayan mo ako.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166126"
+    },
+    {
+      "english": "Let me double-check, what’s the street landmark?",
+      "filipino": "Para ma-double check, ano ang landmark sa kalsada?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166130"
+    },
+    {
+      "english": "I’m ready, tell me the next step.",
+      "filipino": "Handa ako, ano ang next na step?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166134"
+    },
+    {
+      "english": "Thanks in advance, I’ll follow your directions.",
+      "filipino": "Salamat nang maaga, susunod ako sa sasabihin mo.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166137"
+    },
+    {
+      "english": "You’re doing fine, even small progress counts.",
+      "filipino": "Okay lang, kahit konting progreso, malaking bagay.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166141"
+    },
+    {
+      "english": "Before I turn, confirm this corner, please.",
+      "filipino": "Bago ako lumiko, pakiconfirm itong kanto.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166143"
+    },
+    {
+      "english": "Just tell me where I should stand.",
+      "filipino": "Sabihin mo lang kung saan ako dapat tumayo.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166146"
+    },
+    {
+      "english": "Keep it simple, which way should I go?",
+      "filipino": "Gawing simple, alin ang dapat kong puntahan?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166149"
+    },
+    {
+      "english": "I’m learning, forgive me if I ask twice.",
+      "filipino": "Natututo pa ako, sorry kung nagtatanong ulit.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166154"
+    },
+    {
+      "english": "You’ve got direction, your focus will help.",
+      "filipino": "May direksyon ka na, tutulungan ka ng focus.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166157"
+    },
+    {
+      "english": "Let’s go, I’ll remember your landmark tip.",
+      "filipino": "Sige, tatandaan ko yung landmark na sinabe mo.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166161"
+    },
+    {
+      "english": "No stress, I’ll adjust, thanks for guiding.",
+      "filipino": "Walang stress, ia-adjust ko, salamat sa paggabay.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166164"
+    },
+    {
+      "english": "I feel nervous, can you guide me gently, please?",
+      "filipino": "Nerbiyos ako, puwede mo ba akong gabayan nang malumanay, please?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166167"
+    },
+    {
+      "english": "I’m a bit unsure, what’s the safest route, today?",
+      "filipino": "Medyo hindi ako sure, ano ang pinakaligtas na daan, ngayon?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166171"
+    },
+    {
+      "english": "Honestly, I get lost fast, can you repeat kindly?",
+      "filipino": "Totoo, mabilis akong maligaw, puwede bang ulitin mo nang maayos?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166174"
+    },
+    {
+      "english": "I really want to arrive on time, what way?",
+      "filipino": "Gusto ko talagang makaabot sa oras, saan ang daan?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166177"
+    },
+    {
+      "english": "My heart’s racing, just point me the right direction.",
+      "filipino": "Kumakabog ang dibdib ko, ituro mo lang ang tamang direksyon.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166181"
+    },
+    {
+      "english": "I’m trying my best, can we confirm the turns?",
+      "filipino": "Pinapakasikapan ko, pwede nating i-confirm ang mga liko?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166187"
+    },
+    {
+      "english": "Please be patient, I learn better with landmarks.",
+      "filipino": "Pasensya ka na, mas natututo ako sa mga landmark.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166190"
+    },
+    {
+      "english": "I’m not rushing, tell me calmly what comes next.",
+      "filipino": "Hindi ako nagmamadali, sabihin mo nang mahinahon, ano ang susunod.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166193"
+    },
+    {
+      "english": "I keep overthinking, where should I start looking?",
+      "filipino": "Napapaisip ako nang sobra, saan ako dapat magsimula tumingin?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166196"
+    },
+    {
+      "english": "I trust you, just guide me toward the main road.",
+      "filipino": "Tiwala ako sa’yo, gabayan mo ako papunta sa pangunahing kalsada.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166199"
+    },
+    {
+      "english": "Let me breathe first, where do I turn after this?",
+      "filipino": "Hinga muna ako, saan ako liliko pagkatapos nito?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166202"
+    },
+    {
+      "english": "I’m feeling shy, can I ask one simple question?",
+      "filipino": "Nahihiya ako, puwede ba akong magtanong ng simple lang?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166205"
+    },
+    {
+      "english": "I want it clear, what’s the nearest entrance route?",
+      "filipino": "Gusto ko malinaw, alin ang pinakamalapit na daanan papasok?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166209"
+    },
+    {
+      "english": "I appreciate honesty, should I go left or right?",
+      "filipino": "Pinahahalagahan ko ang katapatan, kaliwa ba o kanan?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166212"
+    },
+    {
+      "english": "I’m scared of missing it, which side should I watch?",
+      "filipino": "Takot akong makaligtaan, saang side ako dapat magbantay?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166215"
+    },
+    {
+      "english": "I’m trying to stay focused, what’s the landmark cue?",
+      "filipino": "Gusto kong manatiling focused, ano ang cue na landmark?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166221"
+    },
+    {
+      "english": "If I pause, it’s just me gathering courage.",
+      "filipino": "Kung humihinto ako, nagtitipon lang ako ng loob.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166224"
+    },
+    {
+      "english": "I don’t want to bother you, but can you point?",
+      "filipino": "Ayoko istorbohin ka, pero puwede mo akong ituro?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166228"
+    },
+    {
+      "english": "I’ll follow your pace, what’s the next checkpoint?",
+      "filipino": "Susunod ako sa bilis mo, ano ang susunod na checkpoint?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166231"
+    },
+    {
+      "english": "I keep checking my phone, can we do this slower?",
+      "filipino": "Lagi kong tinitingnan phone, puwede bang mas dahan-dahan tayo?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166234"
+    },
+    {
+      "english": "My gut says go straight, but I need confirmation.",
+      "filipino": "Sinasabi ng pakiramdam ko na diretso, pero kailangan ko ng kumpirmasyon.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166237"
+    },
+    {
+      "english": "I’m nervous, tell me what to watch for near there.",
+      "filipino": "Nerbiyos ako, ano ang dapat kong bantayan pagdating doon?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166240"
+    },
+    {
+      "english": "I want the smooth way, what’s your easiest suggestion?",
+      "filipino": "Gusto ko yung smooth, ano ang pinaka-easy na suggestion mo?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166243"
+    },
+    {
+      "english": "I’m taking my time, is there a quieter shortcut?",
+      "filipino": "Dahan-dahan lang ako, may mas tahimik bang shortcut?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166247"
+    },
+    {
+      "english": "I feel better when you explain the reason, why there?",
+      "filipino": "Gumagaan pakiramdam ko kapag ipinaliwanag mo kung bakit, bakit doon?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166249"
+    },
+    {
+      "english": "I’m trying not to panic, what’s the calm backup route?",
+      "filipino": "Pinipigilan ko ang panic, ano ang calm na backup na daan?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166253"
+    },
+    {
+      "english": "I respect your help, can we confirm the final direction?",
+      "filipino": "Pinahahalagahan ko ang tulong mo, paki-confirm ang final na direksyon.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166256"
+    },
+    {
+      "english": "I’m a slow learner, can you describe it simply?",
+      "filipino": "Mabagal akong matuto, pwedeng simple lang ang description mo?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166259"
+    },
+    {
+      "english": "I won’t get mad, just correct me if wrong.",
+      "filipino": "Hindi ako magagalit, itama mo lang kung mali ako.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166262"
+    },
+    {
+      "english": "Thanks, I’ll trust you, guide me through this safely.",
+      "filipino": "Salamat, tiwala ako sa’yo, gabayan mo akong ligtas sa daan na ito.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166265"
+    },
+    {
+      "english": "How do I get to the bus stop?",
+      "filipino": "Paano ako makakapunta sa bus stop?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166268"
+    },
+    {
+      "english": "At the corner, turn left, okay?",
+      "filipino": "Sa kanto, liko pakaliwa, okay?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166271"
+    },
+    {
+      "english": "Can you point out that street, please?",
+      "filipino": "Maaari mo ba ituro ang kalye na iyon?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166274"
+    },
+    {
+      "english": "What landmark is closest to the entrance?",
+      "filipino": "Ano ang pinakamalapit na landmark sa pasukan?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-08T09:46:59.166276"
     }
   ],
-  "last_updated": "2026-11-07T09:31:06.886624"
+  "last_updated": "2026-11-08T09:46:59.166278"
 }
