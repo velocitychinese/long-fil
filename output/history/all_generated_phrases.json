@@ -15839,7 +15839,727 @@
       "filipino": "Ano ang pinakamalapit na landmark sa pasukan?",
       "category": "Asking for Directions",
       "generated_at": "2026-11-08T09:46:59.166276"
+    },
+    {
+      "english": "Breathe first, you’ve got this",
+      "filipino": "Huminga muna, kaya mo yan",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475227"
+    },
+    {
+      "english": "Pause, think, then reply calmly",
+      "filipino": "Sandali, isip, saka sumagot nang mahinahon",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475239"
+    },
+    {
+      "english": "It’s okay, reset and try again",
+      "filipino": "Okay lang, i-reset mo ulit",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475243"
+    },
+    {
+      "english": "Nice catch, keep improving today",
+      "filipino": "Magaling, ipagpatuloy ang pagbuti ngayon",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475247"
+    },
+    {
+      "english": "Good job, that’s progress",
+      "filipino": "Magaling, iyan ay pag-usad",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475250"
+    },
+    {
+      "english": "Slow down, you’re rushing",
+      "filipino": "Dahan-dahan, nagmamadali ka",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475253"
+    },
+    {
+      "english": "Tell me more, I’m listening",
+      "filipino": "Kwento mo pa, nakikinig ako",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475259"
+    },
+    {
+      "english": "I got you, we’ll figure it out",
+      "filipino": "Gets kita, aayusin natin",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475264"
+    },
+    {
+      "english": "Don’t overthink it, just act",
+      "filipino": "Huwag masyadong isipin, kumilos ka na",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475268"
+    },
+    {
+      "english": "Great, start small, stay consistent",
+      "filipino": "Sige, maliit muna, tuloy-tuloy",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475271"
+    },
+    {
+      "english": "Let’s go, one step at a time",
+      "filipino": "Tara, isang hakbang muna",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475275"
+    },
+    {
+      "english": "Wait, I need a moment",
+      "filipino": "Sandali lang, kailangan ko ng saglit",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475278"
+    },
+    {
+      "english": "Good point, I’ll reflect on that",
+      "filipino": "Tama, pag-iisipan ko yan",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475281"
+    },
+    {
+      "english": "I’ll try, even if it’s messy",
+      "filipino": "Susubukan ko, kahit magulo",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475284"
+    },
+    {
+      "english": "Be proud, progress counts",
+      "filipino": "Mag-ingat ka, progreso yan",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475287"
+    },
+    {
+      "english": "No worries, we’ll recover fast",
+      "filipino": "Wala lang, babawi tayo agad",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475290"
+    },
+    {
+      "english": "Respect the process, don’t quit",
+      "filipino": "Igagalang ang proseso, huwag sumuko",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475293"
+    },
+    {
+      "english": "I’m focused now, thanks for checking",
+      "filipino": "Naka-focus na ako, salamat",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475296"
+    },
+    {
+      "english": "How’s your day going, really?",
+      "filipino": "Kumusta ang araw mo, totoo?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475299"
+    },
+    {
+      "english": "Honestly, I needed that",
+      "filipino": "To be honest, kailangan ko ‘yan",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475302"
+    },
+    {
+      "english": "I appreciate you, that helps a lot",
+      "filipino": "Salamat, malaking tulong ‘yan",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475304"
+    },
+    {
+      "english": "Keep it simple, just start",
+      "filipino": "Gawin nating simple, simulan mo lang",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475307"
+    },
+    {
+      "english": "I’ll do my part, step by step",
+      "filipino": "Gagawin ko, hakbang-hakbang",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475309"
+    },
+    {
+      "english": "Say less, let’s make progress",
+      "filipino": "Konti lang, usad tayo",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475314"
+    },
+    {
+      "english": "What’s the next small win?",
+      "filipino": "Ano ang susunod na maliit na tagumpay?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475317"
+    },
+    {
+      "english": "I’m learning, mistakes are normal",
+      "filipino": "Natuto ako, normal lang ang mistake",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475320"
+    },
+    {
+      "english": "That’s a reminder, I’ll adjust",
+      "filipino": "Reminder ‘yan, aayusin ko",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475325"
+    },
+    {
+      "english": "Let’s reset, tomorrow will be better",
+      "filipino": "I-reset natin, bukas mas okay",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475328"
+    },
+    {
+      "english": "Be kind to yourself, keep going",
+      "filipino": "Maging mabait sa sarili, tuloy lang",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475331"
+    },
+    {
+      "english": "Can I ask, what motivates you most?",
+      "filipino": "Pwede ba akong magtanong, ano ang pinaka-motivate sa’yo?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475334"
+    },
+    {
+      "english": "How do you stay consistent, when tired?",
+      "filipino": "Paano ka nagiging consistent, kahit pagod?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475337"
+    },
+    {
+      "english": "What should I focus on, first?",
+      "filipino": "Sa ano ako dapat mag-focus, muna?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475340"
+    },
+    {
+      "english": "Do you have advice, for handling stress?",
+      "filipino": "May advice ka ba, sa pag-handle ng stress?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475343"
+    },
+    {
+      "english": "Can we talk about your habit goals?",
+      "filipino": "Pwede tayong mag-usap, tungkol sa goals mong habits?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475346"
+    },
+    {
+      "english": "What’s one thing you’ll change this week?",
+      "filipino": "Ano ang isang bagay, babaguhin mo ngayong linggo?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475349"
+    },
+    {
+      "english": "How can I improve, without burning out?",
+      "filipino": "Paano ko mapapaganda ang sarili, nang hindi napapagod?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475352"
+    },
+    {
+      "english": "What does “good progress” look like?",
+      "filipino": "Ano ba ang itsura ng “good progress” sa’yo?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475355"
+    },
+    {
+      "english": "Can you tell me, what worked before?",
+      "filipino": "Pwede mo akong sabihin, ano ang gumana noon?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475358"
+    },
+    {
+      "english": "When you slip, what do you do next?",
+      "filipino": "Kapag nadi-delay ka, ano ang gagawin mo susunod?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475361"
+    },
+    {
+      "english": "What’s your plan, for tonight’s focus?",
+      "filipino": "Ano ang plan mo, para sa focus ngayong gabi?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475370"
+    },
+    {
+      "english": "How do you ask for help, politely?",
+      "filipino": "Paano ka humihingi ng tulong, nang maayos?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475372"
+    },
+    {
+      "english": "Is this a good time to check in?",
+      "filipino": "Okay ba ngayon, para mag-check in tayo?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475375"
+    },
+    {
+      "english": "What’s stopping you, right now?",
+      "filipino": "Ano ang pumipigil sa’yo, ngayon?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475378"
+    },
+    {
+      "english": "Can I get your honest feedback, please?",
+      "filipino": "Pwede ko bang makuha ang honest mong feedback, please?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475381"
+    },
+    {
+      "english": "Which habit is hardest, for you?",
+      "filipino": "Aling habit ang pinakamahirap, para sa’yo?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475383"
+    },
+    {
+      "english": "How do you handle negative thoughts?",
+      "filipino": "Paano mo hinahandle ang mga negatibong iniisip?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475386"
+    },
+    {
+      "english": "What’s your daily routine, in simple terms?",
+      "filipino": "Ano ang routine mo araw-araw, sa madaling salita?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475389"
+    },
+    {
+      "english": "Do you journal, or do you prefer notes?",
+      "filipino": "Nagjo-journal ka ba, o mas gusto mo ang notes?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475391"
+    },
+    {
+      "english": "Where do you find motivation, lately?",
+      "filipino": "Saan ka nakakakuha ng motivation, lately?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475394"
+    },
+    {
+      "english": "Can we set a small goal together?",
+      "filipino": "Pwede ba tayong mag-set ng maliit na goal?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475396"
+    },
+    {
+      "english": "What kind of support helps you most?",
+      "filipino": "Anong klaseng support ang pinaka-tumutulong sa’yo?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475399"
+    },
+    {
+      "english": "How do you fix your mindset, fast?",
+      "filipino": "Paano mo inaayos ang mindset mo, mabilis?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475401"
+    },
+    {
+      "english": "Can you explain that, in a simpler way?",
+      "filipino": "Pwede mo bang ipaliwanag, sa mas simple?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475404"
+    },
+    {
+      "english": "What’s one lesson, you learned the hard way?",
+      "filipino": "Ano ang isang lesson, natutunan mo sa hirap?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475407"
+    },
+    {
+      "english": "Do you plan your day, or just go?",
+      "filipino": "Pinaplano mo ba ang araw mo, o basta ka lang?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475412"
+    },
+    {
+      "english": "How do you celebrate progress, quietly?",
+      "filipino": "Paano mo ni-celebrate ang progress, nang tahimik?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475414"
+    },
+    {
+      "english": "What question should you ask yourself today?",
+      "filipino": "Anong tanong ang dapat mong itanong sa sarili mo ngayon?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475417"
+    },
+    {
+      "english": "Can we review what went well, today?",
+      "filipino": "Pwede ba nating i-review, kung ano ang naging okay ngayon?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475420"
+    },
+    {
+      "english": "Start proud, even before you finish",
+      "filipino": "Magsimula nang may tapang, kahit di pa tapos",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475422"
+    },
+    {
+      "english": "Praise your effort, not just the result",
+      "filipino": "Papurihan ang pagsisikap, hindi lang ang kinalabasan",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475425"
+    },
+    {
+      "english": "Your thoughts shape your next move",
+      "filipino": "Ang iniisip mo, humuhubog sa susunod mong kilos",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475427"
+    },
+    {
+      "english": "Stay steady, kahit mabagal ang takbo",
+      "filipino": "Manatiling matatag, kahit mabagal ang galaw",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475430"
+    },
+    {
+      "english": "Be your own hype person, today",
+      "filipino": "Ikaw ang sarili mong lakas, ngayon",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475432"
+    },
+    {
+      "english": "Confidence grows from small, honest wins",
+      "filipino": "Lumalaki ang tiwala, sa maliliit na totoo",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475435"
+    },
+    {
+      "english": "Wrong turns still teach you something",
+      "filipino": "Kahit maling daan, may itinuturo pa rin",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475438"
+    },
+    {
+      "english": "Keep choosing progress over comfort",
+      "filipino": "Piliin mo lagi ang pag-unlad, kaysa ginhawa",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475440"
+    },
+    {
+      "english": "Talk to yourself like you matter",
+      "filipino": "Kaibiganin mo ang sarili mo, dahil mahalaga ka",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475443"
+    },
+    {
+      "english": "Your pace is still a win",
+      "filipino": "Kahit mabagal, panalo pa rin yan",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475445"
+    },
+    {
+      "english": "Believe the effort, not the fear",
+      "filipino": "Maniwala sa pagsisikap, hindi sa takot",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475449"
+    },
+    {
+      "english": "Every day, you’re building stronger habits",
+      "filipino": "Bawat araw, mas pinapatibay ang habits mo",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475452"
+    },
+    {
+      "english": "Be proud of showing up, period",
+      "filipino": "Iproud mo ang pagdalo mo, kahit simple",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475457"
+    },
+    {
+      "english": "Turn doubts into questions, then actions",
+      "filipino": "Gawing tanong ang pagdududa, tapos kumilos",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475459"
+    },
+    {
+      "english": "Small routines, big mindset shifts",
+      "filipino": "Maliliit na routine, malaking pagbabago ng isip",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475462"
+    },
+    {
+      "english": "You can restart, no drama needed",
+      "filipino": "Pwede kang magbukas ulit, walang arte",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475464"
+    },
+    {
+      "english": "Let your discipline speak louder",
+      "filipino": "Pabayaan mong magsalita ang disiplina",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475467"
+    },
+    {
+      "english": "Choose gratitude, watch your energy rise",
+      "filipino": "Pumili ng pasasalamat, tataas ang sigla",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475469"
+    },
+    {
+      "english": "It’s okay to be overwhelmed, breathe",
+      "filipino": "Okay lang mabigla, huminga lang",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475472"
+    },
+    {
+      "english": "Keep promises to yourself, little ones count",
+      "filipino": "Tuparin ang pangako sa sarili, kahit maliit",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475475"
+    },
+    {
+      "english": "Your growth is louder than your past",
+      "filipino": "Mas malakas ang pag-unlad mo kaysa dati",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475477"
+    },
+    {
+      "english": "When you improve, celebrate quietly",
+      "filipino": "Kapag gumaling ka, ipagdiwang nang tahimik",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475480"
+    },
+    {
+      "english": "Replace “I can’t” with “I’m practicing”",
+      "filipino": "Palitan ang “hindi ko kaya” ng “nag-eeensayo ako”",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475483"
+    },
+    {
+      "english": "Stay curious, every setback has a lesson",
+      "filipino": "Manatiling curious, bawat bagsak may aral",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475486"
+    },
+    {
+      "english": "You’re allowed to need time, not excuses",
+      "filipino": "Kailangan mo ng oras, hindi dahilan lang",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475489"
+    },
+    {
+      "english": "Set your mind, then take the next step",
+      "filipino": "Itakda ang isip, tapos gawin ang susunod",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475491"
+    },
+    {
+      "english": "Keep going, future you will thank you",
+      "filipino": "Tuluy-tuloy, salamat sa’yo ng future",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475494"
+    },
+    {
+      "english": "Quietly admit your feelings, no judgment.",
+      "filipino": "Aminin mo nang tahimik ang nararamdaman mo, walang husga.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475496"
+    },
+    {
+      "english": "Name the emotion, then let it pass.",
+      "filipino": "Tukuyin ang emosyon, tapos hayaan itong lumipas.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475499"
+    },
+    {
+      "english": "You don’t need perfect, just honest.",
+      "filipino": "Hindi mo kailangan ng perpekto, kailangan lang ng tapat.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475504"
+    },
+    {
+      "english": "Slow down, breathe, and listen within.",
+      "filipino": "Bagalan mo, huminga, at makinig sa loob mo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475507"
+    },
+    {
+      "english": "It’s okay to feel messy today.",
+      "filipino": "Okay lang maulap o magulo ang pakiramdam mo ngayon.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475510"
+    },
+    {
+      "english": "Reflect first, then decide what to do.",
+      "filipino": "Magmuni-muni muna, tapos magpasya kung ano ang gagawin.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475513"
+    },
+    {
+      "english": "Be gentle with yourself, kahit kapos ka.",
+      "filipino": "Maging mabait sa sarili, kahit kulang o mahirap.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475516"
+    },
+    {
+      "english": "Your progress counts, even when it’s small.",
+      "filipino": "Bilang ang pag-unlad mo, kahit maliit.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475519"
+    },
+    {
+      "english": "When you slip, reset your expectations.",
+      "filipino": "Kapag nadulas ka, i-reset ang expectations mo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475521"
+    },
+    {
+      "english": "I’m allowed to pause, I’m still learning.",
+      "filipino": "Pinapayagan akong tumigil sandali, nag-aaral pa rin ako.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475525"
+    },
+    {
+      "english": "Ask, what do I truly need right now?",
+      "filipino": "Tanungin, ano ba talaga ang kailangan ko ngayon?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475528"
+    },
+    {
+      "english": "Keep it real, your feelings are data.",
+      "filipino": "Maging totoo, ang feelings mo ay parang impormasyon.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475530"
+    },
+    {
+      "english": "Let patience do the heavy lifting.",
+      "filipino": "Hayaan ang pasensya ang gumawa ng mabigat.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475534"
+    },
+    {
+      "english": "Don’t fight your emotions, guide them.",
+      "filipino": "Huwag awayin ang emosyon mo, gabayan mo sila.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475538"
+    },
+    {
+      "english": "Turning inward helps you move smarter.",
+      "filipino": "Kapag tumitingin sa loob, mas matalino kang kumikilos.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475541"
+    },
+    {
+      "english": "If you’re tired, rest is self-respect.",
+      "filipino": "Kung pagod ka, pahinga ay respeto sa sarili.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475545"
+    },
+    {
+      "english": "Be honest about your energy, then plan.",
+      "filipino": "Maging tapat sa energy mo, tapos magplano ka.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475548"
+    },
+    {
+      "english": "Your mind needs kindness, not pressure.",
+      "filipino": "Kailangan ng utak mo ang kabaitan, hindi pressure.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475554"
+    },
+    {
+      "english": "Choose calm, even if the day is loud.",
+      "filipino": "Piliin ang kalmado, kahit maingay ang araw.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475556"
+    },
+    {
+      "english": "Practice saying, I’m doing my best.",
+      "filipino": "Subukan mong sabihin, ginagawa ko ang best ko.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475559"
+    },
+    {
+      "english": "Write it down, so it feels lighter.",
+      "filipino": "Isulat mo, para gumaan ang pakiramdam.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475562"
+    },
+    {
+      "english": "Don’t rush healing, it has timing.",
+      "filipino": "Huwag apurahin ang paghilom, may tamang panahon.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475565"
+    },
+    {
+      "english": "Reflect on wins, then adjust gently.",
+      "filipino": "Balikan ang mga panalo, tapos ayusin nang dahan-dahan.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475568"
+    },
+    {
+      "english": "Your feelings matter, but don’t control you.",
+      "filipino": "Mahalaga ang nararamdaman mo, pero huwag nilang kontrolin ka.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475571"
+    },
+    {
+      "english": "When fear talks, answer with small steps.",
+      "filipino": "Kapag nagsasalita ang takot, sagutin ng maliliit na hakbang.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475574"
+    },
+    {
+      "english": "Be proud of trying, not just results.",
+      "filipino": "Maging proud sa pagsubok, hindi lang sa resulta.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475576"
+    },
+    {
+      "english": "Celebrate honesty, even if it’s uncomfortable.",
+      "filipino": "Ipagdiwang ang katotohanan, kahit hindi komportable.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475580"
+    },
+    {
+      "english": "Let today be practice, not a test.",
+      "filipino": "Hayaan mong maging practice ang araw na ito, hindi test.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475582"
+    },
+    {
+      "english": "Trust the process, your feelings will settle.",
+      "filipino": "Magtiwala sa proseso, hahanay din ang mga damdamin mo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475586"
+    },
+    {
+      "english": "Start small, but do it daily, consistently.",
+      "filipino": "Magsimula nang maliit, pero gawin araw-araw, tuloy-tuloy.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475589"
+    },
+    {
+      "english": "Before you speak, pause, then choose kindness.",
+      "filipino": "Bago ka magsalita, huminto, tapos pumili ng kabaitan.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475592"
+    },
+    {
+      "english": "When plans fail, reschedule, don’t spiral.",
+      "filipino": "Kapag bumagsak ang plano, i-resched, wag magulo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475595"
+    },
+    {
+      "english": "Set one goal, focus there, ignore distractions.",
+      "filipino": "Mag-set ng isang goal, focus doon, iwas sa distractions.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475598"
+    },
+    {
+      "english": "Keep your promises, and ask for help.",
+      "filipino": "Tuparin ang pangako, at humingi ng tulong.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475601"
+    },
+    {
+      "english": "In meetings, listen first, then share your take.",
+      "filipino": "Sa meeting, makinig muna, saka ibahagi ang insight mo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-09T10:46:24.475604"
     }
   ],
-  "last_updated": "2026-11-08T09:46:59.166278"
+  "last_updated": "2026-11-09T10:46:24.475605"
 }
