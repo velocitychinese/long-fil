@@ -16559,7 +16559,727 @@
       "filipino": "Sa meeting, makinig muna, saka ibahagi ang insight mo.",
       "category": "Self Improvement",
       "generated_at": "2026-11-09T10:46:24.475604"
+    },
+    {
+      "english": "Okay, let's plan this tonight, ha?",
+      "filipino": "Sige, plano natin 'to mamaya, ha?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948694"
+    },
+    {
+      "english": "What time works for you, today?",
+      "filipino": "Anong oras ang bagay sa'yo, ngayon?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948711"
+    },
+    {
+      "english": "I’m free after five, we can meet.",
+      "filipino": "Gising ako after five, magkita tayo.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948714"
+    },
+    {
+      "english": "Let’s do it this weekend, okay?",
+      "filipino": "Gawin natin 'to this weekend, okay?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948717"
+    },
+    {
+      "english": "Wait, are we meeting in the mall?",
+      "filipino": "Sandali, sa mall ba tayo magkikita?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948719"
+    },
+    {
+      "english": "Sure, pero mabilis lang, ha?",
+      "filipino": "Sige, pero mabilis lang, ha?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948720"
+    },
+    {
+      "english": "That sounds good, when exactly, though?",
+      "filipino": "Maganda 'yan, pero kailan talaga?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948722"
+    },
+    {
+      "english": "We can start early, para di ma-late.",
+      "filipino": "Maaga tayo magsimula, para di ma-late.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948727"
+    },
+    {
+      "english": "I’ll text you, just keep your phone on.",
+      "filipino": "I-text kita, wag mo i-off yung phone mo.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948730"
+    },
+    {
+      "english": "Hold up, let me check first.",
+      "filipino": "Sandali, tignan ko muna.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948732"
+    },
+    {
+      "english": "No problem, we can adjust, easy.",
+      "filipino": "Walang problema, ayos lang, kaya natin.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948736"
+    },
+    {
+      "english": "Okay, saan tayo magkikita, eksakto?",
+      "filipino": "Sige, saan tayo magkikita, eksakto?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948738"
+    },
+    {
+      "english": "Let’s meet at seven, di ba?",
+      "filipino": "Tara, meet tayo ng alas-siete, di ba?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948740"
+    },
+    {
+      "english": "Uy, wait, biglang nagbago ang schedule ko.",
+      "filipino": "Uy, teka, nagbago schedule ko bigla.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948742"
+    },
+    {
+      "english": "I think we should call it a night.",
+      "filipino": "Sa tingin ko, tapusin na natin 'to tonight.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948743"
+    },
+    {
+      "english": "Kaya natin, give me a minute, please.",
+      "filipino": "Kaya natin, bigyan mo ko ng isang minuto.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948745"
+    },
+    {
+      "english": "If you’re coming, I’ll save you a seat.",
+      "filipino": "Kapag dumating ka, ireserba ko upuan mo.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948747"
+    },
+    {
+      "english": "Let’s keep it simple, saan lang tayo?",
+      "filipino": "Simple lang, saan tayo?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948750"
+    },
+    {
+      "english": "Good idea, pero budget muna tayo.",
+      "filipino": "Okay 'yan, pero budget muna, ha?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948751"
+    },
+    {
+      "english": "We’ll start with coffee, then go from there.",
+      "filipino": "Kape muna tayo, tapos dun tayo next.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948754"
+    },
+    {
+      "english": "I’m down, but confirm the exact address.",
+      "filipino": "G ako, pero i-confirm mo address nang eksakto.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948756"
+    },
+    {
+      "english": "Let’s carpool, para tipid sa gasolina.",
+      "filipino": "Mag-carpool tayo, para tipid sa gasolina.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948760"
+    },
+    {
+      "english": "Can we reschedule, I have something urgent.",
+      "filipino": "Pwede ba nating i-resched, may urgent kasi.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948761"
+    },
+    {
+      "english": "Perfect, I’ll bring my charger, just in case.",
+      "filipino": "Sakto, dadalhin ko charger ko, just in case.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948764"
+    },
+    {
+      "english": "Wait, what about tomorrow instead?",
+      "filipino": "Sandali, paano bukas na lang?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948765"
+    },
+    {
+      "english": "No worries, we’ll figure it out on the way.",
+      "filipino": "Walang anuman, aayusin natin sa daan.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948825"
+    },
+    {
+      "english": "Text me the plan, I don’t have it yet.",
+      "filipino": "I-text mo plan, wala pa sa'kin.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948827"
+    },
+    {
+      "english": "Are you free later, after work?",
+      "filipino": "Free ka later, after work?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948831"
+    },
+    {
+      "english": "Sige, follow me na, I’ll lead the way.",
+      "filipino": "Sige, sumunod ka, ako ang bahala.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948833"
+    },
+    {
+      "english": "Let’s meet halfway, para fair sa lahat.",
+      "filipino": "Magkita tayo sa gitna, para fair sa lahat.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948835"
+    },
+    {
+      "english": "So, what’s our plan, step by step?",
+      "filipino": "So, ano ang plan natin, step by step?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948838"
+    },
+    {
+      "english": "Do you have any suggestions for today?",
+      "filipino": "May suggestions ka ba para sa ngayon?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948840"
+    },
+    {
+      "english": "Who should we invite, you or me?",
+      "filipino": "Sino ang iinvite natin, ikaw o ako?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948842"
+    },
+    {
+      "english": "What time do you usually go?",
+      "filipino": "Anong oras ka usually pumupunta?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948844"
+    },
+    {
+      "english": "Can we ask for advice from them?",
+      "filipino": "Pwede ba tayong humingi ng advice sa kanila?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948846"
+    },
+    {
+      "english": "How about we decide after work?",
+      "filipino": "Puwede ba nating i-decide pagkatapos ng work?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948848"
+    },
+    {
+      "english": "Are you okay with a quick call?",
+      "filipino": "Okay lang ba sa’yo ang quick call?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948850"
+    },
+    {
+      "english": "Where do you prefer to meet, online?",
+      "filipino": "Saan mo gustong mag-meet, online?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948852"
+    },
+    {
+      "english": "What’s your budget range for this?",
+      "filipino": "Magkano budget mo, roughly, para dito?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948854"
+    },
+    {
+      "english": "Do you want something chill or active?",
+      "filipino": "Gusto mo ba ng chill, o active?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948856"
+    },
+    {
+      "english": "I’m thinking lunch first, okay?",
+      "filipino": "Iniisip ko muna lunch, okay?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948858"
+    },
+    {
+      "english": "What should we prepare beforehand?",
+      "filipino": "Ano ang dapat nating ihanda muna?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948861"
+    },
+    {
+      "english": "Can you confirm the venue details?",
+      "filipino": "Pwede mo bang i-confirm yung venue details?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948864"
+    },
+    {
+      "english": "How many people are joining us?",
+      "filipino": "Ilang tao ang sasama sa atin?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948865"
+    },
+    {
+      "english": "Would you rather go earlier, or later?",
+      "filipino": "Mas gusto mo bang mas maaga, o mamaya?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948867"
+    },
+    {
+      "english": "Do we have a backup plan, just in case?",
+      "filipino": "May backup plan ba tayo, just in case?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948869"
+    },
+    {
+      "english": "What’s the fastest way to get there?",
+      "filipino": "Ano yung pinakamabilis na paraan para makarating?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948871"
+    },
+    {
+      "english": "Can I ask, what’s your ideal schedule?",
+      "filipino": "Pwede ko bang itanong, ano yung ideal schedule mo?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948874"
+    },
+    {
+      "english": "If rain happens, what do we do?",
+      "filipino": "Pag umulan, ano ang gagawin natin?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948876"
+    },
+    {
+      "english": "Should we bring anything, like water or snacks?",
+      "filipino": "Dapat ba tayong magdala, like tubig o snacks?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948878"
+    },
+    {
+      "english": "Are you comfortable with public transport?",
+      "filipino": "Kumportable ka ba sa public transport?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948880"
+    },
+    {
+      "english": "What do you think, should we split costs?",
+      "filipino": "Sa tingin mo, hati ba tayo sa gastos?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948881"
+    },
+    {
+      "english": "Do you prefer messaging, or calling first?",
+      "filipino": "Mas gusto mo bang mag-message, o tumawag muna?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948883"
+    },
+    {
+      "english": "I can do that, if you’re okay.",
+      "filipino": "Kaya ko yun, kung okay sa’yo.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948885"
+    },
+    {
+      "english": "What’s the plan for arrivals, do we wait?",
+      "filipino": "Ano ang plan sa arrival, maghihintay ba tayo?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948887"
+    },
+    {
+      "english": "Do you want this to be low-key?",
+      "filipino": "Gusto mo ba na low-key lang ito?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948889"
+    },
+    {
+      "english": "Let’s check, do we need tickets?",
+      "filipino": "Sige, i-check natin, kailangan ba ng tickets?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948891"
+    },
+    {
+      "english": "Which is better for you, weekday or weekend?",
+      "filipino": "Alin ang mas okay sa’yo, weekday o weekend?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948893"
+    },
+    {
+      "english": "How long should we set aside for this?",
+      "filipino": "Gaano katagal ang okay na ilaan natin?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948894"
+    },
+    {
+      "english": "Thanks, I’ll adjust my schedule accordingly.",
+      "filipino": "Salamat, aayusin ko yung schedule ko accordingly.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948897"
+    },
+    {
+      "english": "Okay, let’s line up a plan.",
+      "filipino": "Sige, ayusin natin ang plano.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948899"
+    },
+    {
+      "english": "We’ll play it by ear, for now.",
+      "filipino": "Pahintuin natin muna, tapos iha-hanap paraan.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948901"
+    },
+    {
+      "english": "Let’s lock it in, then relax.",
+      "filipino": "I-finalize na natin, tapos relax na.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948904"
+    },
+    {
+      "english": "No need to stress, we’ll sort it out.",
+      "filipino": "Huwag mag-alala, aayusin natin yan.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948907"
+    },
+    {
+      "english": "First things first, let’s set the time.",
+      "filipino": "Unahin natin, itakda na natin ang oras.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948910"
+    },
+    {
+      "english": "Keep it simple, don’t overthink the details.",
+      "filipino": "Simple lang, huwag nang gawing komplikado.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948913"
+    },
+    {
+      "english": "Before anything, agree on the meet-up.",
+      "filipino": "Bago ang lahat, magkasundo tayo sa date.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948915"
+    },
+    {
+      "english": "We can tweak later, no big deal.",
+      "filipino": "Pwede namang i-adjust mamaya, ok lang.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948917"
+    },
+    {
+      "english": "Let’s do this one step at a time.",
+      "filipino": "Dahan-dahan tayo, step by step muna.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948919"
+    },
+    {
+      "english": "If anything comes up, we’ll message fast.",
+      "filipino": "Kapag may nangyari, mabilis tayo mag-chat.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948921"
+    },
+    {
+      "english": "Let’s make it, then we’ll worry after.",
+      "filipino": "Gawin natin ngayon, saka na ang worry.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948923"
+    },
+    {
+      "english": "Better to be early, para iwas hassle.",
+      "filipino": "Mas ok na maaga, para iwas abala.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948925"
+    },
+    {
+      "english": "I suggest we decide, by tonight.",
+      "filipino": "Maganda kung mag-decide tayo ngayong gabi.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948927"
+    },
+    {
+      "english": "Let’s keep moving, hindi tayo aatras.",
+      "filipino": "Tuluy-tuloy lang, hindi tayo aatras.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948931"
+    },
+    {
+      "english": "We’ll check first, before we commit.",
+      "filipino": "Suriin muna, bago tayo mag-commit.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948934"
+    },
+    {
+      "english": "What’s the vibe, chill ba o busy?",
+      "filipino": "Anong trip natin, chill lang o medyo busy?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948937"
+    },
+    {
+      "english": "Let’s coordinate, para walang doble abala.",
+      "filipino": "Mag-coordinate tayo, para walang doble abala.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948939"
+    },
+    {
+      "english": "If it’s crowded, we’ll adjust the plan.",
+      "filipino": "Kapag siksikan, i-aadjust natin ang plano.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948941"
+    },
+    {
+      "english": "Let’s not talk big, do it for real.",
+      "filipino": "Hindi puro usapan, gawin natin agad.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948943"
+    },
+    {
+      "english": "We’ll go where it’s convenient for you.",
+      "filipino": "Saan ka mas ok, doon tayo.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948945"
+    },
+    {
+      "english": "Hold on, first confirm the schedule.",
+      "filipino": "Sandali, i-confirm muna ang schedule.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948947"
+    },
+    {
+      "english": "Let’s keep the options open, just in case.",
+      "filipino": "Panatilihin natin open ang choices, just in case.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948950"
+    },
+    {
+      "english": "We’ll handle it, one way or another.",
+      "filipino": "Bahala na, isang paraan o iba.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948952"
+    },
+    {
+      "english": "Start small, then build the plan.",
+      "filipino": "Magsimula tayo sa konti, then tuloy.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948954"
+    },
+    {
+      "english": "Let’s settle it now, para tapos na.",
+      "filipino": "Ayusin na natin ngayon, para tapos na.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948957"
+    },
+    {
+      "english": "No final call yet, we’ll see later.",
+      "filipino": "Di pa final, tingnan muna natin mamaya.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948959"
+    },
+    {
+      "english": "We can coordinate, then meet after.",
+      "filipino": "Mag-usap muna tayo, tapos tayo na mag-meet.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948961"
+    },
+    {
+      "english": "If plans change, we adjust quickly.",
+      "filipino": "Kapag nagbago ang plano, bilis tayo mag-adjust.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948963"
+    },
+    {
+      "english": "Let’s do a quick check, before heading out.",
+      "filipino": "Quick check muna, bago tayo umalis.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948965"
+    },
+    {
+      "english": "Tell me your times, so we match.",
+      "filipino": "Ibigay mo yung oras mo, para mag-match.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948967"
+    },
+    {
+      "english": "I’m feeling nervous, let’s go slow.",
+      "filipino": "Kinakabahan ako, dahan-dahan lang tayo.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948969"
+    },
+    {
+      "english": "Let’s be honest, I need some quiet time.",
+      "filipino": "Maging tapat tayo, kailangan ko ng tahimik na oras.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948971"
+    },
+    {
+      "english": "I’d rather take it steady, no rush.",
+      "filipino": "Mas gusto ko nang tuloy-tuloy lang, walang pagmamadali.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948973"
+    },
+    {
+      "english": "I’m thinking long-term, what’s the real goal?",
+      "filipino": "Iniisip ko yung pangmatagalan, ano ba talaga ang goal?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948976"
+    },
+    {
+      "english": "We can wait a bit, I’m still processing.",
+      "filipino": "Pwede tayong maghintay muna, iniisip ko pa.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948978"
+    },
+    {
+      "english": "I want this to feel easy, not complicated.",
+      "filipino": "Gusto ko itong maging madali, hindi kumplikado.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948980"
+    },
+    {
+      "english": "If you’re unsure, tell me what worries you.",
+      "filipino": "Kung di ka sigurado, sabihin mo kung ano ang iniisip mo.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948982"
+    },
+    {
+      "english": "I’d like to adjust gently, okay lang?",
+      "filipino": "Gusto kong mag-adjust nang dahan-dahan, okay lang?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948984"
+    },
+    {
+      "english": "Let’s pause, reflect, then decide together.",
+      "filipino": "Tumigil muna, mag-isip, tapos tayo magdedesisyon.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948987"
+    },
+    {
+      "english": "I don’t want surprises, I just want clarity.",
+      "filipino": "Ayokong may surpresa, gusto ko lang ng malinaw.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948989"
+    },
+    {
+      "english": "I’m okay with delays, just communicate early.",
+      "filipino": "Okay lang sa’kin ang delay, basta magpaalam agad.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948991"
+    },
+    {
+      "english": "Can we keep it flexible, like really flexible?",
+      "filipino": "Pwede ba, flexible tayo, yung talagang flexible?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948993"
+    },
+    {
+      "english": "I’m trying to protect my energy, please.",
+      "filipino": "Sinusubukan kong i-protect yung energy ko, please.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948995"
+    },
+    {
+      "english": "Let’s choose what feels right for both of us.",
+      "filipino": "Piliin natin kung ano ang tama para sa atin.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.948998"
+    },
+    {
+      "english": "I’m realizing I need rest, not extra stops.",
+      "filipino": "Napagtatanto ko, kailangan ko ng pahinga, hindi extra stops.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.949000"
+    },
+    {
+      "english": "We’ll take turns, no one gets left behind.",
+      "filipino": "Magpapalitan tayo, walang maiiwan.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.949003"
+    },
+    {
+      "english": "To be real, I’m not feeling that plan.",
+      "filipino": "To be real, hindi ko feel yung plan na ‘yon.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.949006"
+    },
+    {
+      "english": "Let’s set expectations, so no one’s stressed.",
+      "filipino": "Itakda natin ang expectations, para walang stress.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.949008"
+    },
+    {
+      "english": "I prefer simple vibes, quiet talks later.",
+      "filipino": "Mas gusto ko yung simple lang, tapos na lang ang usap.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.949012"
+    },
+    {
+      "english": "I’ll speak up if something feels off.",
+      "filipino": "Magsasalita ako kapag may naramdaman akong mali.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.949014"
+    },
+    {
+      "english": "Let’s keep it kind, we’re not rushing anything.",
+      "filipino": "Gawin nating maayos at mabait, walang pagmamadali.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.949016"
+    },
+    {
+      "english": "I’m good, just don’t overbook our day.",
+      "filipino": "Okay lang ako, basta huwag nating i-overbook ang araw.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.949018"
+    },
+    {
+      "english": "Let’s talk feelings first, then the schedule.",
+      "filipino": "Unahin natin ang feelings, bago ang schedule.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.949020"
+    },
+    {
+      "english": "I get overwhelmed, so small steps help.",
+      "filipino": "Nai-overwhelm ako, kaya nakakatulong ang small steps.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.949023"
+    },
+    {
+      "english": "If we’re tired, we pause, no guilt.",
+      "filipino": "Kung pagod tayo, pahinga lang, walang guilt.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.949025"
+    },
+    {
+      "english": "I’m rooting for us, so let’s align.",
+      "filipino": "Naniniwala ako sa atin, so mag-align tayo.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.949028"
+    },
+    {
+      "english": "Let’s decide with patience, not pressure.",
+      "filipino": "Magpasya tayo nang may patience, hindi pressure.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.949030"
+    },
+    {
+      "english": "I’d love your input, what do you feel?",
+      "filipino": "Gusto ko ng opinion mo, ano ang nararamdaman mo?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.949032"
+    },
+    {
+      "english": "For me, safety comes first, siempre.",
+      "filipino": "Para sa akin, safety muna, palagi.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.949034"
+    },
+    {
+      "english": "I’ll stay calm, and we’ll fix it together.",
+      "filipino": "Mananatili akong kalmado, aayusin natin nang sabay.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-10T10:41:21.949036"
     }
   ],
-  "last_updated": "2026-11-09T10:46:24.475605"
+  "last_updated": "2026-11-10T10:41:21.949037"
 }
