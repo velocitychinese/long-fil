@@ -17279,7 +17279,727 @@
       "filipino": "Mananatili akong kalmado, aayusin natin nang sabay.",
       "category": "Making Plans",
       "generated_at": "2026-11-10T10:41:21.949036"
+    },
+    {
+      "english": "Okay, wait a sec, where is the CR?",
+      "filipino": "Sige, sandali lang, nasaan ang CR?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079503"
+    },
+    {
+      "english": "Excuse me, how much is this?",
+      "filipino": "Pasensya na, magkano ito?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079517"
+    },
+    {
+      "english": "Sorry, I’m looking for the entrance.",
+      "filipino": "Pasensya na, naghahanap ako ng entrance.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079521"
+    },
+    {
+      "english": "Thanks, you’re a lifesaver, seriously.",
+      "filipino": "Salamat, grabe ka, talagang tumulong ka!",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079525"
+    },
+    {
+      "english": "No worries, it’s okay, we’ll manage.",
+      "filipino": "Walang problema, okay lang, kakayanin natin.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079531"
+    },
+    {
+      "english": "Hold on, let me check, real quick.",
+      "filipino": "Sandali, i-check ko lang, mabilis lang.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079535"
+    },
+    {
+      "english": "Wait, I think I left it somewhere.",
+      "filipino": "Sandali, sa tingin ko, naiwan ko sa kung saan.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079538"
+    },
+    {
+      "english": "I got it, I’ll handle it from here.",
+      "filipino": "Ayos, ako na ang bahala mula dito.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079544"
+    },
+    {
+      "english": "Right, that’s fair, I understand you.",
+      "filipino": "Tama, makatarungan, naiintindihan kita.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079548"
+    },
+    {
+      "english": "Sounds good, let’s do it now.",
+      "filipino": "Sige, okay, gawin natin ngayon.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079551"
+    },
+    {
+      "english": "Wait, are you sure, like 100%?",
+      "filipino": "Sandali, sigurado ka ba, sure na sure?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079555"
+    },
+    {
+      "english": "I’m good, thanks, I’ll figure it out.",
+      "filipino": "Okay lang, salamat, kaya ko na yun.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079558"
+    },
+    {
+      "english": "Just a moment, I’ll be there soon.",
+      "filipino": "Sandali lang, pupunta ako agad.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079561"
+    },
+    {
+      "english": "By the way, do you know this place?",
+      "filipino": "By the way, alam mo ba itong lugar?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079564"
+    },
+    {
+      "english": "Oh wow, that’s actually a great idea.",
+      "filipino": "Ang galing, magandang idea talaga.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079567"
+    },
+    {
+      "english": "Seriously?, that’s so helpful, thank you.",
+      "filipino": "Talaga?, ang laki ng tulong, salamat!",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079571"
+    },
+    {
+      "english": "Let’s go, we don’t have much time.",
+      "filipino": "Tara na, wala tayong masyadong oras.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079574"
+    },
+    {
+      "english": "Come on, don’t worry, it’ll be fine.",
+      "filipino": "Huy, huwag mag-alala, magiging okay din.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079578"
+    },
+    {
+      "english": "I can’t, sorry, I’m already booked.",
+      "filipino": "Hindi pwede, sorry, puno na ako.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079581"
+    },
+    {
+      "english": "Better late than never, let’s start.",
+      "filipino": "Huli man, nagsisimula pa rin tayo.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079584"
+    },
+    {
+      "english": "No, wait, I want to double-check first.",
+      "filipino": "Hindi muna, sandali, i-double check ko.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079587"
+    },
+    {
+      "english": "That’s it, I understand now, thanks!",
+      "filipino": "Ayun, gets ko na, salamat!",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079591"
+    },
+    {
+      "english": "Okay okay, I hear you, I’ll listen.",
+      "filipino": "Sige sige, gets ko, susundin ko.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079596"
+    },
+    {
+      "english": "Quick question, what time do we meet?",
+      "filipino": "Mabilis na tanong, anong oras tayo magkikita?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079599"
+    },
+    {
+      "english": "Good choice, that’s the safest option.",
+      "filipino": "Maganda yan, yun ang pinakaligtas.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079602"
+    },
+    {
+      "english": "Oops, my bad, I mixed up the directions.",
+      "filipino": "Uy, sorry, nabaliktad ko yung direksyon.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079605"
+    },
+    {
+      "english": "Relax, breathe, you’re doing fine.",
+      "filipino": "Kalmado lang, huminga, okay ka lang.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079628"
+    },
+    {
+      "english": "How’s it going, are you holding up?",
+      "filipino": "Kumusta, nakakaya mo ba?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079636"
+    },
+    {
+      "english": "I’m nearby, just tell me where to go.",
+      "filipino": "Malapit lang ako, sabihin mo kung saan.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079642"
+    },
+    {
+      "english": "What do you recommend for a first date?",
+      "filipino": "Ano ang mare-recommend mo para sa first date?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079648"
+    },
+    {
+      "english": "Can I ask you something, real quick?",
+      "filipino": "Pwede ba kitang tanungin, saglit lang?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079654"
+    },
+    {
+      "english": "Where should we meet, before it gets busy?",
+      "filipino": "Saan tayo magtatagpo, bago sumikip?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079660"
+    },
+    {
+      "english": "Do you prefer coffee, or something sweet?",
+      "filipino": "Gusto mo ba ng kape, o mas matamis?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079664"
+    },
+    {
+      "english": "How was your day, did it go okay?",
+      "filipino": "Kumusta ang araw mo, okay ba?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079667"
+    },
+    {
+      "english": "What time works best for you, tonight?",
+      "filipino": "Anong oras ang bagay sa’yo, mamaya?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079670"
+    },
+    {
+      "english": "I’m trying to learn, can you guide me?",
+      "filipino": "Gusto kong matuto, pwede mo ba akong gabayan?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079674"
+    },
+    {
+      "english": "If I’m late, what should I do?",
+      "filipino": "Kung mahuli ako, ano ang gagawin ko?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079678"
+    },
+    {
+      "english": "What’s your comfort food, for real?",
+      "filipino": "Ano ang comfort food mo, totoo?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079681"
+    },
+    {
+      "english": "Do you know a good place nearby?",
+      "filipino": "May alam ka bang magandang lugar malapit?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079684"
+    },
+    {
+      "english": "Can you help me decide, quick?",
+      "filipino": "Pwede mo ba akong tulungan pumili, saglit?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079687"
+    },
+    {
+      "english": "What are you into lately, tell me?",
+      "filipino": "Sa ngayon, ano’ng trip mo, sabihin mo?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079690"
+    },
+    {
+      "english": "Do you mind if we sit here?",
+      "filipino": "Okay lang ba sa’yo, dito tayo umupo?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079696"
+    },
+    {
+      "english": "How do you usually stay balanced?",
+      "filipino": "Paano ka karaniwang nagiging balanced?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079699"
+    },
+    {
+      "english": "Which one’s better, taste or price?",
+      "filipino": "Alin ang mas okay, lasa o presyo?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079704"
+    },
+    {
+      "english": "Can we talk, I have a question.",
+      "filipino": "Pwede tayo mag-usap, may tanong lang ako.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079707"
+    },
+    {
+      "english": "What’s the vibe here, calm or loud?",
+      "filipino": "Ano ba ang feel dito, tahimik o maingay?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079710"
+    },
+    {
+      "english": "If you were me, what would you do?",
+      "filipino": "Kung ikaw ako, ano ang gagawin mo?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079713"
+    },
+    {
+      "english": "Do you want to split, or pay together?",
+      "filipino": "Hahatiin ba natin, o sabay tayo magbayad?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079715"
+    },
+    {
+      "english": "What’s the plan, you lead or I lead?",
+      "filipino": "Ano ang plano, ikaw muna o ako?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079719"
+    },
+    {
+      "english": "Where do you usually hang out after work?",
+      "filipino": "Saan ka madalas tumambay pagkatapos ng trabaho?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079721"
+    },
+    {
+      "english": "Are you free this weekend, for coffee?",
+      "filipino": "Free ka ba ngayong weekend, kape tayo?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079724"
+    },
+    {
+      "english": "How can I make it up to you?",
+      "filipino": "Paano ko mababayaran ang loob mo?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079726"
+    },
+    {
+      "english": "Do you want soft talk, or straight answers?",
+      "filipino": "Gusto mo ba ng malumanay, o diretso na lang?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079729"
+    },
+    {
+      "english": "What’s your rule for staying positive?",
+      "filipino": "Ano ang rule mo para manatiling positive?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079732"
+    },
+    {
+      "english": "Can we adjust the schedule, if needed?",
+      "filipino": "Pwede bang i-adjust ang schedule, kung kailangan?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079737"
+    },
+    {
+      "english": "Which choice feels right, tell me honestly?",
+      "filipino": "Alin ang tama sa pakiramdam mo, sabihin mo?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079739"
+    },
+    {
+      "english": "Promise me, you’ll communicate clearly, okay?",
+      "filipino": "I-promise mo, magko-communicate ka nang malinaw, ha?",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079743"
+    },
+    {
+      "english": "Bitawan mo ang takot, kumapit sa tiyaga.",
+      "filipino": "Bitawan mo ang takot, kumapit sa tiyaga.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079748"
+    },
+    {
+      "english": "One step at a time, kaya mo ’yan.",
+      "filipino": "Isang hakbang sa isang araw, kaya mo ’yan.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079751"
+    },
+    {
+      "english": "Keep your head up, tuloy lang.",
+      "filipino": "Itaas ang ulo, tuloy lang.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079754"
+    },
+    {
+      "english": "Small wins today, big momentum tomorrow.",
+      "filipino": "Maliit na panalo ngayon, malaki ang momentum bukas.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079757"
+    },
+    {
+      "english": "You did your best, that counts.",
+      "filipino": "Ginawa mo ang best mo, bilang ’yan.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079760"
+    },
+    {
+      "english": "Breathe in, breathe out, steady ka.",
+      "filipino": "Hinga in, hinga out, steady ka.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079763"
+    },
+    {
+      "english": "Mind over mood, focus tayo ngayon.",
+      "filipino": "Isip ang unahin, focus muna tayo ngayon.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079766"
+    },
+    {
+      "english": "I’m proud of you, for showing up.",
+      "filipino": "Ipinagmamalaki kita, sa pagpakita mo.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079769"
+    },
+    {
+      "english": "When you slip, restart ka agad.",
+      "filipino": "Kapag sumemplang ka, bumalik agad.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079772"
+    },
+    {
+      "english": "Practice calm, araw-araw masasanay ka.",
+      "filipino": "Sanayin ang kalmado, araw-araw masasanay ka.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079775"
+    },
+    {
+      "english": "Stay grateful, it keeps you balanced.",
+      "filipino": "Magpasalamat ka, doon ka humuhupa.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079778"
+    },
+    {
+      "english": "Your pace is still progress, promise.",
+      "filipino": "Ang bilis mo, progress pa rin, promise.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079780"
+    },
+    {
+      "english": "Wag magmadali, maging steady muna.",
+      "filipino": "Huwag magmadali, maging steady muna.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079783"
+    },
+    {
+      "english": "Turn mistakes into lessons, not shame.",
+      "filipino": "Gawing aral ang pagkakamali, hindi hiya.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079786"
+    },
+    {
+      "english": "Check in with yourself, stay grounded.",
+      "filipino": "Mag-check in sa sarili mo, manatiling grounded.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079788"
+    },
+    {
+      "english": "Small effort today, big results later.",
+      "filipino": "Kaunting effort ngayon, malaking resulta mamaya.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079791"
+    },
+    {
+      "english": "You’re allowed to rest, then return.",
+      "filipino": "Pwede kang magpahinga, tapos bumalik.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079794"
+    },
+    {
+      "english": "No pressure, choose balance one choice.",
+      "filipino": "Walang pressure, pili ka ng balanse sa bawat galaw.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079797"
+    },
+    {
+      "english": "Fair lang, you can try again.",
+      "filipino": "Okay lang, puwede mong subukan ulit.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079800"
+    },
+    {
+      "english": "Trust the process, step by step.",
+      "filipino": "Tiwala sa proseso, hakbang-hakbang.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079803"
+    },
+    {
+      "english": "Be kind to yourself, you’re learning.",
+      "filipino": "Maging mabait sa sarili mo, nag-aaral ka.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079806"
+    },
+    {
+      "english": "Choose peace, even when things get loud.",
+      "filipino": "Piliin ang kapayapaan, kahit maingay ang paligid.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079809"
+    },
+    {
+      "english": "Keep your goals simple, then act.",
+      "filipino": "Simple lang ang goals, tapos kumilos.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079811"
+    },
+    {
+      "english": "Speak positive, your mind follows.",
+      "filipino": "Mag-isip ng positibo, susunod ang utak.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079814"
+    },
+    {
+      "english": "Hold on to hope, it steadies you.",
+      "filipino": "Kapit sa pag-asa, pinapatatag ka nito.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079818"
+    },
+    {
+      "english": "Celebrate effort, not just perfect results.",
+      "filipino": "Ipagdiwang ang pagsisikap, kahit di perpekto.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079821"
+    },
+    {
+      "english": "I feel torn, I need time to think.",
+      "filipino": "Magulo ang pakiramdam ko, kailangan ko ng oras para isipin.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079824"
+    },
+    {
+      "english": "Honestly, I’m still healing, so be patient.",
+      "filipino": "Totoo, nag-aayos pa ako, kaya maging pasensiya ka.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079827"
+    },
+    {
+      "english": "I’m learning to pause, before I react.",
+      "filipino": "Natuto akong huminto muna, bago ako mag-react.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079832"
+    },
+    {
+      "english": "When I’m overwhelmed, I breathe and slow down.",
+      "filipino": "Kapag napupuno ako, humihinga ako at bumabagal.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079835"
+    },
+    {
+      "english": "I don’t pretend, I just speak what I feel.",
+      "filipino": "Hindi ako nagpapanggap, sinasabi ko lang ang nararamdaman ko.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079839"
+    },
+    {
+      "english": "My heart is okay, my mind is tired.",
+      "filipino": "Okay ang puso ko, pagod lang ang isip ko.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079842"
+    },
+    {
+      "english": "Give me space, I’ll come back calm.",
+      "filipino": "Bigyan mo ako ng space, babalik ako na kalmado.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079845"
+    },
+    {
+      "english": "I want balance, not the perfect answer.",
+      "filipino": "Gusto ko ng balanse, hindi yung perfect na sagot.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079848"
+    },
+    {
+      "english": "I’m proud of small changes, they add up.",
+      "filipino": "Ipinagmamalaki ko ang maliliit na pagbabago, nakaipon ‘yan.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079851"
+    },
+    {
+      "english": "Today, I choose slow growth over rushing.",
+      "filipino": "Ngayong araw, pinipili ko ang mabagal na paglago, kaysa pagmamadali.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079854"
+    },
+    {
+      "english": "I can’t force it, I’ll wait with grace.",
+      "filipino": "Hindi ko ‘yan mapipilit, maghihintay ako nang may biyaya.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079858"
+    },
+    {
+      "english": "I’m trying again, without beating myself up.",
+      "filipino": "Sinusubukan ko ulit, hindi ako nagpaparusa sa sarili ko.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079861"
+    },
+    {
+      "english": "If I’m quiet, it’s my way of reflecting.",
+      "filipino": "Kapag tahimik ako, paraan ko ‘yan ng pagninilay.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079865"
+    },
+    {
+      "english": "I’ll be honest, I miss what we had.",
+      "filipino": "Aamin ako, namimiss ko yung dati nating meron.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079868"
+    },
+    {
+      "english": "I forgive myself first, then I move forward.",
+      "filipino": "Pinapatawad ko muna ang sarili ko, saka ako uusad.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079871"
+    },
+    {
+      "english": "I don’t need answers now, just calm.",
+      "filipino": "Hindi ko kailangan ng sagot ngayon, kalmado lang.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079874"
+    },
+    {
+      "english": "I’m okay with starting over, truly.",
+      "filipino": "Okay lang sa’kin magsimula ulit, totoo.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079877"
+    },
+    {
+      "english": "I set boundaries kindly, so I can breathe.",
+      "filipino": "Naglalagay ako ng boundaries nang may kabaitan, para makahinga.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079880"
+    },
+    {
+      "english": "I’m listening to my feelings, not my fear.",
+      "filipino": "Pinapakinggan ko ang nararamdaman ko, hindi ang takot ko.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079883"
+    },
+    {
+      "english": "When stress hits, I choose patience over noise.",
+      "filipino": "Kapag tumama ang stress, pinipili ko ang pasensya kaysa ingay.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079886"
+    },
+    {
+      "english": "I’ll speak up gently, my truth matters.",
+      "filipino": "Aalmaw ako nang mahinahon, mahalaga ang totoo ko.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079889"
+    },
+    {
+      "english": "I don’t rush healing, I respect the process.",
+      "filipino": "Hindi ko minamadali ang paggaling, iginagalang ko ang proseso.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079894"
+    },
+    {
+      "english": "Some days, all I can do is show up.",
+      "filipino": "May mga araw na ang kaya ko lang ay pumasok at sumubok.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079897"
+    },
+    {
+      "english": "I’m finding my center, even through messy days.",
+      "filipino": "Hinahanap ko ang sentro ko, kahit magulo ang araw.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079900"
+    },
+    {
+      "english": "I don’t need perfect, I need steady presence.",
+      "filipino": "Hindi ko kailangan ng perpekto, kailangan ko ng steady na presensya.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079903"
+    },
+    {
+      "english": "I’m okay to be sad, then get back up.",
+      "filipino": "Okay lang malungkot, tapos babangon ulit ako.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079909"
+    },
+    {
+      "english": "Let’s be real, balance starts with truth.",
+      "filipino": "Maging totoo tayo, nagsisimula ang balanse sa katotohanan.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079912"
+    },
+    {
+      "english": "I’m grateful for the quiet moments today.",
+      "filipino": "Salamat sa mga tahimik na sandali ngayon.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079915"
+    },
+    {
+      "english": "I’ll own my mistakes, and still hope.",
+      "filipino": "Aaminin ko ang pagkakamali ko, at mananatili pa rin sa pag-asa.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079918"
+    },
+    {
+      "english": "I choose peace, even if I feel shaky inside.",
+      "filipino": "Pinipili ko ang kapayapaan, kahit nanginginig pa ako sa loob.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079921"
+    },
+    {
+      "english": "Plan light, then go out and live.",
+      "filipino": "Magaan lang ang plano, tapos lumabas ka at mabuhay.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079923"
+    },
+    {
+      "english": "Before you reply, pause, then choose kindly.",
+      "filipino": "Bago ka sumagot, sandali muna, tapos pili nang mabait.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079926"
+    },
+    {
+      "english": "When traffic stresses you, breathe, then drive slower.",
+      "filipino": "Kapag na-stress ka sa traffic, huminga, tapos dahan-dahan lang.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079930"
+    },
+    {
+      "english": "Text back later, your peace comes first.",
+      "filipino": "Mag-reply ka mamaya, unahin mo ang kapayapaan mo.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079932"
+    },
+    {
+      "english": "Set a timer, do one task, stop.",
+      "filipino": "Mag-set ng timer, isang task lang, tapos tigil.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079937"
+    },
+    {
+      "english": "After work, reset first, then meet friends.",
+      "filipino": "Pagkatapos ng trabaho, mag-reset muna, bago ka makipagkita.",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079940"
+    },
+    {
+      "english": "If it’s too much, say, “Sobra na.”",
+      "filipino": "Kung sobra na, sabihin mo, “Sobra na.”",
+      "category": "Balance",
+      "generated_at": "2026-11-11T10:09:35.079944"
     }
   ],
-  "last_updated": "2026-11-10T10:41:21.949037"
+  "last_updated": "2026-11-11T10:09:35.079946"
 }
