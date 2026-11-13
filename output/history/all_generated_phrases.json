@@ -17999,7 +17999,399 @@
       "filipino": "Kung sobra na, sabihin mo, “Sobra na.”",
       "category": "Balance",
       "generated_at": "2026-11-11T10:09:35.079944"
+    },
+    {
+      "english": "Hi, can I speak to Ana?",
+      "filipino": "Hi, puwede bang makausap si Ana?",
+      "transliteration": "Hi, PUWEdeng bang makausap si Ana?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "I’m calling about your appointment.",
+      "filipino": "Tatawag ako tungkol sa iyong appointment.",
+      "transliteration": "TATAWAG ako TUNGkol sa iyong APpointment.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "Thanks for calling me back.",
+      "filipino": "Salamat sa pagtawag ulit sa akin.",
+      "transliteration": "SALAmat sa pagTAtawag ULiit sa Akin.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "Sorry I missed your call.",
+      "filipino": "Pasensya na, hindi ko nasagot ang tawag mo.",
+      "transliteration": "PaSENya na, hinDI ko naSATot ang tawag mo.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "Could you speak a bit slower?",
+      "filipino": "Pwede mo bang pakiusap, medyo mas mabagal?",
+      "transliteration": "PUWEdeng mo bang pakiUSAP, MEDyo mas maBAGal?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "I’ll call you again in an hour.",
+      "filipino": "Tatawagan kita ulit pagkalipas ng isang oras.",
+      "transliteration": "TaTawagan kiTA ULiit pagkaLIPas ng ISang ORAS.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "Text me the address, please.",
+      "filipino": "I-text mo sa akin ang address, pakisuyo.",
+      "transliteration": "i-TEXT mo sa Akin ang ADdress, paKIsuyo.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "Hi, I need a prescription refill",
+      "filipino": "Hi, kailangan ko ng refill ng reseta, pakiusap.",
+      "transliteration": "Hi, kaNGAan ko ng reSIta, paKIusap.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "Is there a pharmacy open today?",
+      "filipino": "May botika po ba na bukas ngayon?",
+      "transliteration": "MaY BO-tika po ba na buKAS NGAY-on?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "Where can I get my medicine?",
+      "filipino": "Saan po ako makakakuha ng gamot?",
+      "transliteration": "Saan po aKO makakaKUha ng GA-mot?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "Do you have this in stock?",
+      "filipino": "May stock po ba kayo nito?",
+      "transliteration": "May STOCK po ba KA-yo niTO?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "What dose should I take?",
+      "filipino": "Ilang beses po itong inumin sa isang araw?",
+      "transliteration": "Ilang BE-ses po iTOng inUmin sa iSANG ARAW?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "Can I pay by card here?",
+      "filipino": "Tumatanggap ba kayo ng card para magbayad?",
+      "transliteration": "Tu-maTaNGGAP ba KA-yo ng kard paRA magBA-yad?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "How long does it take to work?",
+      "filipino": "Gaano po katagal bago gumana ito?",
+      "transliteration": "GAa-no po kaTA-gal baGO GUma-na iTO?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "Do you have a free shuttle?",
+      "filipino": "May libre bang shuttle?",
+      "transliteration": "May libre bang SHUT-tol?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "I need late check-out today.",
+      "filipino": "Kailangan ko ng late check-out ngayon.",
+      "transliteration": "KAILAN-gan KO ng late check-OUT NGAY-on.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "What time is breakfast served?",
+      "filipino": "Anong oras ang breakfast?",
+      "transliteration": "A-NONG o-ras ang BRAK-fast?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "Is there a laundry service here?",
+      "filipino": "May laundry service ba kayo?",
+      "transliteration": "May LAUN-dry SER-bis ba KA-yo?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "My room key isn’t working.",
+      "filipino": "Hindi gumagana ang susi ng kuwarto ko.",
+      "transliteration": "HIN-dI gu-MA-ga-na ang SU-si ng KU-war-to ko.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "Where is the elevator, please?",
+      "filipino": "Saan po ang elevator?",
+      "transliteration": "SAAN po ang el-AY-tor?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "Do you offer airport pickup?",
+      "filipino": "Nag-aalok ba kayo ng airport pickup?",
+      "transliteration": "NaG-aA-lok ba KA-yo ng AIR-port PICK-up?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "I forgive you, really, thank you.",
+      "filipino": "Pinatawad na kita, talaga, salamat.",
+      "transliteration": "pinaTAD na KI ta, TAga, saLAmat.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "Let’s move on from this.",
+      "filipino": "Umalis na tayo sa pinanggalingan nito.",
+      "transliteration": "uMAliS na TAyo sa piinanggalingan iTO.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "I’m choosing peace, not revenge.",
+      "filipino": "Pinipili ko ang kapayapaan, hindi paghihiganti.",
+      "transliteration": "piNIPiLI ko ang ka pa ya PAan, hinDI paghihiganTI.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "Thanks for apologizing, I hear you.",
+      "filipino": "Salamat sa paghingi ng tawad, naunawaan kita.",
+      "transliteration": "saLAmat sa pag hINgi ng taWAD, nauaWAAn KI ta.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "It’s okay, I can start again.",
+      "filipino": "Okay lang, kaya kong magsimula ulit.",
+      "transliteration": "Okey lang, KAya kong maGSIMula uLIT.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "I release the anger in my chest.",
+      "filipino": "Inaalis ko ang galit sa dibdib ko.",
+      "transliteration": "inaAAlis ko ang gaLIT sa diBdib ko.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "You hurt me, but I won’t hold.",
+      "filipino": "Nasaktan mo ako, pero hindi ko hahawakan.",
+      "transliteration": "naSAktan mo aKO, PEro hinDI ko hhaHawakan.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "Dude, let’s go, right now.",
+      "filipino": "Uy, tara na, ngayon din.",
+      "transliteration": "Uy, TARA na, NGAYON din.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "It’s nothing, really, just chill.",
+      "filipino": "Wala 'yan, chill ka lang.",
+      "transliteration": "WALÁ 'yan, chill ka lang.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "That’s awkward, don’t say that.",
+      "filipino": "Ang cringe nun, wag mo nang sabihin.",
+      "transliteration": "Ang CRINGE nun, WAG mo nang sabihin.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "I’m broke today, no money.",
+      "filipino": "Wala talaga kong pera ngayon.",
+      "transliteration": "WALA taLAGA kong PERA ngayon.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "My head hurts, I need rest.",
+      "filipino": "Sumasakit ulo ko, pahinga muna ako.",
+      "transliteration": "SUmaSÁKIT ULO ko, PAhiNGA muna ako.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "Be careful, that’s slippery.",
+      "filipino": "Ingat ka, madulas 'yan.",
+      "transliteration": "Ingat ka, maDULAS 'yan.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "I’m running late, sorry!",
+      "filipino": "Late na ako, sorry ha.",
+      "transliteration": "LATE na aKo, sorry ha.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "Thanks for checking on me.",
+      "filipino": "Salamat sa pag-check mo sa akin.",
+      "transliteration": "SALAMAT sa pag-CHECK mo sa Akin.",
+      "category": "Friendship",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "You always make me feel included.",
+      "filipino": "Parang lagi mo akong pinaparamdam na included ako.",
+      "transliteration": "PARANG lagi mo akong pinaparamdam na in-KLUDED ako.",
+      "category": "Friendship",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "Let’s grab coffee after work.",
+      "filipino": "Tara, kape tayo pagkatapos ng trabaho.",
+      "transliteration": "TA-ra, KAPE taYO pagkatapos ng tra-BAHO.",
+      "category": "Friendship",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "I’m glad we can talk anytime.",
+      "filipino": "Masaya ako na puwede tayong mag-usap kahit kailan.",
+      "transliteration": "MA-sa-ya aKO na PU-we de taYOng mag-uSÁP kahit KÁI-lan.",
+      "category": "Friendship",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "You get me, honestly.",
+      "filipino": "Gets mo ako, honestly.",
+      "transliteration": "GETS mo aKO, HON-ES-tily.",
+      "category": "Friendship",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "When you need me, I’m here.",
+      "filipino": "Kapag kailangan mo ako, nandito ako.",
+      "transliteration": "KA-paG kailangan MO aKO, NAN-di-to aKO.",
+      "category": "Friendship",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "I trust you with my secrets.",
+      "filipino": "Pinagkakatiwalaan kita sa mga lihim ko.",
+      "transliteration": "pi-naG-ka-ti-TI-wa-an KI-ta sa mga LI-him KO.",
+      "category": "Friendship",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "Trust actions, not perfect promises.",
+      "filipino": "Mas may saysay ang gawa kaysa sa magagandang pangako.",
+      "transliteration": "Mas MAY sa-yis ang GAW-a KAY-sa sa ma-ga-GAN-dang PAN-ga-ko.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "Before reacting, breathe and count to ten.",
+      "filipino": "Bago ka sumagot, huminga ka muna at magbilang hanggang sampu.",
+      "transliteration": "BA-go ka SUM-a-GOT, huMI-na ka MUNA at mag-bi-LANG hang-GANG SAM-pu.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "Choose kindness, even when you're tired.",
+      "filipino": "Piliin mo ang kabutihan, kahit pagod ka.",
+      "transliteration": "PI-li-in mo ang ka-BU-ti-han, KAHIT pa-GOD ka.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "Ask one good question, listen deeply.",
+      "filipino": "Magtanong ng isang mabuting tanong, at makinig nang mabuti.",
+      "transliteration": "mag-ta-NONG ng i-SANG ma-BU-ti-ng TA-nong, at ma-KI-nig nang ma-BU-ti.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "Learn the lesson, then let go.",
+      "filipino": "Matutuhan mo ang aral, tapos bitawan mo na.",
+      "transliteration": "ma-tu-TU-han mo ang a-RAL, TAPOS bi-TI-wa-n mo na.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "Small steps today build real change.",
+      "filipino": "Ang maliliit na hakbang ngayon, nagiging malaking pagbabago.",
+      "transliteration": "ang ma-li-LI-it na HAK-bang NGAY-on, na-GI-ge-ing ma-LA-keng baG-ba-ba-go.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "Check your ego before you speak.",
+      "filipino": "Suriin mo muna ang pride mo bago ka magsalita.",
+      "transliteration": "su-RI-in mo MUNA ang pride mo BA-go ka mag-sa-LI-ta.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "Hi, can I get a latte?",
+      "filipino": "Hi, pwede po ba akong mag-latte?",
+      "transliteration": "Hi, pwede PO ba aKONG mag-LAT-te?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "One iced coffee, please, no sugar.",
+      "filipino": "Isang iced coffee po, wala pong asukal.",
+      "transliteration": "I-SA-ng iced COF-fee po, WA-la poNG aSU-kal.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "Do you have oat milk?",
+      "filipino": "May oat milk po ba kayo?",
+      "transliteration": "May oat MILK po ba KAY-o?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "What pastries are fresh today?",
+      "filipino": "Ano po ang mga pastry na bagong luto ngayon?",
+      "transliteration": "A-no po ang MGa PAH-struy na baGONG LU-to NGAY-on?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "Can I try your cinnamon rolls?",
+      "filipino": "Pwede po bang tikman ko ang cinnamon rolls ninyo?",
+      "transliteration": "PWErde po bang TI-kman ko anG ciNNA-mon ROLS ni-nyo?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "Do you have gluten-free options?",
+      "filipino": "Mayroon po ba kayong gluten-free na pagkain?",
+      "transliteration": "MAH-roon po ba KAY-ong glu-ten-FREE na PAG-ai-n?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "I want it to go, please.",
+      "filipino": "Take out po, please.",
+      "transliteration": "TA-ke OUT po, please.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T11:34:18.776140"
     }
   ],
-  "last_updated": "2026-11-11T10:09:35.079946"
+  "last_updated": "2026-11-13T11:34:18.776140"
 }

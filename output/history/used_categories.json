@@ -99,7 +99,39 @@
     {
       "category": "Balance",
       "date": "2020-01-25"
+    },
+    {
+      "category": "Phone Calls & Messages",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Doctor & Pharmacy",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Hotel & Accommodation",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Forgiveness",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Common Native Slang",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Friendship",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Wisdom",
+      "date": "2026-11-13"
+    },
+    {
+      "category": "Coffee Shop & Bakery",
+      "date": "2026-11-13"
     }
   ],
-  "last_updated": "2026-11-12T11:15:15.093333"
+  "last_updated": "2026-11-13T11:34:18.789039"
 }
