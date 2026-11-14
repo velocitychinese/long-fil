@@ -18391,7 +18391,399 @@
       "transliteration": "TA-ke OUT po, please.",
       "category": "Coffee Shop & Bakery",
       "generated_at": "2026-11-13T11:34:18.776140"
+    },
+    {
+      "english": "Hi, I’d like to order now.",
+      "filipino": "Magandang araw po, mag-oorder na po ako ngayon.",
+      "transliteration": "Magandang aRAW po, maG-OOrder na po aKO ngayon.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Can I see the menu, please?",
+      "filipino": "Maaari ko po bang makita ang menu?",
+      "transliteration": "MAAari ko po bang MAkita ang ME-nu?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "What do you recommend today?",
+      "filipino": "Ano po ang masarap na nirerekomenda n’yo ngayon?",
+      "transliteration": "ANO po ang maSArap na ni-rereKOmenDA n’YO ngayon?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "I want one rice and one drink.",
+      "filipino": "Isang kanin at isang inumin po, please.",
+      "transliteration": "I-SANG kaNIN at I-SANG iNUmin po, please.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "No spice for me, please.",
+      "filipino": "Wag po akong dagdagan ng anghang.",
+      "transliteration": "WAG po aKONG da-DAGan ng anGHANG.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Can I get it to go?",
+      "filipino": "Puwede po ba, takeout na lang ito?",
+      "transliteration": "PUWede po ba, ta-keOUT na lang Ito?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Do you offer extra rice?",
+      "filipino": "May extra pa po ba kayong kanin?",
+      "transliteration": "May EX-tra pa po ba kayong kaNIN?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Wake up, grab water, then stretch.",
+      "filipino": "Gising, kumuha ng tubig, tapos mag-unat.",
+      "transliteration": "GISING, kumuha NG TUBIG, tapos MAG-UNAT.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Brush my teeth, every single morning.",
+      "filipino": "Nagsisipilyo ako araw-araw, tuwing umaga.",
+      "transliteration": "nAG-si-SI-PI-lyo aKo aRAw-raw, tuWING uMA-ga.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "I rinse, then wash my face.",
+      "filipino": "Hinihimas ko lang, saka hinuhugasan ang mukha ko.",
+      "transliteration": "hi-niHI-mas ko lang, SAka hi-nuHU-hasan aNG MU-kha ko.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Make coffee, listen to the news.",
+      "filipino": "Nagkakape ako, tapos nakikinig ng balita.",
+      "transliteration": "nag-ka-KA-pe aKo, tapos na-KI-kinig ng ba-LI-ta.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Eat breakfast, no rushing today.",
+      "filipino": "Kakain ako ng almusal, dahan-dahan lang ngayon.",
+      "transliteration": "KA-ka-in aKo ng al-MU-sal, daHAN-daHAN lang NGAY-on.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Pack my bag, double-check everything.",
+      "filipino": "Iniimpake ko ang bag ko, at tinitingnan ko ulit lahat.",
+      "transliteration": "i-EEm-PA-ke ko aNG bag ko, at ti-ni-TIN-gan ko uLIT lahat.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "I leave early to beat traffic.",
+      "filipino": "Maaga akong umaalis para iwas sa trapik.",
+      "transliteration": "MAA-ga aKONG uMA-a-lis para iwas sa tra-PIK.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Where is the ATM inside?",
+      "filipino": "Saan po ang ATM sa loob?",
+      "transliteration": "Saan po ang ATM sa LOOB?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "I need to check my balance.",
+      "filipino": "Kailangan kong tingnan ang balanse ko.",
+      "transliteration": "KE-sya NONG ting-NAN ang ba-LAN-se ko",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Can I withdraw cash now?",
+      "filipino": "Pwede po ba akong mag-withdraw ng cash ngayon?",
+      "transliteration": "PWE-deh po ba aKONG mag-with-DRAW ng CASH NGAY-ON?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Do you accept card payments?",
+      "filipino": "Tumatanggap ba kayo ng bayad sa card?",
+      "transliteration": "tuMA-tanggap ba KAY-o ng ba-YAD sa card?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "I want to deposit money today.",
+      "filipino": "Gusto ko pong magdeposit ngayon.",
+      "transliteration": "GU-sto ko pong mag-de-POS-it NGAY-ON",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "How much is the bank fee?",
+      "filipino": "Magkano po ang bayad sa bangko?",
+      "transliteration": "mag-KA-no po ang ba-YAD sa BAN-ko?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Can I transfer funds to this account?",
+      "filipino": "Pwede po bang maglipat ng pera sa account na ito?",
+      "transliteration": "PWE-deh po bang mag-LI-PAT ng PE-ra sa ac-COUNT na i-TO?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Is there a cheaper option?",
+      "filipino": "May mas mura ba?",
+      "transliteration": "maY mas MUra ba?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Can I get it on discount?",
+      "filipino": "Pwede ba itong i-discount?",
+      "transliteration": "PWede ba ito'ng i-disCOUNT?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Do you accept card or cash?",
+      "filipino": "Tumatanggap ba kayo ng card o cash?",
+      "transliteration": "tuMA-tanggaP ba KAyo ng CARD o CASH?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Is the price negotiable?",
+      "filipino": "Mapapag-usapan ba ang presyo?",
+      "transliteration": "ma-pa-pag-uSAn ba ang pre-SYO?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Is it on sale this week?",
+      "filipino": "May sale ba ngayong linggo?",
+      "transliteration": "maY SALE ba NAyong LINgo?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Does it come with warranty?",
+      "filipino": "May kasamang warranty ba?",
+      "transliteration": "may kaSAMang WARan-tee ba?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Where can I find the promo items?",
+      "filipino": "Saan ko mahahanap ang mga promo?",
+      "transliteration": "Saan ko ma-HANap ang mga PRO-mo?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Can you send that by email?",
+      "filipino": "Maaari mo bang i-send iyon sa email?",
+      "transliteration": "maaari mo bang i-SEND iyan sa EE-mail",
+      "category": "Work & Office",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "I’ll be in meetings all morning.",
+      "filipino": "Nasa mga meeting ako buong umaga.",
+      "transliteration": "nasa mga MEET-ing aKo BUONG UMA-ga",
+      "category": "Work & Office",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Let’s sync before the client call.",
+      "filipino": "Mag-sync muna tayo bago ang tawag sa kliyente.",
+      "transliteration": "mag-SYNC mu-na taYO BA-go ang TA-wag sa KLI-yen-te",
+      "category": "Work & Office",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "The printer jammed again, sorry.",
+      "filipino": "Nagsisiksikan ang printer, pasensya na ulit.",
+      "transliteration": "nag-si-SIK-si-kan ang PRIN-ter, paSEN-sya na u-lit",
+      "category": "Work & Office",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Could you print two copies for me?",
+      "filipino": "Pwede mo bang i-print ang dalawang kopya para sa akin?",
+      "transliteration": "PWE-de mo bang i-PRINT ang DA-lawang KO-pya pa-ra sa aKIN",
+      "category": "Work & Office",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "I need that document today, please.",
+      "filipino": "Kailangan ko iyon ngayon din, pakisuyo.",
+      "transliteration": "ki-nai-yan ga ko iyan NGAY-on din, pa-ki-SUYo",
+      "category": "Work & Office",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Where is the office supply cabinet?",
+      "filipino": "Nasaan ang cabinet ng mga gamit sa opisina?",
+      "transliteration": "na-SAA-an ang CAB-i-net ng mga GAM-it sa o-PIS-ina",
+      "category": "Work & Office",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Today, your effort still counts.",
+      "filipino": "Ngayong araw, bilang pa rin ang effort mo.",
+      "transliteration": "Ngayon ARAW, BILANG pa rin ang E-FORT mo.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Small wins can change your week.",
+      "filipino": "Kahit maliliit na tagumpay, puwedeng magbago ang buong linggo.",
+      "transliteration": "Kahit ma-LI-IT na TA-GUMPAY, PU-we-deNG maGBA-go ang BU-ong LIN-go.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Keep going, even when it's messy.",
+      "filipino": "Tuluy-tuloy ka lang, kahit magulo pa ang mga araw.",
+      "transliteration": "TULUY-tu-LOY ka lang, KAHIT maGU-lo pa ang mga ARAW.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Breathe first, then take the next step.",
+      "filipino": "Huminga ka muna, bago mo gawin ang susunod na hakbang.",
+      "transliteration": "HuMInga ka MU-na, BA-go mo gaWIN ang suSU-nod na HAKbang.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "You can start again, right now.",
+      "filipino": "Maaari kang magsimula ulit, ngayon din.",
+      "transliteration": "MAA-a-ri kang maGSI-mu-la U-LIT, NGAYON din.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Let your courage be louder than fear.",
+      "filipino": "Hayaang mas maging malakas ang tapang mo kaysa sa takot.",
+      "transliteration": "HaYAang mas maGIGING maLAKAS ang ta-PANG mo KAY-a sa TAKOT.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "One call can lift your mood.",
+      "filipino": "Minsan, isang tawag lang ay nakakaangat ng loob.",
+      "transliteration": "MIN-san, i-SA-ng TAWAG lang ay naKAA-aHAT ng LOOB.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Pause, feel your breath right now.",
+      "filipino": "Sandali, damhin ang paghinga mo ngayon.",
+      "transliteration": "SANDAli, DAMHIN ang PA-ghi-nga mo NGAY-on.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Relax your shoulders, soften your jaw.",
+      "filipino": "I-relaks ang balikat mo, pakinisin ang panga mo.",
+      "transliteration": "i-RELAKS ang baLIkat mo, paKI-nisin ang PANga mo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Check your thoughts, are they helpful?",
+      "filipino": "Suriin mo ang mga iniisip mo, nakatutulong ba?",
+      "transliteration": "suRIN mo ang mga iNIi-sip mo, naKA-tu-tULONG ba?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Look around, notice five small details.",
+      "filipino": "Tumingin sa paligid, pansinin ang limang maliliit na detalye.",
+      "transliteration": "tuMINg in sa paLIRan, paNSI-nin ang LIMang ma-lilIit na de-taLYE.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Breathe in calm, breathe out tension.",
+      "filipino": "Huminga ng kalmado, huminga ng bitiw na tensyon.",
+      "transliteration": "huMIhinga ng kalMAdo, huMIhinga ng BItiw na TENsyon.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Before you reply, take one quiet breath.",
+      "filipino": "Bago ka sumagot, kumuha ng isang tahimik na paghinga.",
+      "transliteration": "baGO ka suMAsagot, kuMUA ng iSANG taHiMIK na pagHInga.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Say, I’m here, not in the past.",
+      "filipino": "Sabihin mo, narito ako, hindi sa nakaraan.",
+      "transliteration": "saBIhin mo, naRIto aKO, hinDI sa na-kaRAan.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "You’ve got this, keep going.",
+      "filipino": "Kaya mo iyan, tuloy lang.",
+      "transliteration": "KAYA mo iyan, TULoy lang.",
+      "category": "Success",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Celebrate small wins today, seriously.",
+      "filipino": "Idiwang mo muna ang maliliit na tagumpay ngayon.",
+      "transliteration": "I-diWANG mo MUNA ang maLIIT na TA-gumpay NGAYon.",
+      "category": "Success",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Hard work pays off, trust it.",
+      "filipino": "Pinagpapala ang pagsisikap, magtiwala ka.",
+      "transliteration": "pi-nag-pa-PALa ang pag-siSIKAP, mag-ti-TIwa ka.",
+      "category": "Success",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Make a plan, then act fast.",
+      "filipino": "Gumawa ka ng plano, tapos kumilos ka agad.",
+      "transliteration": "guMAwa ka ng PLAno, ta-pos kuMIlos ka a-GAD.",
+      "category": "Success",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "One step at a time, progress matters.",
+      "filipino": "Dahan-dahan lang, mahalaga ang pagsulong.",
+      "transliteration": "DAhan DAhan lang, maHAlaga ang pag-suLONG.",
+      "category": "Success",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Today’s practice builds tomorrow’s success.",
+      "filipino": "Ang pagsasanay ngayon, nagbibigay ng tagumpay bukas.",
+      "transliteration": "ang pag-sa-SANAY NGAYon, bi-biGAY ng TA-gumpay BU kas.",
+      "category": "Success",
+      "generated_at": "2026-11-14T10:57:58.761556"
+    },
+    {
+      "english": "Your effort is seen, don’t doubt.",
+      "filipino": "Nakikita ang pagsisikap mo, huwag kang mag-alinlangan.",
+      "transliteration": "naKIkiTA ang pag-siSIKAP mo, HUwag kang mag-aLINlangan.",
+      "category": "Success",
+      "generated_at": "2026-11-14T10:57:58.761556"
     }
   ],
-  "last_updated": "2026-11-13T11:34:18.776140"
+  "last_updated": "2026-11-14T10:57:58.761556"
 }
