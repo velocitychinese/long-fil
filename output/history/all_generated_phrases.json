@@ -19175,7 +19175,399 @@
       "transliteration": "Su-si-si-mi-BA ang ka-pa-YA-pa-an ka-pag hu-HU-hinto a-ko sa pag-ma-MA-da-li.",
       "category": "Happiness",
       "generated_at": "2026-11-15T11:31:26.019814"
+    },
+    {
+      "english": "My heart is so light today.",
+      "filipino": "Ang gaan ng pakiramdam ng puso ko ngayon.",
+      "transliteration": "Ang gaAN ng pakiramdam ng puSO ko NGAYon.",
+      "category": "Joy",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "I’m smiling because of this moment.",
+      "filipino": "Ngumingiti ako dahil sa sandaling ito.",
+      "transliteration": "NguMiMiTi ako daHil sa sanDiLing iTO.",
+      "category": "Joy",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Hearing that song feels like home.",
+      "filipino": "Kapag naririnig ko ang kantang iyon, parang bahay.",
+      "transliteration": "KaPag naRIRinig ko ang kanTANG iYON, paRANG baHAY.",
+      "category": "Joy",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Thank you, I needed that laugh.",
+      "filipino": "Salamat, kailangan ko ’yung tawa na ’yan.",
+      "transliteration": "SaLAmat, kiNAilgan ko yung taWA na yan.",
+      "category": "Joy",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Good news always makes me brighter.",
+      "filipino": "Ang mabuting balita, lalo akong nag-iilaw.",
+      "transliteration": "Ang maBUting baLItA, laLo aKong nag-iILaw.",
+      "category": "Joy",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "We danced, and joy filled the room.",
+      "filipino": "Nag sayaw kami, at napuno ng kagalakan ang kuwarto.",
+      "transliteration": "Nag saYAW kaMI, at naPUno ng kaGAlaKan ang kwaRTo.",
+      "category": "Joy",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Today I choose joy, no matter what.",
+      "filipino": "Pipiliin ko ang kagalakan ngayon, kahit ano pa.",
+      "transliteration": "PiPiLIn ko ang kaGAlaKan NGAYon, kAHit aNO pa.",
+      "category": "Joy",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Family meals always bring us closer.",
+      "filipino": "Kapag magkakasama kaming kumakain, mas lalong lumalapit ang loob sa isa t isa.",
+      "transliteration": "Kapag MAGKAKASAMA kami KUMAKAIN, mas LALONG lUmaalapit ang LOOB sa isa't ISA.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Let’s make our home feel welcoming.",
+      "filipino": "Gawin nating mas maaliwalas at welcoming ang tahanan natin.",
+      "transliteration": "GAWin natin mas MAaliwalas at welcoming ang TAHanan natin.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "I love how we help each other daily.",
+      "filipino": "Gusto ko kung paano tayo nagbubuhat ng pasanin araw araw.",
+      "transliteration": "Gusto ko kung KUNG paano TAYO nagbUBUHAT ng pasanin ARaw araw.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Even small talks matter in our home.",
+      "filipino": "Kahit simpleng usapan lang, malaking bagay na sa loob ng bahay.",
+      "transliteration": "Kahit SIMpling usAPAN lang, MALaking BAGAY na sa LOOb ng bahay.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Home is where my worries can rest.",
+      "filipino": "Sa bahay, nagpapahinga ang mga alalahanin ko.",
+      "transliteration": "Sa BAHay, nagpapAHINGa ang mga aLALAhain ko.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "I miss you, come back when you can.",
+      "filipino": "Namimiss kita, umuwi ka kapag kaya mo.",
+      "transliteration": "NAmiMISS kita, uMUi ka KAPag kaya mo.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Our chores feel lighter when we share them.",
+      "filipino": "Lalong gumagaan ang mga gawaing-bahay kapag hinahati namin.",
+      "transliteration": "LAloNG gumGAAgan ang mga gawaingBAhay KAPag hinahati namin.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Thank you for checking in on me.",
+      "filipino": "Salamat sa pag-check in mo sa akin.",
+      "transliteration": "SALAMAT sa pag-CHek IN mo sa aKIN.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "I’m grateful you made time for me.",
+      "filipino": "Pasasalamat sa paglalaan mo ng oras para sa akin.",
+      "transliteration": "pa sa SA LAMAT sa pag-la-LAAn mo ng oRAS para sa aKIN.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Your patience helps me breathe easier.",
+      "filipino": "Ang pasensya mo, nakakatulong sa paghinga ko nang mas madali.",
+      "transliteration": "ang pa-SENya mo, naka-kaTULONG sa pag-HInga ko nang mas MAdaLI.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Thank you for being so consistent.",
+      "filipino": "Salamat sa pagiging consistent mo.",
+      "transliteration": "sa laMAT sa pagiging con SI-stent mo.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "I appreciate your calm, steady energy.",
+      "filipino": "Pinahahalagahan ko ang kalmado mong lakas ng loob.",
+      "transliteration": "pi-na-paHAla-gaHAN ko ang KALmaDO mong LAkas ng loob.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Thank you for speaking up kindly.",
+      "filipino": "Salamat sa pagsasalita mo nang may kabaitan.",
+      "transliteration": "sa laMAT sa pag-sa-SALi ta mo nang may ka BAItan.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Your help came through right when needed.",
+      "filipino": "Dumating ang tulong mo sa tamang oras.",
+      "transliteration": "DUma ti ang TUlong mo sa TA ming oRAS.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Be brave, even if you shake.",
+      "filipino": "Maging tapang, kahit nanginginig ka.",
+      "transliteration": "Maging TAPANG, kahit NANGINGINGIG ka.",
+      "category": "Courage",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Say it, then take the breath.",
+      "filipino": "Sabihin mo, tapos huminga ka.",
+      "transliteration": "SABIHIN mo, tapos HUMINGA ka.",
+      "category": "Courage",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Keep going, despite the awkwardness.",
+      "filipino": "Tuluy-tuloy ka, kahit awkward.",
+      "transliteration": "TULUY-TULOY ka, kahit AWKWARD.",
+      "category": "Courage",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Choose the hard right, not easy.",
+      "filipino": "Piliin ang mahirap na tama, hindi yung madali.",
+      "transliteration": "PILIHIN ang MAHIRAP na TAMA, hindi yung MADALI.",
+      "category": "Courage",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Apologize quickly, without defending.",
+      "filipino": "Humingi ng tawad agad, nang hindi nagtatanggol.",
+      "transliteration": "Humingi ng TAWAD agad, nang HINDI nagtatanggol.",
+      "category": "Courage",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Protect your peace, even if it costs.",
+      "filipino": "Ipaglaban ang kapayapaan mo, kahit may kapalit.",
+      "transliteration": "IPAGLABAN ang kapayapaan mo, kahit may KAPALIT.",
+      "category": "Courage",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Walk away, when you feel unsafe.",
+      "filipino": "Lumayo ka, kapag hindi ka ligtas.",
+      "transliteration": "Lumayo ka, kapag HINDI ka LIGTAS.",
+      "category": "Courage",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Choose what you will stand for.",
+      "filipino": "Piliin kung ano ang iyong paninindigan.",
+      "transliteration": "Pi-li-in kung a-no ang iy-ong pa-nin-di-gan.",
+      "category": "Purpose",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Make room for what’s meaningful.",
+      "filipino": "Bigyan ng espasyo ang mga bagay na makabuluhan.",
+      "transliteration": "Big-yan ng es-pa-syo ang mga ba-gay na ma-ka-bu-luh-an.",
+      "category": "Purpose",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Align your actions with your values.",
+      "filipino": "Itugma ang mga kilos mo sa iyong mga halaga.",
+      "transliteration": "I-tug-ma ang mga ki-los mo sa iy-ong mga ha-la-ga.",
+      "category": "Purpose",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "I want my time to matter.",
+      "filipino": "Gusto kong maging makabuluhan ang oras ko.",
+      "transliteration": "Gus-to kon-g ma-ging ma-ka-bu-luh-an ang o-ras ko.",
+      "category": "Purpose",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Right now, pick one clear intention.",
+      "filipino": "Ngayong araw na ito, pumili ng iisang malinaw na layunin.",
+      "transliteration": "Ngay-ong a-raw na i-to, pu-mi-li ng i-is-ang ma-li-naw na la-yi-uun.",
+      "category": "Purpose",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Do it for the long-term good.",
+      "filipino": "Gawin mo ito para sa pangmatagalang kabutihan.",
+      "transliteration": "Ga-win mo i-to pa-ra sa pang-ma-ta-ga-lang ka-bu-ti-han.",
+      "category": "Purpose",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Tell the truth about what you want.",
+      "filipino": "Sabihin ang totoo tungkol sa gusto mo.",
+      "transliteration": "Sa-bi-hin ang too-to-o tung-kol sa gus-to mo.",
+      "category": "Purpose",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Can I take you out this week?",
+      "filipino": "Pwede ba kitang yayaing lumabas ngayong linggo?",
+      "transliteration": "PWEde ba KItaNG YA-yi-aNG LU-mA-baas NGAY-oNG LING-go?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "I love your laugh, it’s contagious.",
+      "filipino": "Gusto ko yung tawa mo, nakakahawa.",
+      "transliteration": "GUsto ko YUNG TA-wa mo, na-ka-KHA-wa.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "I feel safe with you, really.",
+      "filipino": "Ramdam ko na safe ako sa piling mo, talaga.",
+      "transliteration": "RAmdam ko na SAFE a-ko sa PI-ling mo, TA-la-ga.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Let’s meet halfway, no stress.",
+      "filipino": "Tara, magkita tayo sa gitna, walang stress.",
+      "transliteration": "TARa, MAG-ki-ta ta-yo sa GIT-na, WALANG STRESS.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "I’m down, but tell me your pace.",
+      "filipino": "G naman ako, pero sabihin mo yung bilis mo.",
+      "transliteration": "G na MAN a-ko, PE-ro SA-bih-in mo yung BI-lis mo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "I want to know your boundaries.",
+      "filipino": "Gusto kong malaman ang mga boundary mo.",
+      "transliteration": "GUsto koNG maLAnin ang mga BOUND-a-ry mo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "You make ordinary days feel special.",
+      "filipino": "Ginagawang special ng araw-araw kapag kasama ka.",
+      "transliteration": "giNA-ga-waNG SPE-shal ng aRAW-aRAW ka-pag KA-sama ka.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Pause, then answer, not react.",
+      "filipino": "Huminga muna, saka sumagot, hindi mag-react.",
+      "transliteration": "HumINGga muNA, saKA saUMot, hinDi maG-REak.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Take your time, I’m listening.",
+      "filipino": "Maglaan ka ng oras, nandito lang ako.",
+      "transliteration": "maGLAAn ka ng O-RAS, NANdiTo lang aKO.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "You can slow down a bit.",
+      "filipino": "Pwede mong bagalan nang kaunti.",
+      "transliteration": "PWEde mong baGALan nang KaanTI.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Good things need room to grow.",
+      "filipino": "Kailangan ng espasyo ang magagandang bagay para lumago.",
+      "transliteration": "kaILanGAN ng ESpASyo ang maGAgaNDang baGAY paRA luMAgo.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "It’s okay to progress slowly.",
+      "filipino": "Okay lang, dahan-dahan tayong umusad.",
+      "transliteration": "O-kay lang, daHAN-daHAN taYong uMUSad.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Let your tempo match the moment.",
+      "filipino": "I-adjust mo ang bilis mo sa nangyayari.",
+      "transliteration": "i-aDJust mo ang BI-lis mo sa naNGYayari.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Wait, then try again gently.",
+      "filipino": "Maghintay ka muna, tapos subukan ulit nang mahinahon.",
+      "transliteration": "magHINtay ka muNA, taPOS suBUKan uLIT nang maHINaHON.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "I hear you, and I’m on board.",
+      "filipino": "Naririnig kita, at sumasama ako.",
+      "transliteration": "NaRIRinig ki ta, at suMAma a ko.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "You’re right, let’s do it this way.",
+      "filipino": "Tama ka, gawin natin sa ganitong paraan.",
+      "transliteration": "Ta ma ka, gaWIN natin sa ganITong pa ran.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "That makes sense to me, honestly.",
+      "filipino": "May katuturan iyon sa akin, honestly.",
+      "transliteration": "May kaTUTUran i ya on sa a kin, ONly.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "I agree with your plan, no doubt.",
+      "filipino": "Sang-ayon ako sa plano mo, walang duda.",
+      "transliteration": "San-GAyon a ko sa PLAno mo, wa LANG DUda.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Let’s not argue, I’m with you.",
+      "filipino": "Huwag na tayong magtalo, kasama kita.",
+      "transliteration": "HUwag na ta YONG magTAlo, kaSAMA ki ta.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "I’m convinced, that’s the right move.",
+      "filipino": "Naiintindihan ko na, tama iyon.",
+      "transliteration": "NaIINtiNDIhan ko na, ta ma i ya on.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "I think you’re correct, let’s go.",
+      "filipino": "Sa tingin ko tama ka, tara.",
+      "transliteration": "Sa TINGin ko ta ma ka, ta ra.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-16T12:05:51.594030"
     }
   ],
-  "last_updated": "2026-11-15T11:31:26.019814"
+  "last_updated": "2026-11-16T12:05:51.594030"
 }
