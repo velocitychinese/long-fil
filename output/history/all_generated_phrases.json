@@ -19567,7 +19567,399 @@
       "transliteration": "Sa TINGin ko ta ma ka, ta ra.",
       "category": "Agreeing & Disagreeing",
       "generated_at": "2026-11-16T12:05:51.594030"
+    },
+    {
+      "english": "Where do I check in, please?",
+      "filipino": "Saan po ako mag check in, pakiusap?",
+      "transliteration": "Saan po AKO mag CHECK in, pakiusap?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "How early should I arrive?",
+      "filipino": "Gaano po kahagaaga ko dapat dumating?",
+      "transliteration": "GAANO po KAAGAAGa ko dapat DUMATING?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "I’d like to upgrade my ticket.",
+      "filipino": "Gusto ko pong i-upgrade ang ticket ko.",
+      "transliteration": "GUSTo ko pong i-upGRADE ang TIcket ko.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "Do I need to pay excess baggage?",
+      "filipino": "Kailangan po ba akong magbayad ng excess baggage?",
+      "transliteration": "KAILANGAN po ba AKONG magBAYAD ng excess BAGgage?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "My phone says gate change, what now?",
+      "filipino": "Sinabi ng phone ko na nagbago ang gate, ano po ngayon?",
+      "transliteration": "siNABI ng phone KO na nagBAGO ang GATE, ANO po NGAYON?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "What time is boarding開始, exactly?",
+      "filipino": "Anong oras po ang boarding, eksakto?",
+      "transliteration": "ANOng ORAS po ang BOARDing, eksakto?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "Please help, I missed my connection.",
+      "filipino": "Tulong po, napalampas ko ang connecting flight ko.",
+      "transliteration": "TOulong po, naPALampas ko ang CONnecting FLIGHT ko.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "I soften my grip on control.",
+      "filipino": "Pinapalambot ko ang kapit ko sa kontrol.",
+      "transliteration": "pinaPALAMBOT ko ang kaPIT ko sa KONtrol.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "I come back to my body.",
+      "filipino": "Bumabalik ako sa katawan ko.",
+      "transliteration": "buMABAlik aKO sa KAtaWan ko.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "I can be patient, even now.",
+      "filipino": "Maaari akong maging mapagpasensya, kahit ngayon.",
+      "transliteration": "maaari aKONG maging maapagpaseNSYA, kahit NGAYon.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "I let silence answer my mind.",
+      "filipino": "Hayaang sumagot ang katahimikan sa isip ko.",
+      "transliteration": "haYaan ang suMAsagot ang kaTAHIMIKan sa iPIS ko.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "My pace is enough today.",
+      "filipino": "Sapat na ang bilis ko ngayon.",
+      "transliteration": "saPAT na ang biLIS ko NGAYon.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "I choose kindness toward myself first.",
+      "filipino": "Pinipili ko ang kabaitan para sa sarili ko muna.",
+      "transliteration": "piNIPILI ko ang kaBAITan para sa saRILI ko MUna.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "I welcome calm, not perfect.",
+      "filipino": "Tinatanggap ko ang kapayapaan, hindi ang pagiging perpekto.",
+      "transliteration": "tiNATANGGAP ko ang kaPAYAPaan, hindi ang pagiging perPEKto.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "Tonight, we celebrate together, right?",
+      "filipino": "Ngayong gabi, magdiriwang tayo nang sabay, ha?",
+      "transliteration": "Ngayong gabi, magdIDriwang tayo nang sabay, ha?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "Thanks for inviting me, I’m excited.",
+      "filipino": "Salamat sa pag-imbita sa akin, sobrang excited ako.",
+      "transliteration": "Salamat sa pag-iMBITA sa aKIN, sobrang eXCited ako.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "Is there a dress code for tonight?",
+      "filipino": "May dress code ba tayo ngayong gabi?",
+      "transliteration": "May dress code ba taYo ngaYong gabi?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "Let’s toast, to good things ahead.",
+      "filipino": "Mag-toast tayo, sa mga magagandang darating.",
+      "transliteration": "Mag-toast tayo, sa mga maGAgaandang darating.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "Where’s the dance floor, honestly?",
+      "filipino": "Nasaan ang dance floor, totoo lang?",
+      "transliteration": "NaSAan ang dance floor, totoo lang?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "I love the music, it’s keeping us moving.",
+      "filipino": "Gusto ko ang musika, pinapaandar tayo.",
+      "transliteration": "GUSTo ko ang muSIka, piNaaandar taYo.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "Can I help carry snacks to the table?",
+      "filipino": "Pwede ba akong tumulong magdala ng snacks sa mesa?",
+      "transliteration": "PWede ba aKong tuMULONG magDAla ng snacks sa meSA?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "Hi, nice to meet you, seriously.",
+      "filipino": "Hi, natutuwa akong makilala ka.",
+      "transliteration": "Hi, naTuuwa akóng maKILala ka.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "Good to see you again today.",
+      "filipino": "Magandang makita ka ulit ngayon.",
+      "transliteration": "MaGÁNdang maKiTa ka uLIT nguYON.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "I like your energy, it’s easy.",
+      "filipino": "Gusto ko ang vibe mo, nakakagaan.",
+      "transliteration": "GUSto ko ang viBE mo, nakakaGAan.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "What do you do for work?",
+      "filipino": "Ano ang trabaho mo?",
+      "transliteration": "ANo ang traBAho mo?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "You’re speaking so clearly, wow.",
+      "filipino": "Ang linaw mo magsalita, grabe.",
+      "transliteration": "Ang LI naw mo magSaLÍta, graBE.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "Do you prefer to be called by name?",
+      "filipino": "Paano mo gustong tawagin?",
+      "transliteration": "PÁaNo mo guSÍng taWÁgin?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "Thank you, I’m glad we crossed paths.",
+      "filipino": "Salamat, ikinatuwa kong nagtagpo tayo.",
+      "transliteration": "SaLÁmat, ikinaTÚwa kong nagTAGpo taYo.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "Small steps beat sudden motivation.",
+      "filipino": "Ang maliliit na hakbang, mas matibay sa biglang sigla.",
+      "transliteration": "Ang maliliit na HAKBANG, mas matibay sa BIGLANG sigla.",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "I choose progress over perfect.",
+      "filipino": "Pinipili ko ang progreso, hindi ang perpekto.",
+      "transliteration": "Pinipili ko ang PROGRESO, hindi ang PERPEKTO.",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "Show up, even for five minutes.",
+      "filipino": "Pumunta pa rin, kahit limang minuto lang.",
+      "transliteration": "PUMUNTA pa rin, kahit LIMANG MINUTO lang.",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "Today I do one brave task.",
+      "filipino": "Ngayong araw, gagawin ko ang isang tapang na gawain.",
+      "transliteration": "NGAYONG araw, GAGAWIN ko ang isang TAPANG na gawain.",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "My effort counts, even quietly.",
+      "filipino": "Ang effort ko ay mahalaga, kahit tahimik lang.",
+      "transliteration": "Ang EFORT ko ay MAHALAGA, kahit TAHIMIK lang.",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "Discipline is my real confidence.",
+      "filipino": "Ang disiplina ang tunay kong kumpiyansa.",
+      "transliteration": "Ang DISIPLINA ang tunay kong KUMPiYANSA.",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "Breathe first, then start.",
+      "filipino": "Huminga muna, saka magsimula.",
+      "transliteration": "HUMINGA muna, SAKA magsimula.",
+      "category": "Motivation",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "I think my fever is back.",
+      "filipino": "Sa palagay ko, bumalik na naman ang lagnat ko.",
+      "transliteration": "Sa palagay ko, ba-balik na naman ang laGnat ko.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "Do you have any spare wipes?",
+      "filipino": "May extra ba kayong wipes?",
+      "transliteration": "May ex-tra ba ka-yong wipes?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "Please sit down, breathe slowly.",
+      "filipino": "Upo ka muna, dahan-dahan lang huminga.",
+      "transliteration": "U-po ka mu-na, da-han-dahan lang hu-mi-nga.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "I feel my chest is tight.",
+      "filipino": "Pakiramdam ko, masikip ang dibdib ko.",
+      "transliteration": "Pa-kiraMdam ko, ma-si-p ang diBdib ko.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "Call my doctor, it’s urgent.",
+      "filipino": "Tawagan mo ang doktor ko, urgent ito.",
+      "transliteration": "Taa-wag-an mo ang dok-tor ko, ur-gent i-to.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "I need to check my blood sugar.",
+      "filipino": "Kailangan kong sukatin ang blood sugar ko.",
+      "transliteration": "Kailan-gan kong su-KAT-in ang blood SHU-gar ko.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "Is this allergic reaction spreading?",
+      "filipino": "Naiiwan ba, at kumakalat na ba ang allergy ko?",
+      "transliteration": "Naii-wan ba, at ku-ma-ka-lat na ba ang al-LER-ji ko?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "I’m saving time with this route.",
+      "filipino": "Naiipon ko ang oras sa rutang ito.",
+      "transliteration": "Naiiipon ko ang ORAS sa RUTAng ito.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "Where should I tap my card?",
+      "filipino": "Saan ko ba ito ipapa-tap na card?",
+      "transliteration": "SaAN ko ba iTO ipapa-TAP na CARD?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "Is there space for my bag?",
+      "filipino": "May lugar ba para sa bag ko?",
+      "transliteration": "May LUgar ba para sa BAG ko?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "I’ll stand here, near the door.",
+      "filipino": "Dito na lang ako tatayo, malapit sa pinto.",
+      "transliteration": "Dito na LANG aKO taTTAyo, maLApit sa PINto.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "Next stop is mine, I think.",
+      "filipino": "Yung susunod na hintuan, akin na yata.",
+      "transliteration": "Yung suSUNod na HINtuan, aKIN na yaTA.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "How long until the next bus?",
+      "filipino": "Gaano katagal bago dumating ang susunod na bus?",
+      "transliteration": "GAaNO kaTAgal baGO maDATING ang suSUNod na BUS?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "I’ll wait for the right platform.",
+      "filipino": "Hihintay ako sa tamang platform.",
+      "transliteration": "HiHINtay aKO sa TAMang PLAatFORM.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "How’s the heat in your area?",
+      "filipino": "Kumusta ang init sa lugar mo?",
+      "transliteration": "KU-mus-ta ang INIT sa LU-ar mo?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "Did you hear that thunder earlier?",
+      "filipino": "Narinig mo ba yung kulog kanina?",
+      "transliteration": "na-RI-gim mo ba yung KU-log ka-NI-na?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "Looks like rain might start soon.",
+      "filipino": "Mukhang uulan pa simula mamaya.",
+      "transliteration": "MU-khang UU-lan pa si-MU-la ma-MA-ya.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "I’m going out, but staying alert.",
+      "filipino": "Lalabas ako, pero mag-aalerto ako.",
+      "transliteration": "la-LA-bas a-ko, PE-ro ma-ga-AL-er-to a-ko.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "The breeze feels so calming right now.",
+      "filipino": "Napaka-relax ng hangin ngayon.",
+      "transliteration": "na-pa-ka-re-LAX ng HAN-gin NGAY-on.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "Is the air getting cooler yet?",
+      "filipino": "Lumalamig na ba ang hangin?",
+      "transliteration": "lu-la-la-MIG na ba ang HAN-gin?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-17T12:30:24.181563"
+    },
+    {
+      "english": "Sunlight is nice, but sunscreen please.",
+      "filipino": "Maganda ang sikat ng araw, pero mag-sunscreen ka.",
+      "transliteration": "MA-gaNDA ang SI-kat ng a-RAW, PE-ro mag SUN-screen ka.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-17T12:30:24.181563"
     }
   ],
-  "last_updated": "2026-11-16T12:05:51.594030"
+  "last_updated": "2026-11-17T12:30:24.181563"
 }
