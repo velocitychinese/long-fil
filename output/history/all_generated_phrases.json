@@ -21527,7 +21527,399 @@
       "transliteration": "ngaYONG aRAW, mas maBAIT ako sa saRILi kong mga paGkaKAmaLI",
       "category": "Happiness",
       "generated_at": "2026-11-22T12:01:02.289321"
+    },
+    {
+      "english": "I feel small, but not hopeless.",
+      "filipino": "Kumakapal ang takot, pero hindi ako nawawalan ng pag-asa.",
+      "transliteration": "Kumakapal ang TAKOT, pero HINDI ako nawawalan ng pag-asa.",
+      "category": "Hope",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "There’s a sunrise after this.",
+      "filipino": "May pagsikat pa sa kabila ng gabing ito.",
+      "transliteration": "May pagSIKAT pa sa kabila ng GA BING i to.",
+      "category": "Hope",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "Let’s try again, gently.",
+      "filipino": "Subukan natin ulit, dahan-dahan lang.",
+      "transliteration": "SU b u kin natin U li t, da han da han lang.",
+      "category": "Hope",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "My plans are still alive.",
+      "filipino": "Buhay pa rin ang plano ko.",
+      "transliteration": "Buhay PA rin ang PLA no ko.",
+      "category": "Hope",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "We can rebuild, bit by bit.",
+      "filipino": "Maaayos pa ulit, piraso-piraso.",
+      "transliteration": "MAA a yos pa U lit, pi ra so pi ra so.",
+      "category": "Hope",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "Today hurts, but meaning is coming.",
+      "filipino": "Masakit ngayon, pero darating ang saysay.",
+      "transliteration": "Ma SA kit NGAY on, pero da ra ting ang s a y say.",
+      "category": "Hope",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "I’m not done hoping yet.",
+      "filipino": "Hindi pa tapos ang pag-asa ko.",
+      "transliteration": "HIN di pa ta pos ang pag-asa ko.",
+      "category": "Hope",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "I celebrate progress, even quietly.",
+      "filipino": "Ipinagdiriwang ko ang pag-unlad, kahit tahimik.",
+      "transliteration": "iNipagdiriwan gKO ang pag-unLAd, kAHit taHimik.",
+      "category": "Growth",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "I learn one new word daily.",
+      "filipino": "Natuto ako ng isang bagong salita araw-araw.",
+      "transliteration": "naTUto aKO ng iSANG baGONG saLItA aRAW-aRAW.",
+      "category": "Growth",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "I ask for feedback without fear.",
+      "filipino": "Humihingi ako ng feedback nang walang takot.",
+      "transliteration": "huMIhingi aKO ng feeDbaCK naNG waLaNG taKOT.",
+      "category": "Growth",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "I turn problems into next steps.",
+      "filipino": "Ginugunaw ko ang problema para sa susunod na hakbang.",
+      "transliteration": "giNUgu naW ko ang proBLEMA paRa sa suSUnod na HAKbang.",
+      "category": "Growth",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "I practice saying it slower.",
+      "filipino": "Iniipon ko ang tulin, dahan-dahan kong sinasabi.",
+      "transliteration": "ini-iPON ko ang tuLIN, daHAN-daHAN kong siNASAbi.",
+      "category": "Growth",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "I keep promises to myself.",
+      "filipino": "Tinutupad ko ang mga pangako ko sa sarili.",
+      "transliteration": "tiNUTUPad ko ang mga paNGaKO ko sa saRILi.",
+      "category": "Growth",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "I rewrite my plan when needed.",
+      "filipino": "Inaayos ko ulit ang plano kapag kailangan.",
+      "transliteration": "iNAaayos ko uLIT ang plaNO kaPag KEKailangan.",
+      "category": "Growth",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "Joy is showing up in small ways",
+      "filipino": "Ang kagalakan ay dumarating sa maliliit na paraan",
+      "transliteration": "Ang kaGALAKAn ay duMARAating sa maLILiT na PAANan",
+      "category": "Joy",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "My grin keeps surprising me today",
+      "filipino": "Nagtatagal ang ngiti ko, at ako rin ang nagtataka",
+      "transliteration": "NAgtataGAL ang ngiti KO, at aKO rin ang nagTAtaKA",
+      "category": "Joy",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "I feel lighter when I breathe slower",
+      "filipino": "Mas gumagaan ang pakiramdam ko kapag mas dahan-dahan akong humihinga",
+      "transliteration": "Mas гуMAgaAN ang pakiramdam ko kaPAG mas DAhaN-dAhaN aKong huMIhinga",
+      "category": "Joy",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "This afternoon tastes like happiness",
+      "filipino": "Ang hapong ito ay may lasa ng tuwa",
+      "transliteration": "Ang haPONG iTO ay may LAsa ng TUwa",
+      "category": "Joy",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "I’m proud of myself for trying",
+      "filipino": "Ipinagmamalaki ko ang sarili ko, sa pag-try ko pa rin",
+      "transliteration": "iPInagmaMAtaki ko ang saRILI ko, sa pag-TRY ko pa RIN",
+      "category": "Joy",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "Even chores can feel joyful",
+      "filipino": "Kahit ang mga gawaing bahay, puwedeng maging masaya",
+      "transliteration": "KaHIT ang mga gaWAINg baHAY, PUwedeng maGInging maSAya",
+      "category": "Joy",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "I laughed hard, then I calmed down",
+      "filipino": "Tumawa ako nang malakas, tapos naging mahinahon ulit",
+      "transliteration": "tuMAwa aKO nang maLAkas, taPOS naging maHINahon uLIT",
+      "category": "Joy",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "Take it slow, you’re learning.",
+      "filipino": "Dahan-dahan lang, natututo ka pa.",
+      "transliteration": "DAHAn-dahan lang, NA-tu-tu-to ka pa.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "Let your breathing reset your mind.",
+      "filipino": "Hayaang mag-reset ang paghinga ng isip mo.",
+      "transliteration": "HA-yaang mag-RE-set ang pag-HEA-hinga ng IS-ip mo.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "Delay the reply, choose kindness.",
+      "filipino": "Ipagpaliban ang sagot, piliin ang kabaitan.",
+      "transliteration": "iPAG-paLI-ban ang SAGOT, pi-LI-in ang ka-BAI-tan.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "Give yourself time to cool down.",
+      "filipino": "Bigyan mo ang sarili mo ng oras para lumamig.",
+      "transliteration": "BI-GYAN mo ang SA-rili mo ng O-ras pa-ra lu-MAM-ig.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "You can pause, then continue calmly.",
+      "filipino": "Pwede kang huminto muna, tapos ituloy nang mahinahon.",
+      "transliteration": "PUWE-de kang huMIN-to MU-na, ta-POS i-tu-loy nang ma-HI-nu-hon.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "When stuck, ask for one small step.",
+      "filipino": "Kapag nabara, humingi ng isang maliit na hakbang.",
+      "transliteration": "ka-PAG na-BARa, hu-MIN-gi ng i-SANG ma-LIT na HAK-bang.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "Practice patience with your own progress.",
+      "filipino": "Magsanay ng pasensya sa sarili mong pag-unlad.",
+      "transliteration": "maG-sa-NAY ng pa-SEN-si-ya sa SA-rili mong pag-UNLAD.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "Can I hold your hand tonight?",
+      "filipino": "Pwede ba kitang hawakan sa kamay ngayong gabi?",
+      "transliteration": "Pwede ba kIta hawakan sa KAMAy ngayong gabi?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "I missed your voice today.",
+      "filipino": "Namimiss ko ang boses mo ngayon.",
+      "transliteration": "NaMIMiss ko ang BOses mo NGayon.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "Tell me what made you smile.",
+      "filipino": "Sabihin mo sa akin, ano ang nagpatawa sa'yo?",
+      "transliteration": "SaBIhin mo sa aKIN, aNO ang nagpaTAwa sa'YO?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "I like your vibe, honestly.",
+      "filipino": "Gusto ko yung aura mo, tapat.",
+      "transliteration": "GUS to ko yung auRA mo, TApat.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "Let’s plan something simple this weekend.",
+      "filipino": "Magplano tayo ng simple ngayong weekend.",
+      "transliteration": "MagplaNO taYo ng SIMple NGayon weekend.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "I want to know your love language.",
+      "filipino": "Gusto kong malaman ang love language mo.",
+      "transliteration": "GUS to kong malAYan ang love LANguage mo.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "How do you like being appreciated?",
+      "filipino": "Paano mo gustong ma-appreciate?",
+      "transliteration": "PAano mo gusTONG ma a-PRISHyayt?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "Thank you for being in my corner.",
+      "filipino": "Salamat dahil nasa tabi ka sa akin.",
+      "transliteration": "salamat DAHIL NA sa TABI ka sa AKIN",
+      "category": "Gratitude",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "I appreciate your steady encouragement today.",
+      "filipino": "Pinahahalagahan ko ang iyong matatag na pagpapatibay ngayon.",
+      "transliteration": "pina-haha- LAGA-an ko ang IYong ma-TA-tag na pag-pa-ti-BAY NGAY-on",
+      "category": "Gratitude",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "Your words helped me feel lighter.",
+      "filipino": "Nakatulong sa akin ang mga salita mo para gumaan ang loob ko.",
+      "transliteration": "na-ka-TULONG sa a-KIN ang mga SA-lita mo pa-ra gu-MA-an ang LOOB ko",
+      "category": "Gratitude",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "Thanks for showing up, truly.",
+      "filipino": "Salamat sa pagdating mo, talaga.",
+      "transliteration": "sa-la-MAT sa pag-DAT-ing mo, TA-la",
+      "category": "Gratitude",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "I’m grateful for your honest effort.",
+      "filipino": "Salamat sa tunay mong pagsisikap.",
+      "transliteration": "sa-la-MAT sa tu-nay mong pag-si-SIKap",
+      "category": "Gratitude",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "Thank you for the kindness you choose.",
+      "filipino": "Salamat sa kabaitang pinipili mo.",
+      "transliteration": "sa-la-MAT sa ka-BI-ha-ang pi-ni-PILI mo",
+      "category": "Gratitude",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "I feel seen, and I’m thankful.",
+      "filipino": "Naiintindihan mo ako, at nagpapasalamat ako.",
+      "transliteration": "nai-in-TIN-di-han mo a-KO, at na-ga-pa-sa-la-MAT a-KO",
+      "category": "Gratitude",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "We make room for everyone here.",
+      "filipino": "Naglalaan tayo ng puwang para sa bawat isa dito.",
+      "transliteration": "NAglalAAan tayo ng PUWang para sa BAWAT isa DITO.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "Can we eat together tonight, please?",
+      "filipino": "Pwede ba tayong kumain nang sama ngayong gabi, please?",
+      "transliteration": "PUWede ba TAYong KUmain nang sama NGAyong GABI, please?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "I love our Sunday coffee talks.",
+      "filipino": "Gustung-gusto ko ang mga kwentuhan nating kape tuwing Linggo.",
+      "transliteration": "GusTUNG-gusTO ko ang mga kwenTuhAN natin KAPE TUwing LINgo.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "Thank you for listening without judgment.",
+      "filipino": "Salamat sa pakikinig nang walang paghuhusga.",
+      "transliteration": "saLAMat sa pakIKI nig nang WALang pagHUHUSga.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "Let me help with the dishes.",
+      "filipino": "Tulong ako sa paghuhugas ng mga pinggan.",
+      "transliteration": "TUlong aKO sa pagHUHugas ng mga PINGgan.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "We laugh, even when things are tough.",
+      "filipino": "Natututong tayo magtawanan, kahit mahirap ang araw.",
+      "transliteration": "NA tuTUTong tayo magTAwaAN, KAHit maHIRap ang ARAW.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "Your home smells like comfort.",
+      "filipino": "Ang amoy ng tahanan mo ay parang ginhawa.",
+      "transliteration": "Ang AMOy ng taHANan mo ay PARang ginHAwa.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "Speak up, even with shaky courage.",
+      "filipino": "Magsalita ka, kahit nanginginig ang tapang mo.",
+      "transliteration": "MaGSALiTa ka, KAHIT naNAnGIgiNG ang TAapang mo.",
+      "category": "Courage",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "Turn fear into fuel, right now.",
+      "filipino": "Gawing gasolina ang takot, ngayon din.",
+      "transliteration": "GAwinG GAsina ang takot, NGAYon din.",
+      "category": "Courage",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "Ask for what you need, bravely.",
+      "filipino": "Humingi ka ng kailangan mo, nang may tapang.",
+      "transliteration": "HuMINGi ka ng KAilangan mo, nang may TAapang.",
+      "category": "Courage",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "Take the first step, not the whole plan.",
+      "filipino": "Unang hakbang muna, hindi buo agad ang plano.",
+      "transliteration": "U NANG haKBAK muna, HINDI buo agad ang PLAno.",
+      "category": "Courage",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "Say no without explaining your soul.",
+      "filipino": "Mag-No ka nang hindi mo pinapaliwanag ang sarili mo.",
+      "transliteration": "MaG-No ka nang HINDI mo piNaPAliwanag ang saRILi mo.",
+      "category": "Courage",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "Choose honest action over perfect words.",
+      "filipino": "Pumili ng tapat na gawa, kaysa perpektong salita.",
+      "transliteration": "PuMILI ng TApat na GAAwa, kaSA kaPERpekTONG saLITA.",
+      "category": "Courage",
+      "generated_at": "2026-11-23T13:41:36.794014"
+    },
+    {
+      "english": "Stay kind, even when you feel threatened.",
+      "filipino": "Manatiling mabait, kahit may banta sa loob mo.",
+      "transliteration": "maNATILi ng maBAIT, KAHIT may BANta sa LOob mo.",
+      "category": "Courage",
+      "generated_at": "2026-11-23T13:41:36.794014"
     }
   ],
-  "last_updated": "2026-11-22T12:01:02.289321"
+  "last_updated": "2026-11-23T13:41:36.794014"
 }
