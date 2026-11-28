@@ -23487,7 +23487,399 @@
       "transliteration": "KA-sma ba sa PRE-syo ang tax?",
       "category": "Shopping & Prices",
       "generated_at": "2026-11-27T13:08:22.909411"
+    },
+    {
+      "english": "You make my days feel lighter",
+      "filipino": "Ginagaan mo ang pakiramdam ko sa mga araw.",
+      "transliteration": "GInagaan mo ang pakiramdam ko sa mga ARaw.",
+      "category": "Friendship",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "Thanks for always cheering me on",
+      "filipino": "Salamat sa palagi mong pagche-cheer sa akin.",
+      "transliteration": "saLAMAT sa paLIGI mong pagCHE-cheer sa AKIN.",
+      "category": "Friendship",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "I can count on your advice",
+      "filipino": "Sandigan ko ang payo mo kapag nalilito ako.",
+      "transliteration": "sanDIgan ko ang PAYo mo kaPAG naLILiTO aKO.",
+      "category": "Friendship",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "Let’s celebrate small wins together",
+      "filipino": "I-celebrate natin kahit maliliit na tagumpay, magkasama tayo.",
+      "transliteration": "i-ceLEbrate natin kaHIT maLIliit na taGumpay, magkaSAMA tayo.",
+      "category": "Friendship",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "You understand me without trying too hard",
+      "filipino": "Naiintindihan mo ako kahit hindi mo pinipilit.",
+      "transliteration": "naiiinTInDihan mo aKO kaHIT hINDI mo piNIPilit.",
+      "category": "Friendship",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "Next time, I’m bringing snacks",
+      "filipino": "Sa susunod, ako na ang magdadala ng snacks.",
+      "transliteration": "sa suSUNOD, aKO na ang magdadALA ng snacks.",
+      "category": "Friendship",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "You text back, that means a lot",
+      "filipino": "Kapag nagte-text ka pabalik, malaking bagay iyon.",
+      "transliteration": "kaPAG nagTE-text ka paBALik, maLAking baGAY iYAN.",
+      "category": "Friendship",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "Can you print it in color?",
+      "filipino": "Pwede mo itong i-print sa color?",
+      "transliteration": "Pwede MO itong i-PRINT sa COLOR?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "I need this signed today, please.",
+      "filipino": "Kailangan ko itong pirmahan ngayon, pakiusap.",
+      "transliteration": "Kailangan KO itong PIRMahan NGAYON, pakiusap.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "Where can I charge my laptop?",
+      "filipino": "Saan ako pwedeng mag-charge ng laptop ko?",
+      "transliteration": "Saan ako pwedeng mag-CHARGE ng LAPtop KO?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "Could you book a room for 4?",
+      "filipino": "Pwede mo bang i-book ang meeting room para sa apat?",
+      "transliteration": "Pwede mo bang i-BOOK ang MEETing ROOM para sa APAT?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "Please add me to the invite.",
+      "filipino": "Paki-add ako sa meeting invite.",
+      "transliteration": "Paki-ADD ako sa MEETing INvite.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "What time does the courier arrive?",
+      "filipino": "Anong oras darating ang courier?",
+      "transliteration": "ANong ORAS darating ang COURIER?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "I can’t access the shared drive.",
+      "filipino": "Hindi ako makapasok sa shared drive.",
+      "transliteration": "HINDI ako makapasok sa SHARED drive.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "Bring a small offering to the chapel.",
+      "filipino": "Magdala ng munting handog sa kapilya.",
+      "transliteration": "maGDala ng MUNting HANdog sa kaPILya",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "Invite everyone to the town fiesta mass.",
+      "filipino": "Anyayahan ang lahat sa misa ng pista.",
+      "transliteration": "aNYAyahan ang LAhat sa MIsa ng PIS ta",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "Hear the community drum before the procession.",
+      "filipino": "Makinig sa tugtog ng komunidad bago ang prusisyon.",
+      "transliteration": "maKI niG sa TUGtog ng koMUniDAD bago ang prusIsyon",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "Share blessings during the novena nights.",
+      "filipino": "Magbahagi ng mga biyaya sa mga gabing novena.",
+      "transliteration": "magbaHAGI ng mga biyA YA sa mga gaBING noVEna",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "Join the street procession, follow the candles.",
+      "filipino": "Sumama sa prusisyon sa kalsada, kasabay ang mga kandila.",
+      "transliteration": "suMAma sa prusIsyon sa kasAL da, kaSABay ang mga kanDI la",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "Ask elders to tell the family history.",
+      "filipino": "Tanungin ang mga nakatatanda, para ibahagi ang kasaysayan ng pamilya.",
+      "transliteration": "taNUNGin ang mga naKA taTA nda, pa ra iBAHagi ang kaSAy sayan ng PAmi liya",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "Bring fruits, then help set up the tables.",
+      "filipino": "Magdala ng prutas, tapos tumulong sa pag-aayos ng mga mesa.",
+      "transliteration": "maGDala ng Pru tas, taPOS tuMULong sa pag-aA YOS ng mga meSA",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "I make my bed, nice and neat.",
+      "filipino": "Ginagawâ ko ang kama, maayos at malinis.",
+      "transliteration": "Ginagawâ ko ang KAMA, maayos at MALINIS.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "I wash my hands before breakfast.",
+      "filipino": "Hugasan ko ang mga kamay bago mag-almusal.",
+      "transliteration": "Hugasan ko ang mga KAMAY bago mag-ALMUSAL.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "I check the weather, just in case.",
+      "filipino": "Tinitingnan ko ang panahon, just in case.",
+      "transliteration": "TINITINGNAN ko ang panahon, just in CASE.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "I drink a warm tea slowly.",
+      "filipino": "Dahan-dahan akong umiinom ng mainit na tsaa.",
+      "transliteration": "Dahan-dahan akong umiinom ng MAINIT na TSAA.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "I eat fruit for a lighter start.",
+      "filipino": "Kumakain ako ng prutas para mas magaan ang simula.",
+      "transliteration": "Kumakain ako ng PRUTAS para mas MAGAAN ang SIMULA.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "I take my vitamins with water.",
+      "filipino": "Iniimom ko ang vitamins ko, may kasamang tubig.",
+      "transliteration": "Iniimom ko ang VITAMINS ko, may kasamang TUBIG.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "I tie my shoelaces, tight and secure.",
+      "filipino": "Tinali ko ang sapatos ko, mahigpit at sigurâ.",
+      "transliteration": "Tinali ko ang SAPATOS ko, mahigpit at SIGURÂ.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "I feel homesick all of a sudden.",
+      "filipino": "Bigla akong naiinip sa bahay.",
+      "transliteration": "BIGLA akONG naiIINIP sa BAHAY.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "I’m frustrated with this delay.",
+      "filipino": "Naiirita ako sa sobrang tagal na ito.",
+      "transliteration": "naiiRITA ako sa SObrang taGAL na ito.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "I’m hurt by what you said.",
+      "filipino": "Nasaktan ako sa sinabi mo.",
+      "transliteration": "naSAktan ako sa siNAli mo.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "I’m scared, but I’ll try anyway.",
+      "filipino": "Natatakot ako, pero susubukan ko pa rin.",
+      "transliteration": "naTAtaKOT ako, peRO susuSUBukan ko pa rin.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "I feel jealous, I won’t lie.",
+      "filipino": "Seloso ako, totoo lang.",
+      "transliteration": "seLOso ako, TOToo lang.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "I feel awkward meeting your friends.",
+      "filipino": "Nahihiya ako kapag nakakasalamuha ko ang mga kaibigan mo.",
+      "transliteration": "NAhiHIya ako kaPAG naKAKA SAmluha ko ang MGA kaiBIgan mo.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "I’m touched by your honesty.",
+      "filipino": "Naiantig ako sa katapatan mo.",
+      "transliteration": "naiANtig ako sa kaTATapuan mo.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "I make room for joy today.",
+      "filipino": "Nagbibigay ako ng puwang sa saya ngayon.",
+      "transliteration": "NagBIbigay aKo ng PUwAng sa SAya NGAyon.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "I talk less, listen more, always.",
+      "filipino": "Nagsasalita muna ako nang kaunti, mas nakikinig.",
+      "transliteration": "NaGSASalita MUna aKo nang kaunTI, mas naKIkiNIG.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "I reset with a simple walk.",
+      "filipino": "Ibinabalik ko ang tibay sa simpleng lakad.",
+      "transliteration": "IbiNBAbalik KO ang TIbay sa simPLeNg laKAD.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "My next step is enough.",
+      "filipino": "Ang susunod kong hakbang ay sapat na.",
+      "transliteration": "Ang SUsunod kong hakBANG ay saPAT na.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "I choose honesty over winning.",
+      "filipino": "Pinipili ko ang katotohanan kaysa sa panalo.",
+      "transliteration": "PiNipiLI ko ang kaTOTohanan kaSÁ sa paNALo.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "I protect my energy, gently.",
+      "filipino": "Iniiingatan ko ang lakas ko, nang may pag-aalaga.",
+      "transliteration": "IniiINgaTan ko ang LAkas ko, nang may pag-aAlaGA.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "I let my body rest, no guilt.",
+      "filipino": "Pinapahinga ko ang katawan ko, walang konsensiya.",
+      "transliteration": "PiNAPaHinga ko ang kaTOWban ko, waLAng konSIENsy a.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "Is there a cheaper meal option?",
+      "filipino": "May mas mura ba na ulam o set?",
+      "transliteration": "may MAS mura ba na Ulam o set?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "I’d like it mild, not spicy.",
+      "filipino": "Gusto ko mild lang, hindi maanghang.",
+      "transliteration": "GUsTo ko MILD lang, HINdi maANgaNG",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "Can I see the price list?",
+      "filipino": "Pwede bang ipakita ang price list?",
+      "transliteration": "PWEde bang IPaKiTa ang PRICE list?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "I’ll take the chicken adobo.",
+      "filipino": "Kunin ko po yung chicken adobo.",
+      "transliteration": "KU-nin ko po yung CHICKen aDObo",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "Could I add an extra side?",
+      "filipino": "Maaari ba akong magdagdag ng extra side?",
+      "transliteration": "MAaari ba aKONG magdagDAG ng EXtra side?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "What’s the spinoff flavor of this?",
+      "filipino": "Ano po ang special na lasa nito?",
+      "transliteration": "ANo po ang SPEcial na LA sa niTO?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "How long before my food is ready?",
+      "filipino": "Gaano po katagal bago handa ang pagkain ko?",
+      "transliteration": "gaNOo po kaTAGal baGO HANda ang paGIin ko?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "I can do it my way.",
+      "filipino": "Kaya ko ito sa sarili kong paraan.",
+      "transliteration": "KAYA ko ito sa SAriLI kong paANan.",
+      "category": "Confidence",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "I deserve respect, starting now.",
+      "filipino": "Karapat-dapat ako sa respeto, simula ngayon.",
+      "transliteration": "KaRaPAT-dapat aKO sa reSPETO, SImula NGAYon.",
+      "category": "Confidence",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "I will not wait to feel ready.",
+      "filipino": "Hindi na ako maghihintay hanggang maging handa.",
+      "transliteration": "HINdi na aKO maghihINTAY hanGANG maGINg HANda.",
+      "category": "Confidence",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "I take up space, kindly.",
+      "filipino": "Kumukuha ako ng puwang, nang may kabaitan.",
+      "transliteration": "KuMUKuHA aKO ng PUwang, nang MAY kaBAiTan.",
+      "category": "Confidence",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "My confidence grows with every try.",
+      "filipino": "Lumalaki ang kumpiyansa ko sa bawat subok.",
+      "transliteration": "LuMAlaKi ang KUMPIYANsa ko sa BAWat SUbok.",
+      "category": "Confidence",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "I keep moving, even imperfectly.",
+      "filipino": "Tuluy-tuloy akong gagalaw, kahit hindi perpekto.",
+      "transliteration": "TuLUy-tuLoy aKONG gaGAlaw, KAHIT HINDI perPEKto.",
+      "category": "Confidence",
+      "generated_at": "2026-11-28T12:22:54.719340"
+    },
+    {
+      "english": "I can say no when needed.",
+      "filipino": "Marunong akong tumanggi kapag kailangan.",
+      "transliteration": "MaRUNong aKO tumanGGI kaPag KAILaNGan.",
+      "category": "Confidence",
+      "generated_at": "2026-11-28T12:22:54.719340"
     }
   ],
-  "last_updated": "2026-11-27T13:08:22.909411"
+  "last_updated": "2026-11-28T12:22:54.719340"
 }

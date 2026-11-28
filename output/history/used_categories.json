@@ -547,7 +547,39 @@
     {
       "category": "Shopping & Prices",
       "date": "2026-11-27"
+    },
+    {
+      "category": "Friendship",
+      "date": "2026-11-28"
+    },
+    {
+      "category": "Work & Office",
+      "date": "2026-11-28"
+    },
+    {
+      "category": "Cultural Traditions",
+      "date": "2026-11-28"
+    },
+    {
+      "category": "Daily Routine",
+      "date": "2026-11-28"
+    },
+    {
+      "category": "Feelings & Emotions",
+      "date": "2026-11-28"
+    },
+    {
+      "category": "Positive Life",
+      "date": "2026-11-28"
+    },
+    {
+      "category": "Ordering Food & Dining",
+      "date": "2026-11-28"
+    },
+    {
+      "category": "Confidence",
+      "date": "2026-11-28"
     }
   ],
-  "last_updated": "2026-11-27T13:08:22.922347"
+  "last_updated": "2026-11-28T12:22:54.734835"
 }
